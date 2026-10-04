@@ -1,0 +1,502 @@
+[
+ {
+  "id": "beyaz-peynir-kavun",
+  "ad": "Beyaz peynir ve kavun",
+  "tur": "peynir",
+  "bolge": "İstanbul / tüm Türkiye",
+  "icerik": "tam yağlı beyaz peynir, olgun kavun",
+  "neden": "Tuzlu peynirle tatlı kavun anasonun ferahlığını dengeler ve sofranın ilk kadehini hazırlar.",
+  "hikaye": "Rakı sofrasının 'olmazsa olmaz' açılışı; kavun mevsiminde sofraya ilk gelen tabaktır.",
+  "mevsim": "yaz (peynir tüm yıl)"
+ },
+ {
+  "id": "haydari",
+  "ad": "Haydari",
+  "tur": "soguk",
+  "bolge": "İstanbul / Ege",
+  "icerik": "süzme yoğurt, beyaz peynir, sarımsak, dereotu, nane, zeytinyağı",
+  "neden": "Serin ve hafif ekşi yoğurt, rakının anasonlu sıcaklığını yumuşatır.",
+  "hikaye": "",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "fava",
+  "ad": "Fava",
+  "tur": "soguk",
+  "bolge": "Ege / Girit göçmenleri",
+  "icerik": "kuru bakla püresi, zeytinyağı, soğan, dereotu, limon",
+  "neden": "Kadifemsi doku ve zeytinyağı damakta kalıcı bir zemin oluşturur, anasonla uyumludur.",
+  "hikaye": "Ege ve Adalar mutfağında yaygın; Rum ve Girit mutfağıyla ortak bir meze.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "saksuka",
+  "ad": "Şakşuka",
+  "tur": "soguk",
+  "bolge": "İstanbul / Ege",
+  "icerik": "kızarmış patlıcan, kabak, biber, domates sosu, sarımsak",
+  "neden": "Kızartmanın tatlılığı ile sarımsaklı domates, rakının keskinliğine karşı tok bir eşlikçi olur.",
+  "hikaye": "",
+  "mevsim": "yaz"
+ },
+ {
+  "id": "acili-ezme",
+  "ad": "Acılı ezme",
+  "tur": "soguk",
+  "bolge": "Güneydoğu / Adana-Antep",
+  "icerik": "domates, sivri biber, soğan, maydanoz, nar ekşisi, pul biber",
+  "neden": "Acı ve ekşi tat rakının serinliğiyle karşılaşınca damağı tazeler.",
+  "hikaye": "Kebapçı ve ocakbaşı sofralarından meyhane menüsüne geçmiştir.",
+  "mevsim": "yaz (tüm yıl yapılır)"
+ },
+ {
+  "id": "humus",
+  "ad": "Humus",
+  "tur": "soguk",
+  "bolge": "Güney / Hatay-Adana",
+  "icerik": "nohut, tahin, limon, sarımsak, kimyon, zeytinyağı",
+  "neden": "Tahinin yağlı yapısı alkolün etkisini yumuşatır, anasonla aromatik uyum gösterir.",
+  "hikaye": "Doğu Akdeniz ve Levant mutfağının ortak mezesi.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "topik",
+  "ad": "Topik",
+  "tur": "soguk",
+  "bolge": "İstanbul / Ermeni mutfağı",
+  "icerik": "nohut, patates, bol soğan, tahin, tarçın, kuş üzümü, çam fıstığı",
+  "neden": "Tatlımsı ve baharatlı yapısı anasonla şaşırtıcı bir uyum yakalar.",
+  "hikaye": "İstanbul Ermeni mutfağından, geleneksel olarak perhiz dönemlerinin yemeği; Kumkapı-Samatya meyhanelerinin klasiklerindendir.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "lakerda",
+  "ad": "Lakerda",
+  "tur": "deniz",
+  "bolge": "İstanbul",
+  "icerik": "tuzlanmış torik (iri palamut), kırmızı soğan, zeytinyağı",
+  "neden": "Yağlı ve tuzlu balık, rakının en klasik eşlikçisidir; anason yağı keser.",
+  "hikaye": "Bizans döneminden beri İstanbul'da yapılan tuzlu balık geleneğinin sürdürücüsü; adı Rumcadan gelir.",
+  "mevsim": "sonbahar-kış (palamut/torik mevsiminde hazırlanır, tüm yıl tüketilir)"
+ },
+ {
+  "id": "ciroz",
+  "ad": "Çiroz",
+  "tur": "deniz",
+  "bolge": "İstanbul",
+  "icerik": "kurutulmuş uskumru, sirke, zeytinyağı, dereotu",
+  "neden": "Kuru, tuzlu ve sirkeli tadı rakıyla birlikte iştah açar.",
+  "hikaye": "Yumurtasını bırakıp zayıflamış uskumrunun bahar sonunda kurutulmasıyla yapılan eski İstanbul mezesi.",
+  "mevsim": "bahar-yaz"
+ },
+ {
+  "id": "midye-dolma",
+  "ad": "Midye dolma",
+  "tur": "deniz",
+  "bolge": "İstanbul / Ermeni ve Rum mutfakları",
+  "icerik": "midye, iç pilav, soğan, çam fıstığı, kuş üzümü, tarçın, yenibahar",
+  "neden": "Baharatlı iç pilav ve limon, anasonun aromasıyla güzel tamamlanır.",
+  "hikaye": "İstanbul'un sokak ve meyhane klasiği; Mardinli seyyar satıcılarla da özdeşleşmiştir.",
+  "mevsim": "tüm yıl (en iyisi soğuk aylarda)"
+ },
+ {
+  "id": "kalamar-tava",
+  "ad": "Kalamar tava",
+  "tur": "ara-sicak",
+  "bolge": "İstanbul / Ege",
+  "icerik": "kalamar halkaları, un veya bira hamuru, tarator sos",
+  "neden": "Çıtır kızartma ve taratorun sarımsağı rakının ferahlığıyla dengelenir.",
+  "hikaye": "",
+  "mevsim": "tüm yıl (en iyi kış-bahar)"
+ },
+ {
+  "id": "ahtapot-salatasi",
+  "ad": "Ahtapot salatası",
+  "tur": "deniz",
+  "bolge": "Ege",
+  "icerik": "haşlanmış ahtapot, zeytinyağı, limon, sirke, maydanoz, kapya biber",
+  "neden": "Limonlu, zeytinyağlı deniz ürünü anasonun aromasını öne çıkarır.",
+  "hikaye": "Ege adaları ve kıyı kasabalarının klasik mezesi.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "deniz-borulcesi",
+  "ad": "Deniz börülcesi",
+  "tur": "salata",
+  "bolge": "Ege",
+  "icerik": "deniz börülcesi (salicornia), sarımsak, zeytinyağı, limon",
+  "neden": "Doğal tuzlu ve iyotlu tadı rakıyla denizi sofraya getirir.",
+  "hikaye": "Ege kıyılarında tuzlu bataklıklarda yetişen ot; zeytinyağlı meze olarak yaygınlaşmıştır.",
+  "mevsim": "ilkbahar-yaz"
+ },
+ {
+  "id": "imam-bayildi",
+  "ad": "İmam bayıldı",
+  "tur": "soguk",
+  "bolge": "İstanbul / Osmanlı mutfağı",
+  "icerik": "patlıcan, bol soğan, domates, sarımsak, zeytinyağı",
+  "neden": "Zeytinyağlı, tatlımsı soğanlı patlıcan, rakının anason notasıyla yumuşak bir uyum yakalar.",
+  "hikaye": "Osmanlı saray ve konak mutfağından gelen zeytinyağlı; adının hikâyesi halk anlatısıdır.",
+  "mevsim": "yaz"
+ },
+ {
+  "id": "patlican-salatasi",
+  "ad": "Közlenmiş patlıcan salatası",
+  "tur": "salata",
+  "bolge": "İstanbul / tüm Türkiye",
+  "icerik": "közlenmiş patlıcan, sarımsak, zeytinyağı, sirke ya da yoğurt",
+  "neden": "Közün isli tadı anasonun aromasıyla klasik bir meyhane eşleşmesidir.",
+  "hikaye": "",
+  "mevsim": "yaz-sonbahar"
+ },
+ {
+  "id": "atom",
+  "ad": "Atom",
+  "tur": "soguk",
+  "bolge": "İstanbul / Ege",
+  "icerik": "süzme yoğurt, kurutulmuş acı biber, tereyağı",
+  "neden": "Yoğurdun serinliğiyle kurutulmuş biberin acısı rakıyla birlikte dengelenir.",
+  "hikaye": "Görece yeni bir meyhane mezesi; adını acılığının 'patlayıcı' etkisinden aldığı söylenir.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "girit-ezmesi",
+  "ad": "Girit ezmesi",
+  "tur": "soguk",
+  "bolge": "Ege / Girit göçmenleri",
+  "icerik": "beyaz peynir veya lor, ceviz, fesleğen ya da dereotu, sarımsak, zeytinyağı",
+  "neden": "Peynirin tuzu ve otların ferahlığı rakının en sevilen eşlikçilerindendir.",
+  "hikaye": "Ege'ye yerleşen Girit göçmenlerinin mutfağıyla anılır; Ayvalık ve Cunda'da yaygındır.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "muhammara",
+  "ad": "Muhammara",
+  "tur": "soguk",
+  "bolge": "Güneydoğu / Antep-Hatay (Halep etkisi)",
+  "icerik": "közlenmiş kırmızı biber veya biber salçası, ceviz, galeta, nar ekşisi, kimyon",
+  "neden": "Cevizin yağı ve nar ekşisinin ekşiliği rakıyla tatlı-ekşi bir dengeye ulaşır.",
+  "hikaye": "Adı Arapça 'kızartılmış/kızıl' kökünden gelir; Halep mutfağıyla bağlantılıdır.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "arnavut-cigeri",
+  "ad": "Arnavut ciğeri",
+  "tur": "ara-sicak",
+  "bolge": "İstanbul / Balkan göçmenleri",
+  "icerik": "kuşbaşı kızartılmış kuzu ciğeri, piyaz (sumaklı soğan, maydanoz), pul biber",
+  "neden": "Yoğun ciğer tadı, anasonlu rakı ve sumaklı soğanla dengelenir.",
+  "hikaye": "Balkan göçmenleriyle İstanbul meyhanelerine yerleşmiş ara sıcak.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "pacanga-boregi",
+  "ad": "Paçanga böreği",
+  "tur": "ara-sicak",
+  "bolge": "İstanbul",
+  "icerik": "pastırma, kaşar peyniri, domates, biber, yufka",
+  "neden": "Pastırmanın baharatı ve eriyen peynir rakının sert aromasına karşı güçlü bir ara sıcaktır.",
+  "hikaye": "İstanbul meyhane klasiği; adının kökeni kesin değildir.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "sigara-boregi",
+  "ad": "Sigara böreği",
+  "tur": "ara-sicak",
+  "bolge": "İstanbul / tüm Türkiye",
+  "icerik": "yufka, beyaz peynir, maydanoz",
+  "neden": "Çıtır, tuzlu börek rakı arasında hafif ve doyurucu bir ara sıcaktır.",
+  "hikaye": "",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "cacik",
+  "ad": "Cacık",
+  "tur": "soguk",
+  "bolge": "tüm Türkiye",
+  "icerik": "yoğurt, salatalık, sarımsak, nane, zeytinyağı",
+  "neden": "Serinletici salatalıklı yoğurt yaz sofrasında rakıya ferahlık katar.",
+  "hikaye": "",
+  "mevsim": "yaz"
+ },
+ {
+  "id": "coban-salata",
+  "ad": "Çoban salata",
+  "tur": "salata",
+  "bolge": "tüm Türkiye",
+  "icerik": "domates, salatalık, biber, soğan, maydanoz, zeytinyağı, limon",
+  "neden": "Taze ve sulu sebzeler rakı kadehleri arasında damağı temizler.",
+  "hikaye": "",
+  "mevsim": "yaz"
+ },
+ {
+  "id": "roka-salatasi",
+  "ad": "Roka salatası",
+  "tur": "salata",
+  "bolge": "Ege / İstanbul",
+  "icerik": "roka, domates, zeytinyağı, limon veya nar ekşisi",
+  "neden": "Rokanın hafif acılığı anasonun aromasını tazeler.",
+  "hikaye": "",
+  "mevsim": "tüm yıl (kış-bahar en iyisi)"
+ },
+ {
+  "id": "zeytinyagli-enginar",
+  "ad": "Zeytinyağlı enginar",
+  "tur": "soguk",
+  "bolge": "Ege / İstanbul",
+  "icerik": "enginar kalbi, bakla iç, havuç, patates, dereotu, zeytinyağı, limon",
+  "neden": "Limonlu, zeytinyağlı sebze rakının anason notasıyla hafif ve zarif bir eşleşmedir.",
+  "hikaye": "",
+  "mevsim": "ilkbahar"
+ },
+ {
+  "id": "barbunya-pilaki",
+  "ad": "Barbunya pilaki",
+  "tur": "soguk",
+  "bolge": "İstanbul / Osmanlı mutfağı",
+  "icerik": "barbunya fasulyesi, havuç, patates, soğan, sarımsak, zeytinyağı",
+  "neden": "Doyurucu ve zeytinyağlı pilaki rakı sofrasının uzun sohbetlerine sağlam bir zemindir.",
+  "hikaye": "",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "yaprak-sarma",
+  "ad": "Zeytinyağlı yaprak sarma",
+  "tur": "soguk",
+  "bolge": "Ege / İstanbul",
+  "icerik": "asma yaprağı, pirinç, soğan, kuş üzümü, çam fıstığı, nane, zeytinyağı",
+  "neden": "Ekşimsi yaprak ve baharatlı iç, anasonla uyumlu klasik bir sofra mezesidir.",
+  "hikaye": "",
+  "mevsim": "tüm yıl (taze yaprakla ilkbahar-yaz)"
+ },
+ {
+  "id": "tarama",
+  "ad": "Tarama",
+  "tur": "deniz",
+  "bolge": "İstanbul / Rum mutfağı",
+  "icerik": "tuzlanmış balık yumurtası, ekmek içi veya patates, zeytinyağı, limon",
+  "neden": "Tuzlu ve kremamsı balık yumurtası rakıyla deniz kokulu bir uyum yakalar.",
+  "hikaye": "Rum mutfağından İstanbul meyhanelerine geçmiş; adı Rumca 'taramas' (balık yumurtası) sözcüğünden gelir.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "levrek-marin",
+  "ad": "Levrek marin",
+  "tur": "deniz",
+  "bolge": "İstanbul / Ege",
+  "icerik": "çiğ levrek fileto, limon, zeytinyağı, tuz, pembe biber veya dereotu",
+  "neden": "Limonla 'pişen' ince balık dilimleri, rakının ferahlığını vurgular.",
+  "hikaye": "Modern meyhanelerde yaygınlaşmış bir meze.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "karides-guvec",
+  "ad": "Karides güveç",
+  "tur": "ara-sicak",
+  "bolge": "Ege / İstanbul",
+  "icerik": "karides, domates, biber, sarımsak, tereyağı, kaşar peyniri",
+  "neden": "Tereyağlı, sarımsaklı sos ve tatlı karides rakıyla güçlü bir ara sıcaktır.",
+  "hikaye": "",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "midye-tava",
+  "ad": "Midye tava",
+  "tur": "ara-sicak",
+  "bolge": "İstanbul",
+  "icerik": "midye, bira veya un hamuru, tarator sos",
+  "neden": "Çıtır midye ve cevizli tarator rakının yanında klasik bir İstanbul ara sıcağıdır.",
+  "hikaye": "",
+  "mevsim": "kış-bahar"
+ },
+ {
+  "id": "hamsi-tava",
+  "ad": "Hamsi tava",
+  "tur": "deniz",
+  "bolge": "Karadeniz / İstanbul",
+  "icerik": "hamsi, mısır unu, tuz, limon, soğan",
+  "neden": "Yağlı küçük balık rakının anasonuyla yağı dengeleyen klasik bir kış eşleşmesidir.",
+  "hikaye": "Karadeniz'in simge balığı.",
+  "mevsim": "kış"
+ },
+ {
+  "id": "cingene-pilavi",
+  "ad": "Çingene pilavı",
+  "tur": "salata",
+  "bolge": "Ege / İzmir",
+  "icerik": "ufalanmış beyaz peynir, domates, biber, soğan, maydanoz, zeytinyağı",
+  "neden": "Peynir ağırlıklı, tuzlu ve taze bir salata olarak rakıyla çok iyi gider.",
+  "hikaye": "Adında pilav geçse de pirinç içermeyen, İzmir meyhanelerinde yaygın bir meze.",
+  "mevsim": "yaz"
+ },
+ {
+  "id": "kopoglu",
+  "ad": "Köpoğlu",
+  "tur": "soguk",
+  "bolge": "Ege / Batı Anadolu",
+  "icerik": "kızartılmış patlıcan ve biber, sarımsaklı yoğurt, domates sosu",
+  "neden": "Kızartma sebze ve sarımsaklı yoğurt, rakıyla serin-sıcak bir denge kurar.",
+  "hikaye": "",
+  "mevsim": "yaz"
+ },
+ {
+  "id": "kisir",
+  "ad": "Kısır",
+  "tur": "salata",
+  "bolge": "Güneydoğu / Antep",
+  "icerik": "ince bulgur, domates ve biber salçası, taze soğan, maydanoz, nar ekşisi",
+  "neden": "Ekşi-baharatlı bulgur rakının yanında doyurucu ve canlı bir mezedir.",
+  "hikaye": "",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "tarator",
+  "ad": "Tarator",
+  "tur": "soguk",
+  "bolge": "İstanbul / Ege",
+  "icerik": "ceviz, ekmek içi, sarımsak, zeytinyağı, sirke veya limon",
+  "neden": "Cevizli sarımsaklı sos kızarmış deniz ürünleri ve rakıyla bütünleşir.",
+  "hikaye": "",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "ege-otlari",
+  "ad": "Ege otları (radika, şevketibostan, turp otu)",
+  "tur": "salata",
+  "bolge": "Ege",
+  "icerik": "mevsim otları, zeytinyağı, limon, sarımsak",
+  "neden": "Acımsı yabani otlar anasonla birleşince Ege'nin klasik rakı sofrasını oluşturur.",
+  "hikaye": "Ege'de, özellikle Girit kökenli ailelerde ot kültürü güçlüdür.",
+  "mevsim": "kış-ilkbahar"
+ },
+ {
+  "id": "tulum-peyniri",
+  "ad": "İzmir tulum / Ezine peyniri",
+  "tur": "peynir",
+  "bolge": "Ege / Çanakkale",
+  "icerik": "keçi-koyun-inek karışık sütten olgun peynir",
+  "neden": "Olgun, tuzlu peynirler rakının en eski ve en sade eşlikçisidir.",
+  "hikaye": "Ezine peyniri coğrafi işaretli bir Çanakkale peyniridir.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "eski-kasar",
+  "ad": "Eski kaşar",
+  "tur": "peynir",
+  "bolge": "Trakya / Kars",
+  "icerik": "olgunlaştırılmış kaşar peyniri",
+  "neden": "Keskin ve olgun kaşar, anasonun yoğun aromasına yaslanabilen sert bir peynirdir.",
+  "hikaye": "",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "kopanisti",
+  "ad": "Kopanisti / acılı peynir ezmesi",
+  "tur": "peynir",
+  "bolge": "Ege / Ada mutfağı",
+  "icerik": "ekşimiş beyaz peynir veya lor, pul biber, zeytinyağı",
+  "neden": "Keskin, mayalı ve acılı peynir küçük lokmalarla rakıyı tamamlar.",
+  "hikaye": "Ege adalarının (Rum mutfağı) ortak peynir ezmesi.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "cerkez-tavugu",
+  "ad": "Çerkez tavuğu",
+  "tur": "soguk",
+  "bolge": "Kafkas göçmenleri / Marmara",
+  "icerik": "didiklenmiş tavuk, ceviz, ekmek içi, sarımsak, kırmızı biberli yağ",
+  "neden": "Cevizli kremamsı doku ve biberli yağ rakının yanında tok ve aromatik bir mezedir.",
+  "hikaye": "Çerkez mutfağından gelen, İstanbul meyhanelerinin klasik soğuklarından.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "babagannus",
+  "ad": "Babagannuş",
+  "tur": "soguk",
+  "bolge": "Güney / Hatay",
+  "icerik": "közlenmiş patlıcan, tahin, sarımsak, limon, nar",
+  "neden": "Közün isli tadı ve tahin rakıyla Levant usulü bir uyum yakalar.",
+  "hikaye": "Levant mutfağının ortak mezesi.",
+  "mevsim": "yaz-sonbahar"
+ },
+ {
+  "id": "piyaz",
+  "ad": "Piyaz",
+  "tur": "salata",
+  "bolge": "Antalya / İstanbul",
+  "icerik": "kuru fasulye, soğan, maydanoz, sirke veya tahin sos, yumurta",
+  "neden": "Sirkeli ya da tahinli fasulye salatası rakı sofrasının doyurucu bir parçasıdır.",
+  "hikaye": "Antalya'da tahinli piyaz yaygındır.",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "palamut-tuzlama",
+  "ad": "Palamut tuzlama",
+  "tur": "deniz",
+  "bolge": "İstanbul",
+  "icerik": "tuzlanmış taze balık fileto, zeytinyağı, soğan",
+  "neden": "Tuzlanmış yağlı balık rakının klasik eşlikçisidir.",
+  "hikaye": "",
+  "mevsim": "sonbahar"
+ },
+ {
+  "id": "sardalya-asma-yapraginda",
+  "ad": "Asma yaprağında sardalya",
+  "tur": "deniz",
+  "bolge": "Ege",
+  "icerik": "sardalya, asma yaprağı, zeytinyağı, limon",
+  "neden": "Yaprağın ekşimsi aroması ve yağlı sardalya rakıyla Ege sofrasının özüdür.",
+  "hikaye": "Ege kıyılarında, özellikle Ayvalık-Cunda'da yaygın.",
+  "mevsim": "yaz-sonbahar"
+ },
+ {
+  "id": "istavrit-tava",
+  "ad": "İstavrit tava",
+  "tur": "deniz",
+  "bolge": "İstanbul / Marmara",
+  "icerik": "istavrit, mısır unu, limon, soğan",
+  "neden": "Küçük, çıtır ve yağlı balık rakı kadehleri arasında atıştırmalık gibi tüketilir.",
+  "hikaye": "",
+  "mevsim": "sonbahar-kış"
+ },
+ {
+  "id": "izgara-kofte",
+  "ad": "Izgara köfte",
+  "tur": "ara-sicak",
+  "bolge": "tüm Türkiye",
+  "icerik": "kıyma, soğan, ekmek içi, baharat",
+  "neden": "Izgara köfte rakı sofrasının etli kapanışı veya ara sıcağı olabilir.",
+  "hikaye": "",
+  "mevsim": "tüm yıl"
+ },
+ {
+  "id": "tursu",
+  "ad": "Karışık turşu",
+  "tur": "soguk",
+  "bolge": "İstanbul / tüm Türkiye",
+  "icerik": "lahana, salatalık, biber, havuç, sirkeli salamura",
+  "neden": "Ekşi ve tuzlu turşu damağı temizler, rakı arasında ağız tazeler.",
+  "hikaye": "",
+  "mevsim": "kış (tüm yıl)"
+ },
+ {
+  "id": "peynir-meyve",
+  "ad": "Beyaz peynir yanında mevsim meyvesi (üzüm, karpuz)",
+  "tur": "peynir",
+  "bolge": "tüm Türkiye",
+  "icerik": "beyaz peynirin yanında üzüm veya karpuz",
+  "neden": "Kavun yokken tatlı ve sulu meyveler peynirle aynı dengeyi kurar.",
+  "hikaye": "",
+  "mevsim": "yaz-sonbahar"
+ },
+ {
+  "id": "kalamar-dolma",
+  "ad": "Kalamar dolması",
+  "tur": "ara-sicak",
+  "bolge": "Ege",
+  "icerik": "kalamar, pirinç veya peynirli iç, otlar, zeytinyağı",
+  "neden": "Doyurucu deniz ürünü ara sıcağı anasonun aromasıyla iyi eşleşir.",
+  "hikaye": "",
+  "mevsim": "tüm yıl"
+ }
+]

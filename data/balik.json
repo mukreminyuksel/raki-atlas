@@ -1,0 +1,173 @@
+{
+ "aciklama": "İstanbul/Marmara balıkçı geleneğine göre aylık balık takvimi. Bölgeye (Karadeniz, Ege, Akdeniz) ve yıla göre kayabilir. Yasal bilgiler 6/1 Numaralı Ticari Amaçlı Su Ürünleri Avcılığının Düzenlenmesi Hakkında Tebliğ'den (Tebliğ No: 2024/20, Resmî Gazete 11.08.2024, sayı 32629; geçerlilik 1 Eylül 2024 - 31 Ağustos 2028) alınmıştır.",
+ "yasal_ozet": {
+  "genel_av_yasagi": "Gırgır ve dip trolü ile avcılık: Akdeniz'de 15 Nisan - 15 Eylül, diğer denizlerde 15 Nisan - 31 Ağustos arası yasak.",
+  "palamut_torik": "1 Nisan - 31 Ağustos arası her türlü araçla yasak; 15-31 Ağustos arasında yalnızca çapari ile palamut serbest.",
+  "kalkan": "15 Nisan - 15 Haziran arası yasak; kota uygulanır.",
+  "hamsi": "Kota ile avlanır; Marmara ve Karadeniz'de gırgırla yalnızca 15.00-09.00 saatleri arasında.",
+  "ahtapot": "15 Nisan - 31 Ekim arası yasak.",
+  "mavi_yengec": "1 Mayıs - 30 Eylül arası yasak (dalyan izinleri hariç).",
+  "alamana_voli": "15 Nisan - 15 Mayıs arası yasak.",
+  "asgari_boylar": {
+   "palamut": "25 cm",
+   "uskumru": "20 cm",
+   "lüfer": "18 cm",
+   "istavrit": "13 cm",
+   "hamsi": "9 cm"
+  },
+  "lufer_notu": "Çinekop, sarıkanat, lüfer ve kofana aynı türün (Pomatomus saltatrix) boy adlarıdır; 'çinekop' adıyla satılması 18 cm altındaki balığı yasal yapmaz. Bazı çevre yayınları ve kampanyalar 20 cm sınırını anar; satın alırken yürürlükteki tebliğe bakılmalıdır."
+ },
+ "aylar": [
+  {
+   "ay": "Ocak",
+   "baliklar": [
+    "hamsi",
+    "lüfer",
+    "palamut",
+    "uskumru",
+    "istavrit",
+    "mezgit",
+    "kalkan",
+    "kefal"
+   ],
+   "not": "Kış balığının en yağlı dönemi; hamsi tava ve lüfer ızgara rakı sofrasının başrolündedir."
+  },
+  {
+   "ay": "Şubat",
+   "baliklar": [
+    "kalkan",
+    "mezgit",
+    "tekir",
+    "hamsi",
+    "istavrit",
+    "kefal"
+   ],
+   "not": "Kalkanın en lezzetli ayı; hamsi sezonunun sonuna yaklaşılır."
+  },
+  {
+   "ay": "Mart",
+   "baliklar": [
+    "kalkan",
+    "levrek",
+    "kefal",
+    "gümüş",
+    "mezgit"
+   ],
+   "not": "Göç balıkları azalır; levrek ve kalkan öne çıkar. Hamsi sezonu genellikle kapanır."
+  },
+  {
+   "ay": "Nisan",
+   "baliklar": [
+    "levrek",
+    "mercan",
+    "barbunya (başlangıç)",
+    "kalkan (15 Nisan'a kadar)"
+   ],
+   "not": "1 Nisan'dan itibaren palamut-torik, 15 Nisan'dan itibaren gırgır-trol ve kalkan avı yasaktır; ahtapot yasağı başlar. Tezgâhlarda kıyı balıkları ve çiftlik balığı ağırlıktadır."
+  },
+  {
+   "ay": "Mayıs",
+   "baliklar": [
+    "mezgit",
+    "levrek",
+    "çipura",
+    "dil",
+    "karides",
+    "barbunya"
+   ],
+   "not": "Av yasağı dönemi; küçük tekne ve uzatma ağı balıkları. Çirozluk uskumru eski İstanbul'da bahar sonunda kurutulurdu."
+  },
+  {
+   "ay": "Haziran",
+   "baliklar": [
+    "sardalya",
+    "levrek",
+    "çipura",
+    "kalamar",
+    "barbunya"
+   ],
+   "not": "Kalkan yasağı 15 Haziran'da biter. Sardalya mevsimi açılır; uzatma ağıyla sardalya avı tüm yıl serbesttir."
+  },
+  {
+   "ay": "Temmuz",
+   "baliklar": [
+    "sardalya",
+    "kolyoz",
+    "istavrit",
+    "orkinos",
+    "karides",
+    "levrek",
+    "çipura"
+   ],
+   "not": "Yaz sofrasının ızgara sardalyası ve kolyoz tavası; büyük ağ yasağı sürer."
+  },
+  {
+   "ay": "Ağustos",
+   "baliklar": [
+    "sardalya",
+    "kolyoz",
+    "kalamar",
+    "çipura",
+    "levrek",
+    "çapari ile palamut (15 Ağustos sonrası)"
+   ],
+   "not": "15-31 Ağustos'ta çapari ile palamut serbest; 31 Ağustos'ta av yasağı biter."
+  },
+  {
+   "ay": "Eylül",
+   "baliklar": [
+    "palamut",
+    "sardalya",
+    "istavrit",
+    "barbunya",
+    "kırlangıç",
+    "çipura"
+   ],
+   "not": "1 Eylül 'Vira Bismillah': gırgır ve trol denize açılır, palamut sezonu başlar. Akdeniz'de trol/gırgır yasağı 15 Eylül'e kadar sürer."
+  },
+  {
+   "ay": "Ekim",
+   "baliklar": [
+    "palamut",
+    "lüfer",
+    "istavrit",
+    "uskumru",
+    "barbunya",
+    "levrek",
+    "mercan",
+    "hamsi (başlangıç)"
+   ],
+   "not": "Lüfer Boğaz'a iner; palamut torik boyuna ulaşmaya başlar. Ahtapot yasağı 31 Ekim'de biter."
+  },
+  {
+   "ay": "Kasım",
+   "baliklar": [
+    "lüfer",
+    "palamut",
+    "torik",
+    "hamsi",
+    "uskumru",
+    "istavrit"
+   ],
+   "not": "Lüferin zirvesi; lakerdalık torik bu dönemde alınır. 18 cm altı lüfer (çinekop adıyla da olsa) yasaktır."
+  },
+  {
+   "ay": "Aralık",
+   "baliklar": [
+    "hamsi",
+    "lüfer",
+    "palamut",
+    "torik",
+    "uskumru",
+    "mezgit",
+    "istavrit"
+   ],
+   "not": "Hamsinin en yağlı ve lezzetli dönemi; Karadeniz hamsisi kota ile avlanır."
+  }
+ ],
+ "kaynak": [
+  "https://www.resmigazete.gov.tr/eskiler/2024/08/20240811-3.htm",
+  "https://www.gidabulteni.com/gundem/balik-satin-alirken-dikkat-palamut-hamsi-ve-istavrit-kac-santim-olmali/3848",
+  "https://sultanbalik.net/tr/blog/istanbul-balik-takvimi-2026-her-ay-ne-yenir"
+ ]
+}

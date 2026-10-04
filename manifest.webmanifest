@@ -1,0 +1,17 @@
+{
+  "name": "Rakı Atlası · Rakı, Meze & Sofra",
+  "short_name": "Rakı Atlası",
+  "description": "Türkiye'nin rakıları üretici ve marka marka; meze ve sofra rehberi, balık takvimi, rakı kültürü, tadım geceleri ve kulüpler.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0d1418",
+  "theme_color": "#0d1418",
+  "lang": "tr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+ "adap": [
+  {
+   "baslik": "Önce rakı, sonra su, en son buz",
+   "aciklama": "Kadehe önce soğuk rakı, ardından soğuk su konur; buz isteniyorsa en son eklenir. Önce buz konursa anasonun aroması kaçar ve beyazlaşma düzgün dağılmaz denir.",
+   "tip": "gelenek",
+   "kaynak": "https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/"
+  },
+  {
+   "baslik": "Kadeh tokuşturma: büyüğün kadehinin altına",
+   "aciklama": "İki kişiden genç olan, yaşça büyük olanın kadehinin alt kısmına hafifçe vurur; büyüğe saygının ifadesi sayılır.",
+   "tip": "gelenek",
+   "kaynak": "https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/"
+  },
+  {
+   "baslik": "Sofranın büyüğü kadeh kaldırmadan başlanmaz",
+   "aciklama": "Sofranın en yaşlısı kadehini kaldırmadan diğer kadehler kalkmaz; aksi büyüğe saygısızlık kabul edilir.",
+   "tip": "gelenek",
+   "kaynak": "https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/"
+  },
+  {
+   "baslik": "'Şerefe'den sonra yudum almadan kadeh bırakılmaz",
+   "aciklama": "Kadeh kaldırıldıktan sonra bir yudum alınmadan masaya konmaz; içmeden bırakmak sözsüz bir protesto gibi algılanır.",
+   "tip": "gelenek",
+   "kaynak": "https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/"
+  },
+  {
+   "baslik": "Fondip yapılmaz, küçük yudumlarla içilir",
+   "aciklama": "Rakı ağız dolusu değil küçük yudumlarla, sohbet eşliğinde içilir; amaç sarhoş olmak değil demlenmektir.",
+   "tip": "gelenek",
+   "kaynak": "https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/"
+  },
+  {
+   "baslik": "Saki: servisi sofranın en genci yapar",
+   "aciklama": "Geleneksel sofrada rakıyı dağıtan kişiye 'saki' denir; içki herkesin kadehine eşit paylaştırılır.",
+   "tip": "gelenek",
+   "kaynak": "https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/"
+  },
+  {
+   "baslik": "Şişe değil karafaki",
+   "aciklama": "Eski usulde rakı sofraya şişeyle değil 'karafaki' denen küçük sürahiyle gelir. TDK karafayı 'uzun boyunlu, kulpsuz küçük rakı veya şarap sürahisi; karaf, karafaki' diye tanımlar.",
+   "tip": "gelenek",
+   "kaynak": "https://sozluk.gov.tr/ (karafa) ; https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/"
+  },
+  {
+   "baslik": "Çilingir sofrası",
+   "aciklama": "TDK tanımıyla 'üzerine meze ve içki konmuş tepsi, küçük içki sofrası'. Halk arasında adının saray mutfağındaki 'çeşnigir' sözcüğünden bozulduğu anlatılır; bu köken anlatısı kesin değildir.",
+   "tip": "gelenek",
+   "kaynak": "https://sozluk.gov.tr/ (çilingir sofrası) ; https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/"
+  },
+  {
+   "baslik": "Demlenmek",
+   "aciklama": "TDK'ye göre 'demlenmek' mecazen 'içki içmek' anlamına da gelir; rakı sofrasında acele etmeden, saatlerce sohbet ederek içmeyi anlatır.",
+   "tip": "dil",
+   "kaynak": "https://sozluk.gov.tr/ (demlenmek)"
+  },
+  {
+   "baslik": "Aslan sütü",
+   "aciklama": "TDK sözlüğünde 'aslansütü' rakı anlamına gelir. Halk arasında rakı içenin aslan gibi cesaretlendiği, suyla beyazlayınca süte benzediği yorumları yapılır; bu yorumlar folklordur.",
+   "tip": "dil / gelenek",
+   "kaynak": "https://sozluk.gov.tr/ (aslansütü)"
+  },
+  {
+   "baslik": "Akşamcı",
+   "aciklama": "TDK'de 'akşamları içki içme alışkanlığında olan kimse'. Rakı geleneksel olarak gün batımına doğru, akşam sofrasında içilir.",
+   "tip": "dil",
+   "kaynak": "https://sozluk.gov.tr/ (akşamcı) ; https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/"
+  },
+  {
+   "baslik": "Mezeler küçük tabaklarda gelir, tazelenmez değişir",
+   "aciklama": "Mezeler küçük tabaklarda azar azar sunulur; biten mezenin aynısını istemek yerine sofraya yeni çeşit gelmesi eski meyhane adabındandır.",
+   "tip": "gelenek",
+   "kaynak": "https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/"
+  },
+  {
+   "baslik": "Sohbet: kavga yok, yüksek ses yok",
+   "aciklama": "Rakı sofrası muhabbet sofrasıdır; dertleşilir, eski dostlar anılır, ama kavga edilmez, başka masalar rahatsız edilmez; varsa çalgıcılara usulca eşlik edilir.",
+   "tip": "gelenek",
+   "kaynak": "https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/"
+  },
+  {
+   "baslik": "Rakı bol suyla içilir",
+   "aciklama": "Rakı bardağının yanında ayrıca su bardağı bulunur; geleneksel öğüt rakıdan kat kat fazla su içilmesidir.",
+   "tip": "gelenek",
+   "kaynak": "https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/"
+  },
+  {
+   "baslik": "Duble ve tek",
+   "aciklama": "Meyhanede rakı 'tek' veya 'duble' (tekin iki katı) ölçüyle istenir. TDK dubleyi 'içkide belirli olan tek ölçüsünün iki katı' diye tanımlar.",
+   "tip": "dil",
+   "kaynak": "https://sozluk.gov.tr/ (duble)"
+  }
+ ],
+ "tarihce": [
+  {
+   "yil": "1520",
+   "baslik": "Trabzon kayıtları",
+   "aciklama": "Yazılı olarak belgelenen en eski rakı üretim ve ticaret kayıtları Trabzon çevresinden gelir; 1520 tarihli Osmanlı vergi nizamnamesi Trabzon'u üretim ve sevkiyat merkezi olarak gösterir.",
+   "kaynak": "https://tr.wikipedia.org/wiki/Rak%C4%B1"
+  },
+  {
+   "yil": "1630'lar",
+   "baslik": "Evliya Çelebi ve İstanbul meyhaneleri",
+   "aciklama": "Evliya Çelebi, meyhanelerin İstanbul'un her yanında, özellikle Samatya, Kumkapı, Balıkpazarı, Unkapanı, Fener, Balat ve Boğaz kıyılarında toplandığını yazar. Osmanlı'da uzun süre içki denince önce şarap akla gelirdi; rakı zamanla öne çıktı.",
+   "kaynak": "https://ci.turkpatent.gov.tr/Files/GeographicalSigns/9ae573d4-621e-46e9-bc90-4d79fc84c17f.pdf ; https://tr.wikipedia.org/wiki/Rak%C4%B1"
+  },
+  {
+   "yil": "19. yüzyıl",
+   "baslik": "Gedikli meyhaneler",
+   "aciklama": "Osmanlı'da gayrimüslimlerin işlettiği, içki ruhsatına 'gedik' denildiği için 'gedikli meyhane' diye anılan mekânlar yaygındı; rakı 19. yüzyıl sonuna dek çoğunlukla evlerde ve küçük imalathanelerde üretilirdi.",
+   "kaynak": "https://e-yazi.com/yakin-tarih-alkol-yasaklari-ve-duzenlemeleri/ ; https://tr.wikipedia.org/wiki/Rak%C4%B1"
+  },
+  {
+   "yil": "1901",
+   "baslik": "Umurca: ilk özel rakı fabrikası",
+   "aciklama": "II. Abdülhamid döneminde Sarıcazade Ragıp Paşa, Tekirdağ yolu üzerindeki Umurca Çiftliği'nde rakı fabrikası kurdu; 'Umurca Rakısı' Düyun-u Umumiye'ye önemli vergi geliri sağladı.",
+   "kaynak": "https://tr.wikipedia.org/wiki/Rak%C4%B1 ; https://ci.turkpatent.gov.tr/Files/GeographicalSigns/9ae573d4-621e-46e9-bc90-4d79fc84c17f.pdf"
+  },
+  {
+   "yil": "1920-1924",
+   "baslik": "Men-i Müskirat Kanunu",
+   "aciklama": "Birinci Meclis'in ilk kanunlarından biri içkiyi tamamen yasakladı; İstanbul, Trakya ve işgal altındaki İzmir'de etkisi sınırlı kaldı, kaçak ev üretimi sürdü. Yasak Nisan 1924'te kaldırıldı.",
+   "kaynak": "https://e-yazi.com/yakin-tarih-alkol-yasaklari-ve-duzenlemeleri/ ; https://ci.turkpatent.gov.tr/Files/GeographicalSigns/9ae573d4-621e-46e9-bc90-4d79fc84c17f.pdf"
+  },
+  {
+   "yil": "1932",
+   "baslik": "Tekel dönemi",
+   "aciklama": "Alkollü içkiler 1932'de devlet tekeline alındı; Tekel İdaresi 'Ala', 'Aliyülala', 'Fevkalade' gibi kalitelerde rakı üretti. 1920'ler-30'larda özel sektörde Dimitrakapulo, Bahçe, Hanım, Keyif, Ilgaz gibi markalar vardı.",
+   "kaynak": "https://kentvedemiryolu.com/icinden-demiryolu-ustunden-ozellestirme-gecen-tekel/ ; https://e-yazi.com/yakin-tarih-alkol-yasaklari-ve-duzenlemeleri/"
+  },
+  {
+   "yil": "1937 / 1944",
+   "baslik": "Yeni Rakı",
+   "aciklama": "Yeni Rakı markasının bilinen en eski kullanımı 1937'dir. Devletin ilk modern rakı fabrikası 1944'te İzmir'de açıldı; şeker pancarı melasından elde edilen alkolün kullanımıyla Yeni Rakı'nın tadı geniş kitlelerce benimsendi.",
+   "kaynak": "https://tr.wikipedia.org/wiki/Yeni_Rak%C4%B1 ; https://tr.wikipedia.org/wiki/Rak%C4%B1"
+  },
+  {
+   "yil": "2004",
+   "baslik": "Tekel içkilerinin özelleştirilmesi",
+   "aciklama": "Tekel Alkollü İçkiler Sanayi ve Ticareti A.Ş. 27 Şubat 2004'teki ihaleyle 292 milyon dolara Nurol-Limak-Özaltın-Tütsab konsorsiyumuna satıldı; konsorsiyum Mey İçki'yi kurdu.",
+   "kaynak": "https://kentvedemiryolu.com/icinden-demiryolu-ustunden-ozellestirme-gecen-tekel/ ; https://www.hurriyet.com.tr/ekonomi/tekel-ickileri-mey-catisi-altinda-toplandi-218997"
+  },
+  {
+   "yil": "2006",
+   "baslik": "Mey, TPG'ye geçti",
+   "aciklama": "Konsorsiyum Mey İçki'nin %90'ını 810 milyon dolara ABD'li Texas Pacific Group'a (TPG) sattı.",
+   "kaynak": "https://kentvedemiryolu.com/icinden-demiryolu-ustunden-ozellestirme-gecen-tekel/ ; https://www.hurriyet.com.tr/ekonomi/mey-icki-nin-yuzde-90-i-texas-pacificin-4510221"
+  },
+  {
+   "yil": "2009",
+   "baslik": "Rakıya coğrafi işaret",
+   "aciklama": "'Rakı' 15.04.2009 tarihinden geçerli olarak menşe adı türünde coğrafi işaret tescil edildi (Tescil No: 136, başvuru sahibi GİSDER); 08.12.2009 tarihli Resmî Gazete'de ilan edildi.",
+   "kaynak": "https://ci.turkpatent.gov.tr/Files/GeographicalSigns/9ae573d4-621e-46e9-bc90-4d79fc84c17f.pdf"
+  },
+  {
+   "yil": "2011",
+   "baslik": "Diageo, Mey İçki'yi satın aldı",
+   "aciklama": "İngiliz Diageo, 23 Ağustos 2011'de Mey İçki'yi TPG ve Actera'dan yaklaşık 2,1 milyar dolar işletme değeriyle satın almayı tamamladı. Yeni Rakı bugün Diageo bünyesindedir.",
+   "kaynak": "https://www.thedrinksbusiness.com/2011/08/diageo-completes-mey-icki-deal/"
+  },
+  {
+   "yil": "2013",
+   "baslik": "6487 sayılı kanun",
+   "aciklama": "11 Haziran 2013'te Resmî Gazete'de yayımlanan düzenlemeyle alkollü içki reklamı, promosyon ve sponsorluk yasaklandı; perakende satış 22.00-06.00 arasında yasaklandı.",
+   "kaynak": "https://e-yazi.com/yakin-tarih-alkol-yasaklari-ve-duzenlemeleri/"
+  },
+  {
+   "yil": "2000-2026",
+   "baslik": "ÖTV ve zamlar",
+   "aciklama": "İçkilerdeki maktu ÖTV her yıl Ocak ve Temmuz'da Yİ-ÜFE'ye göre güncellenir; örneğin 1 Ocak 2026'da rakıda litredeki alkol derecesi başına ÖTV 15,80 TL'den 17,06 TL'ye çıktı. 70 cl Yeni Rakı'nın etiket fiyatı 2000'de yaklaşık 3,85 TL (bugünkü parayla) iken 2026'da 1.375 TL'ye ulaştı.",
+   "kaynak": "https://www.diken.com.tr/akaryakit-sigara-ve-ickide-otv-orani-artti-kac-liraydi-kaca-yukseldi/ ; https://www.karekod.org/blog/yillara-gore-raki-fiyatlari-vergi-oranlari/"
+  }
+ ],
+ "uretim": {
+  "ozet": "Rakı, üzümden elde edilen 'suma'nın (tek başına ya da tarım kökenli etil alkolle karıştırılarak) anason tohumuyla birlikte bakır imbiklerde ikinci kez damıtılmasıyla yapılır. Türk Rakısı coğrafi işaret tanımına göre yalnızca Türkiye'de üretilir.",
+  "adimlar": [
+   {
+    "adim": "1. Üzüm ve mayşe",
+    "aciklama": "Yaş ve/veya kuru üzüm parçalanıp suyla karıştırılır, şıra elde edilir ve mayayla (Saccharomyces cerevisiae) fermente edilir; sonuçta düşük alkollü bir tür şarap çıkar."
+   },
+   {
+    "adim": "2. Suma (birinci damıtma)",
+    "aciklama": "Fermente mayşe kolonlu sistemde damıtılır; baş ve son kısımlar ayrılır, üzüm aromasını taşıyan orta kısım 'suma' olarak alınır. Suma en fazla %94,5 alkole kadar damıtılır ki üzüm aroması kaybolmasın."
+   },
+   {
+    "adim": "3. Harman",
+    "aciklama": "İkinci damıtmaya giren toplam alkolün en az %65'i suma olmalıdır; en fazla %35'i tarım kökenli etil alkol (ör. şeker pancarı melası alkolü) olabilir."
+   },
+   {
+    "adim": "4. Anasonla ikinci damıtma",
+    "aciklama": "Karışım suyla seyreltilip 5.000 litre veya daha küçük geleneksel bakır imbiklerde anason tohumuyla (Pimpinella anisum) birlikte ikinci kez damıtılır. 5.000 litrelik bir imbiğin damıtması yaklaşık 48 saat sürer."
+   },
+   {
+    "adim": "5. Baş, göbek, kuyruk",
+    "aciklama": "İmbikten çıkan ürün fraksiyonlara ayrılır: keskin kokulu baş ürün ve ağır son ürün ayrılır; rakı, yaklaşık %78-80 alkollü orta üründen ('göbek') yapılır."
+   },
+   {
+    "adim": "6. Söndürme ve şeker",
+    "aciklama": "Orta ürün demineralize suyla seyreltilir (söndürme) ve litrede en fazla 10 gram rafine beyaz şeker eklenir. Renklendirici kullanılmaz."
+   },
+   {
+    "adim": "7. Dinlendirme ve şişeleme",
+    "aciklama": "Rakı en az bir ay paslanmaz tank veya meşe fıçıda dinlendirilir, süzülür ve en az %40 alkolle şişelenir."
+   }
+  ],
+  "neden_beyazlar": "Rakıdaki anason yağı (anetol) alkolde çözünür, sudaysa çözünmez. Su eklenince alkol oranı düşer ve anetol küçük damlacıklar hâlinde ayrışarak rakıyı süt beyazı yapar (uzo etkisi). Coğrafi işaret metnine göre rakıda litrede en az 800 mg anetol bulunur.",
+  "terimler": {
+   "suma": "Üzümden ayrımsal damıtmayla elde edilen, en fazla %94,5 alkollü üzüm distilatı",
+   "imbik": "Geleneksel bakır damıtma kazanı; rakıda en fazla 5.000 litre",
+   "göbek": "İkinci damıtmanın orta ürünü; rakının asıl kaynağı",
+   "söndürme": "Yüksek dereceli orta ürünün suyla seyreltilmesi"
+  },
+  "kaynak": [
+   "https://ci.turkpatent.gov.tr/Files/GeographicalSigns/9ae573d4-621e-46e9-bc90-4d79fc84c17f.pdf",
+   "https://tr.wikipedia.org/wiki/Rak%C4%B1"
+  ]
+ },
+ "edebiyat": [
+  {
+   "kim": "Orhan Veli Kanık",
+   "eser": "Eskiler Alıyorum",
+   "tur": "şiir",
+   "alinti": "Bir de rakı şişesinde balık olsam",
+   "not": "📖 Şiirin son dizesi. Ahmet Haşim'in 'Göllerde bu dem bir kamış olsam' dizesine nazire olarak yazıldı; Melih Cevdet Anday da dizenin rakıyı değil Haşim'i hedef aldığını söyler.",
+   "kaynak": "https://www.neokuyorum.org/orhan-veliden-birkac-garip-siir/ ; https://tr.wikipedia.org/wiki/Orhan_Veli_Kan%C4%B1k ; https://tersdergi.com/edebiyatin-iyi-icenleri-nasil-icerdi/"
+  },
+  {
+   "kim": "Orhan Veli Kanık (çeviri, Charles Cros)",
+   "eser": "Çirozname",
+   "tur": "şiir",
+   "alinti": "",
+   "not": "Charles Cros'tan çevrilen şiir Tercüme dergisinde yayımlandı; İlhan Berk'in meyhanede masadaki çirozu 'Orhan! Al sana çirozname' diye fırlattığı anı anlatılır.",
+   "kaynak": "https://tersdergi.com/edebiyatin-iyi-icenleri-nasil-icerdi/"
+  },
+  {
+   "kim": "Sabahattin Ali (söz) / Nükhet Duru (yorum)",
+   "eser": "Çakır",
+   "tur": "şiir",
+   "alinti": "Süt gibi rakıyı sunar Çakır'a",
+   "not": "📖 Sabahattin Ali'nin şiiri, Nükhet Duru tarafından şarkı olarak yorumlandı.",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Ezginin Günlüğü",
+   "eser": "Sarhoş Balık ile Topal Martı",
+   "tur": "şarkı",
+   "alinti": "Gel dalgaya düşelim, sandalda rakı içelim",
+   "not": "📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Kaan",
+   "eser": "Oynayalım Senle",
+   "tur": "şarkı",
+   "alinti": "Rakı şarap olmadan",
+   "not": "📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Özcan Deniz",
+   "eser": "İçem",
+   "tur": "şarkı",
+   "alinti": "Rakı içem, şarap içem",
+   "not": "📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "İbrahim Tatlıses",
+   "eser": "Rakı İçtim Şarap İçtim",
+   "tur": "şarkı",
+   "alinti": "Rakı içtim şarap içtim sallandım",
+   "not": "📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Haluk Levent",
+   "eser": "Samoslu Dimitris",
+   "tur": "şarkı",
+   "alinti": "Rakımı hazırlamış Dimitris",
+   "not": "📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Nil Karaibrahimgil",
+   "eser": "Akbaba",
+   "tur": "şarkı",
+   "alinti": "Rakı olmasın / Şarap olmasın",
+   "not": "📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Müslüm Gürses",
+   "eser": "Rakı Şarap Fark Etmez",
+   "tur": "şarkı",
+   "alinti": "Sarhoş etsin yeter ki / Rakı şarap fark etmez",
+   "not": "📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Kahtalı Mıçı / İbrahim Tatlıses",
+   "eser": "Bir Taş Attım Pencereye",
+   "tur": "şarkı",
+   "alinti": "Rakıyı da şaraba katalım mı",
+   "not": "Halk türküsü. 📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Yaşar",
+   "eser": "Yılgın",
+   "tur": "şarkı",
+   "alinti": "Bu ne çok kadeh bu ne çok rakı",
+   "not": "📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Onur Akın",
+   "eser": "Ne Olur Bir Sabah",
+   "tur": "şarkı",
+   "alinti": "Belki bir meyhane biraz da rakı",
+   "not": "📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Pamela",
+   "eser": "Artık Bir Şeyler Yapmak Lazım",
+   "tur": "şarkı",
+   "alinti": "Rakı, balık lazım",
+   "not": "📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Tanju Okan",
+   "eser": "Her Akşam Sarhoş",
+   "tur": "şarkı",
+   "alinti": "Her akşam votka rakı ve şarap",
+   "not": "📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Akın",
+   "eser": "Rebeka",
+   "tur": "şarkı",
+   "alinti": "Götürelim rakı fazlasıyla",
+   "not": "📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Melike Demirağ",
+   "eser": "Şu Anda İstanbul'da Olmak Vardı",
+   "tur": "şarkı",
+   "alinti": "Tabakta kavun peynir, kadehte buz gibi rakı",
+   "not": "Rakı sofrasının klasik 'kavun-peynir' ikilisini anar. 📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Burak Kut",
+   "eser": "Komple Tikiyiz",
+   "tur": "şarkı",
+   "alinti": "Akıştayız yine rakı beyazına",
+   "not": "📖 Sözlerde geçer (Hürriyet, 2013 listesiyle doğrulandı).",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Halk türküsü (Rumeli)",
+   "eser": "Vardar Ovası",
+   "tur": "şarkı",
+   "alinti": "",
+   "not": "Sözlerinde rakı GEÇMEZ. 2013'te Bülent Arınç'ın 'içinde rakı geçiyor' diyerek türküyü söyletmemesi tartışma yaratmış, basın bunun üzerine 'içinden rakı geçen şarkılar' listeleri yapmıştır.",
+   "kaynak": "https://www.hurriyet.com.tr/icinden-raki-gecen-sarkilar-24490949"
+  },
+  {
+   "kim": "Müzeyyen Senar",
+   "eser": "Yalnız Kaldım Meyhanede (Odeon 78'lik plak)",
+   "tur": "şarkı",
+   "alinti": "",
+   "not": "Meyhane şarkısı; Senar'ın Odeon plaklarında yer alır. Sözlerinde 'rakı' sözcüğünün geçtiği doğrulanmadı.",
+   "kaynak": "https://tr.wikipedia.org/wiki/M%C3%BCzeyyen_Senar"
+  },
+  {
+   "kim": "Yavuz Turgul (yönetmen) / Şener Şen",
+   "eser": "Muhsin Bey (1987)",
+   "tur": "film",
+   "alinti": "",
+   "not": "📖 Diş ağrısı çeken Muhsin Bey'in komşulardan rakı ile dişinol istediği sahne filmin konusunda geçer.",
+   "kaynak": "https://tr.wikipedia.org/wiki/Muhsin_Bey"
+  },
+  {
+   "kim": "Emrah Serbes (öykü) / Erdal Beşikçioğlu",
+   "eser": "Behzat Ç. Bir Ankara Polisiyesi (2010-2013, 2019)",
+   "tur": "dizi",
+   "alinti": "",
+   "not": "Ekibin akşamları toplandığı 'Hüseyin'in yeri' sahneleri Ankara Esat'taki Sokakbaşı Meyhanesi'nde çekildi; dizinin meyhane-rakı sahneleri Ankara meyhane kültürüyle özdeşleşti.",
+   "kaynak": "https://tr.wikipedia.org/wiki/Behzat_%C3%87._Bir_Ankara_Polisiyesi"
+  },
+  {
+   "kim": "Neyzen Tevfik",
+   "eser": "'Rakı nasıl içilir?' sorusuna cevabı",
+   "tur": "söz",
+   "alinti": "Adam gibi!",
+   "not": "Anlatılan söz/anekdot (yazılı eser değildir); rakı adabının özeti olarak sık aktarılır.",
+   "kaynak": "https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/"
+  },
+  {
+   "kim": "Can Yücel (atıf tartışmalı)",
+   "eser": "'Rakı sofrasında susulmaz arkadaş' diye başlayan şiir",
+   "tur": "şiir",
+   "alinti": "",
+   "not": "İnternette Can Yücel'e atfedilen bu şiirin ona ait olduğu doğrulanamadı; atfı tartışmalıdır, alıntı kullanılmadı.",
+   "kaynak": "https://indigodergisi.com/2015/12/raki-sisesinde-balik-olsam-raki-nasil-icilir-raki-sofrasi-adabi-kulturu-sahtesi/ (şiiri Can Yücel'e atfeden örnek)"
+  },
+  {
+   "kim": "Mehmet Ali Tan",
+   "eser": "ÇIN ÇINN",
+   "tur": "şiir",
+   "alinti": "",
+   "not": "Rakı ve rakı sofrası üzerine şiir kitabı (2022 tanıtımı).",
+   "kaynak": "https://www.edebiyathaber.net/hayati-raki-kadehine-sigdiran-siirler-ahmet-zeki-yesil/"
+  },
+  {
+   "kim": "Erdir Zat (koordinatör), Overteam Yayınları",
+   "eser": "Rakı Ansiklopedisi",
+   "tur": "kitap",
+   "alinti": "",
+   "not": "Başvuru kitabı/ansiklopedi. Edebiyatçıların rakı ve meyhane ilişkisini derler.",
+   "kaynak": "https://tersdergi.com/edebiyatin-iyi-icenleri-nasil-icerdi/"
+  }
+ ],
+ "unluler": [
+  {
+   "ad": "Aydın Boysan",
+   "alan": "mimar, yazar",
+   "bilgi": "Rakı adabı üzerine sayısız yazı ve söyleşisiyle 'rakı sofralarının duayeni' olarak anıldı (1921-2018).",
+   "kaynak": "https://repository.bilkent.edu.tr/items/7f414c22-8a43-4ce2-9ba4-15c257077a1a ; https://www.5ocakgazetesi.com/aydin-boysan-ve-raki-sofralari"
+  },
+  {
+   "ad": "Sait Faik Abasıyanık",
+   "alan": "öykücü",
+   "bilgi": "Burgazada'da Pandelli'de, Beyoğlu'nda Mustafa'nın Meyhanesi ve Orman Birahanesi'nde rakı içer, balıkçılarla kıyıda çilingir sofrası kurardı.",
+   "kaynak": "https://tersdergi.com/edebiyatin-iyi-icenleri-nasil-icerdi/"
+  },
+  {
+   "ad": "Melih Cevdet Anday",
+   "alan": "şair",
+   "bilgi": "Son 15 yılında Cumhuriyet Meyhanesi'nde çarşamba öğle rakılarının müdavimiydi; rakı bitince 'Kerbela mı burası?' diye seslenirdi.",
+   "kaynak": "https://tersdergi.com/edebiyatin-iyi-icenleri-nasil-icerdi/"
+  },
+  {
+   "ad": "Yahya Kemal Beyatlı",
+   "alan": "şair",
+   "bilgi": "Rakıya düşkünlüğüyle bilinir; Boğaz'da, Bebek'te Nazmi'nin lokantasında dostlarıyla içerdi. Kırmızı turpun 'göz mezesi' olduğu anlatılır.",
+   "kaynak": "https://tersdergi.com/edebiyatin-iyi-icenleri-nasil-icerdi/ ; https://www.5ocakgazetesi.com/aydin-boysan-ve-raki-sofralari"
+  },
+  {
+   "ad": "Edip Cansever",
+   "alan": "şair",
+   "bilgi": "Beyoğlu, Boğaz ve Kadıköy meyhanelerinin (Çiçek Pasajı, Todori, Koço vb.) müdavimiydi; içkiliyken tek satır yazmadığını söylerdi.",
+   "kaynak": "https://tersdergi.com/edebiyatin-iyi-icenleri-nasil-icerdi/"
+  },
+  {
+   "ad": "Cemal Süreya",
+   "alan": "şair",
+   "bilgi": "Rakıyla geç tanıştı; Edip Cansever'le 'rakı içmeyi ben öğrettim / şiir yazmayı ben öğrettim' atışması ünlüdür. Gittiği meyhanelerin müşterisi artardı.",
+   "kaynak": "https://tersdergi.com/edebiyatin-iyi-icenleri-nasil-icerdi/ ; https://www.edebiyathaber.net/hayati-raki-kadehine-sigdiran-siirler-ahmet-zeki-yesil/"
+  },
+  {
+   "ad": "Halikarnas Balıkçısı (Cevat Şakir Kabaağaçlı)",
+   "alan": "yazar",
+   "bilgi": "İzmir'de gazete yazısını bitirince Kemeraltı meyhanelerine gider, azar azar içip uzun sohbetleri severdi; en sevdiği meze ot kavurması 'çiporta' idi.",
+   "kaynak": "https://tersdergi.com/edebiyatin-iyi-icenleri-nasil-icerdi/"
+  },
+  {
+   "ad": "Orhan Veli Kanık",
+   "alan": "şair",
+   "bilgi": "'Rakı' sözcüğünü şiire sokan Garip şairi; arkadaşlarıyla Fransız şair Philippe Soupault'ya ilk rakısını içirdikleri anlatılır.",
+   "kaynak": "https://tersdergi.com/edebiyatin-iyi-icenleri-nasil-icerdi/ ; https://tr.wikipedia.org/wiki/Orhan_Veli_Kan%C4%B1k"
+  },
+  {
+   "ad": "Oktay Rifat",
+   "alan": "şair",
+   "bilgi": "Ünlü rakı severlerdendi; Ankara'da Kürdün Meyhanesi ve Üç Nal'da, İstanbul'da Lambo'da edebiyatçılarla buluşurdu.",
+   "kaynak": "https://tersdergi.com/edebiyatin-iyi-icenleri-nasil-icerdi/"
+  },
+  {
+   "ad": "Özdemir Asaf",
+   "alan": "şair",
+   "bilgi": "'Meyhanesi evi gibi olan' şair olarak anılır.",
+   "kaynak": "https://www.edebiyathaber.net/hayati-raki-kadehine-sigdiran-siirler-ahmet-zeki-yesil/"
+  }
+ ]
+}

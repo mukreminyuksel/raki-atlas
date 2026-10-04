@@ -1,0 +1,596 @@
+{
+ "guncelleme": "2026-10-04",
+ "kur": null,
+ "fiyatlar": {
+  "altinbas": {
+   "tl": 2125,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     2125
+    ]
+   ]
+  },
+  "anadolu-sifir-seri-ahenk": {
+   "tl": 2350,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://degustasyon.net/anadolu-raki-sifir-seri-ahenk-manisa/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     2350
+    ]
+   ]
+  },
+  "beylerbeyi-gobek": {
+   "tl": 2100,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     2100
+    ]
+   ]
+  },
+  "beylerbeyi-incirden": {
+   "tl": 2300,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     2300
+    ]
+   ]
+  },
+  "beylerbeyi-margaz": {
+   "tl": 2300,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     2300
+    ]
+   ]
+  },
+  "beylerbeyi-mavi": {
+   "tl": 1525,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1525
+    ]
+   ]
+  },
+  "beylerbeyi-rezerv-kalecik-karasi": {
+   "tl": 2300,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     2300
+    ]
+   ]
+  },
+  "beylerbeyi-teragold": {
+   "tl": 1770,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1770
+    ]
+   ]
+  },
+  "beyoglu-raki": {
+   "tl": 1200,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1200
+    ]
+   ]
+  },
+  "efe-3-distile": {
+   "tl": 2350,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     2350
+    ]
+   ]
+  },
+  "efe-5-yillik": {
+   "tl": 4950,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     4950
+    ]
+   ]
+  },
+  "efe-gobek": {
+   "tl": 1750,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1750
+    ]
+   ]
+  },
+  "efe-gold": {
+   "tl": 1770,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1770
+    ]
+   ]
+  },
+  "efe-klasik": {
+   "tl": 1195,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1195
+    ]
+   ]
+  },
+  "efe-oak-barrel": {
+   "tl": 3250,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     3250
+    ]
+   ]
+  },
+  "efe-tek-imbik": {
+   "tl": 1445,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1445
+    ]
+   ]
+  },
+  "efe-yas-uzum": {
+   "tl": 1309,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1309
+    ]
+   ]
+  },
+  "izmir-rakisi": {
+   "tl": 1145,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1145
+    ]
+   ]
+  },
+  "izmir-rakisi-yas-uzum": {
+   "tl": 1200,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1200
+    ]
+   ]
+  },
+  "kulup-raki": {
+   "tl": 1800,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1800
+    ]
+   ]
+  },
+  "kulup-raki-deluks": {
+   "tl": 1785,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1785
+    ]
+   ]
+  },
+  "prototip-lot-0004": {
+   "tl": 2250,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     2250
+    ]
+   ]
+  },
+  "saki-de-lux": {
+   "tl": 1950,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1950
+    ]
+   ]
+  },
+  "saki-gold-gobek": {
+   "tl": 1495,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1495
+    ]
+   ]
+  },
+  "saki-klasik-gobek": {
+   "tl": 1150,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1150
+    ]
+   ]
+  },
+  "saki-mor-uzum-18": {
+   "tl": 1695,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1695
+    ]
+   ]
+  },
+  "saki-premium-100": {
+   "tl": 6950,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     6950
+    ]
+   ]
+  },
+  "saki-premium-50": {
+   "tl": 5950,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     5950
+    ]
+   ]
+  },
+  "saki-uludag-seri": {
+   "tl": 5950,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     5950
+    ]
+   ]
+  },
+  "sari-zeybek-3-mese": {
+   "tl": 2475,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     2475
+    ]
+   ]
+  },
+  "sari-zeybek-original": {
+   "tl": 1975,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1975
+    ]
+   ]
+  },
+  "sari-zeybek-yas-uzum": {
+   "tl": 2225,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     2225
+    ]
+   ]
+  },
+  "tekirdag-altin-seri": {
+   "tl": 1770,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1770
+    ]
+   ]
+  },
+  "tekirdag-altin-seri-rezerv": {
+   "tl": 2025,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     2025
+    ]
+   ]
+  },
+  "tekirdag-gobek": {
+   "tl": 1895,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1895
+    ]
+   ]
+  },
+  "tekirdag-no-10": {
+   "tl": 2245,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     2245
+    ]
+   ]
+  },
+  "tekirdag-rakisi": {
+   "tl": 1475,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1475
+    ]
+   ]
+  },
+  "vefa-rakisi-gobek": {
+   "tl": 1075,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1075
+    ]
+   ]
+  },
+  "yeni-raki": {
+   "tl": 1375,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1375
+    ]
+   ]
+  },
+  "yeni-raki-ala": {
+   "tl": 1975,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1975
+    ]
+   ]
+  },
+  "yeni-raki-rezerv": {
+   "tl": 2600,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     2600
+    ]
+   ]
+  },
+  "yeni-raki-yeni-seri": {
+   "tl": 1525,
+   "tarih": "2026-10-04",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "gecmis": [
+    [
+     "2026-10-04",
+     1525
+    ]
+   ]
+  }
+ },
+ "denendi": {},
+ "inceleme": []
+}

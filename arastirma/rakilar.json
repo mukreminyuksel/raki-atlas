@@ -1,0 +1,2488 @@
+[
+ {
+  "id": "yeni-raki",
+  "ad": "Yeni Rakı (Klasik / 1937)",
+  "marka": "Yeni Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa / Nevşehir (Mey tesisleri)",
+  "kategori": "suma",
+  "abv": 45,
+  "hacim_cl": [
+   5,
+   20,
+   35,
+   50,
+   70,
+   100,
+   150
+  ],
+  "distilasyon": "Bakır imbikte anasonla ikinci damıtım",
+  "dinlendirme": "",
+  "anason": "Batı Anadolu",
+  "tat": "Yaş ve kuru üzüm sumasının tarımsal kökenli alkolle harmanlandığı klasik, tok ve hafif buruk bir rakı. Bol baharatlı mezelerle iyi gider.",
+  "puan": 80,
+  "tl": 1375,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "1937",
+  "not": "Marka adının bilinen ilk kullanımı 1937, Tekel üretimi ise 1944. Şeker pancarı alkolünün eklenmesiyle doğan 'yeni' tarif, adını buradan alır. Etikette en az %65 suma bulunur.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.yeniraki.com/tr-tr/urunlerimiz/yeni-raki",
+   "https://www.barokulu.com/raki/yeni-raki",
+   "https://loucheeffect.com/turkiyede-rakilar/",
+   "https://www.karekod.org/blog/raki-fiyatlari/"
+  ]
+ },
+ {
+  "id": "yeni-raki-yeni-seri",
+  "ad": "Yeni Rakı Yeni Seri",
+  "marka": "Yeni Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "suma",
+  "abv": 45,
+  "hacim_cl": [
+   20,
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "Bakır imbik",
+  "dinlendirme": "",
+  "anason": "İlk hasat anason",
+  "tat": "Sezonun ilk hasat anasonuyla yapılır; klasik Yeni Rakı'ya göre daha yumuşak ve aromatik. Soğuk ve otlu mezelere uygundur.",
+  "puan": 81,
+  "tl": 1525,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2009",
+  "not": "Resmî sitede çıkış yılı 2009, Louche Effect'in tablosunda 2008 yazıyor. 70 cl fiyatı 2021'de 199 TL iken Ekim 2026'da 1.525 TL oldu.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.yeniraki.com/tr-tr/urunlerimiz/yeni-raki-yeni-seri",
+   "https://loucheeffect.com/turkiyede-rakilar/",
+   "https://www.karekod.org/blog/migros-raki-fiyatlari-2026/"
+  ]
+ },
+ {
+  "id": "yeni-raki-ala",
+  "ad": "Yeni Rakı Âlâ",
+  "marka": "Yeni Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "kuru-uzum",
+  "abv": 47,
+  "hacim_cl": [
+   20,
+   35,
+   70,
+   100
+  ],
+  "distilasyon": "3 kez bakır imbik",
+  "dinlendirme": "Meşe fıçıda",
+  "anason": "",
+  "tat": "Güneşte kurutulmuş üzümden yapılan, yoğun anasonlu, aromatik ve yüksek alkollü bir rakı; uzun ve kalıcı bir içimi var. Baharatlı ılık başlangıçlara ve kırmızı ete yakışır.",
+  "puan": 86,
+  "tl": 1975,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2011",
+  "not": "%100 kuru üzüm rakısı.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.yeniraki.com/tr-tr/urunlerimiz/yeni-raki-ala",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "yeni-raki-ustalarin-karisimi",
+  "ad": "Yeni Rakı Ustaların Karışımı",
+  "marka": "Yeni Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "ozel-seri",
+  "abv": 45.5,
+  "hacim_cl": [
+   35,
+   70,
+   100
+  ],
+  "distilasyon": "",
+  "dinlendirme": "Harmandan sonra 30 gün ek olgunlaştırma",
+  "anason": "",
+  "tat": "Yeni Rakı, Yeni Seri ve Âlâ'nın harmanı; yoğun anasonlu ve taze üzüm alkolü belirgin, rahat içimli bir rakı.",
+  "puan": 80,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2016",
+  "not": "2026 fiyat listelerinde yer almıyor.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.yeniraki.com/tr-tr/urunlerimiz/yeni-raki-ustalarin-karisimi",
+   "https://degustasyon.net/yeni-raki-ustalarin-karisimi-tekirdag-3/"
+  ]
+ },
+ {
+  "id": "yeni-raki-uzun-demleme",
+  "ad": "Yeni Rakı Uzun Demleme",
+  "marka": "Yeni Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "5 kez bakır imbik (48 yerine 72 saatlik seanslar)",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "%100 yaş üzümden yapılan, anasonu alkole iyi yedirilmiş, sakin ve dengeli bir rakı; sek içilebilecek kadar yumuşak.",
+  "puan": 85,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2020",
+  "not": "Türkiye'nin 'ilk kraft rakısı' olarak tanıtıldı. 2026 fiyat listelerinde yer almıyor.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.yeniraki.com/tr-tr/urunlerimiz/yeni-raki-uzun-demleme",
+   "https://degustasyon.net/yeni-raki-uzun-demleme-alasehir/"
+  ]
+ },
+ {
+  "id": "yeni-raki-rezerv",
+  "ad": "Yeni Rakı Rezerv",
+  "marka": "Yeni Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "4 kez bakır imbik (72 saatlik seanslar)",
+  "dinlendirme": "",
+  "anason": "Üç kez elenmiş iri tohumlar",
+  "tat": "İyi beyazlanan, dinlenmiş üzüm alkolü ve yoğun anason kokulu, hafif tatlımsı ve doygun bir sofra rakısı.",
+  "puan": 86,
+  "tl": 2600,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2025",
+  "not": "Başta yalnızca meyhane, restoran ve barlara verildi.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/yeni-raki-rezerv-manisa/",
+   "https://www.karekod.org/blog/raki-fiyatlari/"
+  ]
+ },
+ {
+  "id": "yeni-raki-giz",
+  "ad": "Yeni Rakı Giz",
+  "marka": "Yeni Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir, Yenilikhane)",
+  "kategori": "ozel-seri",
+  "abv": 68,
+  "hacim_cl": [
+   50
+  ],
+  "distilasyon": "2 kez, 500 litrelik küçük bakır imbiklerde",
+  "dinlendirme": "Eski rakı, brendi, Boğazkere ve Öküzgözü şarap fıçılarında",
+  "anason": "",
+  "tat": "Saman sarısı, çok güçlü ve dolgun ama yuvarlak; meşe ve vanilya izleri var. Etikette 1 ölçü rakıya 2 ölçü su öneriliyor.",
+  "puan": 87,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2022",
+  "not": "%100 kuru üzüm, %68 alkol; Türkiye'deki en yüksek dereceli rakılardan biri. 50 cl fiyatı Ekim 2026'da 3.400 TL (karekod).",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/yeni-raki-giz-manisa/",
+   "https://www.barokulu.com/raki/yeni-raki-giz",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "yeni-raki-pus",
+  "ad": "Yeni Rakı Pus",
+  "marka": "Yeni Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir, Yenilikhane)",
+  "kategori": "ozel-seri",
+  "abv": 45,
+  "hacim_cl": [
+   50
+  ],
+  "distilasyon": "Normalin onda biri ölçekte, 500 litrelik imbik",
+  "dinlendirme": "400 litrelik, içi yakılmış Fransız meşe fıçılarında",
+  "anason": "Kiraz ağacı talaşında tütsülenmiş iri taneli anason",
+  "tat": "Hafif füme, vanilyalı, dolgun ve yağlı bir rakı. Çiroz, lakerda ve pastırma gibi tuzlu ve isli mezelerle denenmeli.",
+  "puan": 85,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2023",
+  "not": "Kraft serinin Uzun Demleme ve Giz'den sonraki üçüncü ürünü. 50 cl fiyatı Ekim 2026'da 2.950 TL (karekod).",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/yeni-raki-pus-manisa/",
+   "https://www.barokulu.com/raki/yeni-raki-pus"
+  ]
+ },
+ {
+  "id": "yeni-raki-ferzan",
+  "ad": "Yeni Rakı Ferzan",
+  "marka": "Yeni Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2023",
+  "not": "%100 yaş üzüm, şeker ilavesiz. Ayrıntılı tadım notu bulunamadı.",
+  "bul": "zor",
+  "kaynak": [
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "yeni-raki-era",
+  "ad": "Yeni Rakı Era",
+  "marka": "Yeni Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "ozel-seri",
+  "abv": 45,
+  "hacim_cl": [
+   50
+  ],
+  "distilasyon": "Öküzgözü ve Emir sumaları ayrı ayrı bakır imbikte, anasonla ikinci kez",
+  "dinlendirme": "",
+  "anason": "Çeşme",
+  "tat": "Olgun üzüm alkolü anasonun önüne geçiyor; çok dolgun, yağlı ve uzun. Sek, konyak gibi yudumlanacak bir keyif rakısı.",
+  "puan": 88,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2025",
+  "not": "Harman oranını Johnnie Walker'ın baş harmancısı Emma Walker belirledi; 4.000 şişelik üretim. Gümrüksüz mağazalarda yaklaşık 199 €.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/yeni-raki-era-manisa/"
+  ]
+ },
+ {
+  "id": "yeni-raki-muzeyyen",
+  "ad": "Yeni Rakı Müzeyyen",
+  "marka": "Yeni Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "ozel-seri",
+  "abv": null,
+  "hacim_cl": [
+   70
+  ],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "Müzeyyen Senar'ın doğumunun 100. yılı anısına çıkarılan koleksiyon şişesi.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.yeniraki.com/tr-tr/urunlerimiz/yeni-raki-muzeyyen"
+  ]
+ },
+ {
+  "id": "yeni-raki-taste-of-turkey",
+  "ad": "Yeni Rakı Taste of Turkey",
+  "marka": "Yeni Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "ozel-seri",
+  "abv": 45,
+  "hacim_cl": [
+   70,
+   100
+  ],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Klasik Yeni Rakı tadı; şişesi Beykoz cam dekorasyonu geleneğinden esinlenir.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2019",
+  "not": "Yalnızca İstanbul Havalimanı'nda satılır.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.yeniraki.com/tr-tr/urunlerimiz/yeni-raki-taste-of-turkey"
+  ]
+ },
+ {
+  "id": "tekirdag-rakisi",
+  "ad": "Tekirdağ Rakısı",
+  "marka": "Tekirdağ Rakısı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (2017'ye kadar Tekirdağ)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [
+   20,
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "Bakır imbik",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "%100 yaş üzüm rakısı; kolay içimli, anasonu dengeli. Hem soğuk mezelere hem ana yemeklere uyar.",
+  "puan": 82,
+  "tl": 1475,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2000",
+  "not": "Tekel, 'Tekirdağ'da üretilen rakı daha iyidir' inancından yola çıkarak markayı 2000'de çıkardı. Mey, fabrikanın taşınmasından sonra da Tekirdağ üzümü kullanmayı sürdüreceğini açıklamıştı.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.yeniraki.com/tr-tr/urunlerimiz/tekirdag-rakisi",
+   "https://www.hurriyet.com.tr/kelebek/piyasada-artik-13-raki-var-3714135",
+   "https://www.hurriyet.com.tr/yazarlar/yalcin-bayer/tekirdag-rakisi-gidiyor-ama-uzumu-mutlaka-tekirdag-dan-26915153"
+  ]
+ },
+ {
+  "id": "tekirdag-altin-seri",
+  "ad": "Tekirdağ Rakısı Altın Seri (Gold Series)",
+  "marka": "Tekirdağ Rakısı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa",
+  "kategori": "mese",
+  "abv": 45,
+  "hacim_cl": [
+   20,
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "Bakır imbik, göbekten iki kez süzme",
+  "dinlendirme": "Meşe fıçıda",
+  "anason": "Çeşme",
+  "tat": "Meşe fıçıdan aldığı hafif sarı rengiyle bilinen yaş üzüm rakısı. Ana yemeklerle ya da sek, sindirim için içilir.",
+  "puan": 84,
+  "tl": 1770,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2005",
+  "not": "Çıktığı 2005 yılında 35 YTL ile piyasanın en pahalı rakısıydı. Louche Effect'e göre ilave şeker ve tarımsal kökenli etil alkol içermez.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.yeniraki.com/tr-tr/urunlerimiz/tekirdag-rakisi-gold-series",
+   "https://www.hurriyet.com.tr/kelebek/piyasada-artik-13-raki-var-3714135",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "tekirdag-altin-seri-rezerv",
+  "ad": "Tekirdağ Rakısı Altın Seri Rezerv Öküzgözü-Boğazkere",
+  "marka": "Tekirdağ Rakısı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "mese",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   70,
+   100
+  ],
+  "distilasyon": "Bakır imbik",
+  "dinlendirme": "Meşe fıçıda",
+  "anason": "",
+  "tat": "Siyah üzümden gelen baharlı kokular ve Öküzgözü'nün mürdüm eriği notası belirgin; dolgun ve dengeli. Sucuk, pastırma ve kebapla denenmeli.",
+  "puan": 85,
+  "tl": 2025,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2021",
+  "not": "Ağırlıklı Öküzgözü, kısmen Boğazkere yaş üzümü.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/tekirdag-rakisi-altin-seri-rezerv-manisa/",
+   "https://www.barokulu.com/raki/tekirdag-rakisi-altin-seri-rezerv-okuzgozu-bogazkere",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "tekirdag-gobek",
+  "ad": "Tekirdağ Rakısı Göbek",
+  "marka": "Tekirdağ Rakısı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Nevşehir",
+  "kategori": "gobek",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "İmbiğin göbeğinden alınır",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Yoğun anason ve taze üzüm kokulu, yağlı kıvamlı; normal Tekirdağ'ın daha tok içimli bir versiyonu.",
+  "puan": 84,
+  "tl": 1895,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2024",
+  "not": "%100 yaş üzüm, şeker ilavesiz.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/tekirdag-rakisi-gobek-nevsehir/",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "tekirdag-no-10",
+  "ad": "Tekirdağ Rakısı No:10",
+  "marka": "Tekirdağ Rakısı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "ozel-seri",
+  "abv": 47.5,
+  "hacim_cl": [
+   70
+  ],
+  "distilasyon": "3 kez, tarihî 10 numaralı el yapımı bakır imbikte",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Yüksek anasonu sayesinde kaymak gibi beyazlanır; kadifemsi, meyvemsi ve tok içimli, geride sakızımsı bir iz bırakır.",
+  "puan": 88,
+  "tl": 2245,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2014",
+  "not": "Mey İçki'nin kuruluşunun 10. yılı için çıkarıldı.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.yeniraki.com/tr-tr/urunlerimiz/tekirdag-rakisi-no-10",
+   "https://degustasyon.net/tekirdag-10-raki-tekirdag-9/",
+   "https://www.hurriyet.com.tr/yazarlar/yalcin-bayer/tekirdag-rakisi-gidiyor-ama-uzumu-mutlaka-tekirdag-dan-26915153"
+  ]
+ },
+ {
+  "id": "tekirdag-sultaniye",
+  "ad": "Tekirdağ Rakısı Sultaniye",
+  "marka": "Tekirdağ Rakısı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Taze üzüm aromaları çok canlı, anasonu yoğun; yumuşak ve temiz içimli, soğutularak sek bile içilebilir.",
+  "puan": 82,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2023",
+  "not": "'Tek Üzüm Serisi' rakısı, %100 Ege Sultaniye yaş üzümü.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/tekirdag-rakisi-sultaniye-ege/",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "tekirdag-kavrulmus-anason",
+  "ad": "Tekirdağ Rakısı Kavrulmuş Anason",
+  "marka": "Tekirdağ Rakısı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "ozel-seri",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   70
+  ],
+  "distilasyon": "3 kez",
+  "dinlendirme": "",
+  "anason": "%30 kavrulmuş anason",
+  "tat": "Güçlü anasona hafif yanık, kavrulmuş tatlar eşlik eder; tok ve buruk. Acılı ezme, atom ve Adana kebabı için.",
+  "puan": 78,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2016",
+  "not": "2026 fiyat listelerinde yer almıyor.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.yeniraki.com/tr-tr/urunlerimiz/tekirdag-rakisi-kavrulmus-anason",
+   "https://degustasyon.net/tekirdag-kavrulmus-anason-tekirdag/"
+  ]
+ },
+ {
+  "id": "tekirdag-trakya-serisi",
+  "ad": "Tekirdağ Rakısı Trakya Serisi",
+  "marka": "Tekirdağ Rakısı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [
+   20,
+   35,
+   70
+  ],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Trakya üzümlerinden yapılan, dengeli ve yumuşak içimli bir rakı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2009",
+  "not": "2026 fiyat listelerinde yer almıyor.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.yeniraki.com/tr-tr/urunlerimiz/tekirdag-rakisi-trakya-serisi",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "kulup-raki",
+  "ad": "Kulüp Rakı",
+  "marka": "Kulüp Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "suma",
+  "abv": 50,
+  "hacim_cl": [
+   70
+  ],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Tekel döneminden kalma, yüksek dereceli, sert ve tok içimli klasik bir rakı.",
+  "puan": 79,
+  "tl": 1800,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "1930'lar",
+  "not": "Üretimi süren en eski rakı markası sayılır; başlangıç yılı kaynaklarda 1932 ya da 1939 olarak geçiyor. Rakı sofrasını gösteren etiketi İhap Hulusi tasarladı. Alkol oranı %50, Louche Effect'e göre.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://loucheeffect.com/turkiyede-rakilar/",
+   "https://www.hurriyet.com.tr/ekonomi/rakida-4-ozel-firma-20-degisik-marka-var-5901487",
+   "https://www.hurriyet.com.tr/kelebek/piyasada-artik-13-raki-var-3714135"
+  ]
+ },
+ {
+  "id": "kulup-raki-deluks",
+  "ad": "Kulüp Rakı Delüks",
+  "marka": "Kulüp Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   70,
+   100
+  ],
+  "distilasyon": "İmbiğin tam kalbinden",
+  "dinlendirme": "",
+  "anason": "Hafif anasonlu olarak tanımlanır",
+  "tat": "Taze ve canlı yaş üzüm kokuları önde, anason hafif; sek içilebilecek yumuşaklıkta. Mutlaka soğuk içilmeli.",
+  "puan": 82,
+  "tl": 1785,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2023",
+  "not": "Cumhuriyet'in 100. yılında yeniden piyasaya çıktı; etiketini Emrah Yücel tasarladı.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/kulup-raki-deluks-alasehir/",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "altinbas",
+  "ad": "Altınbaş Rakı",
+  "marka": "Altınbaş",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "yas-uzum",
+  "abv": 50,
+  "hacim_cl": [
+   70
+  ],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "%50 alkolüyle sert ve yoğun, anasonu güçlü bir klasik. Tarımsal kökenli etil alkol içermez.",
+  "puan": 84,
+  "tl": 2125,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "1967",
+  "not": "Tekel döneminde İstanbul İçki Fabrikası'nda üretilirdi. %100 yaş üzüm.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://loucheeffect.com/turkiyede-rakilar/",
+   "https://www.hurriyet.com.tr/kelebek/piyasada-artik-13-raki-var-3714135"
+  ]
+ },
+ {
+  "id": "altinbas-24-ayar",
+  "ad": "Altınbaş 24 Ayar",
+  "marka": "Altınbaş",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Nevşehir",
+  "kategori": "mese",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "",
+  "dinlendirme": "Meşe fıçıda",
+  "anason": "",
+  "tat": "Hafif sarımtırak, yoğun anasonlu, temiz ve tok içimli. Klasik Altınbaş'ı sevip %50 alkolü ağır bulanlar için.",
+  "puan": 82,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2021",
+  "not": "%100 yaş üzüm sumasından yapılır.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/altinbas-24-ayar-nevsehir/"
+  ]
+ },
+ {
+  "id": "izmir-rakisi",
+  "ad": "İzmir Rakısı",
+  "marka": "İzmir Rakısı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "suma",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "Bakır imbikte iki kez, yalnız imbiğin ortası şişelenir",
+  "dinlendirme": "",
+  "anason": "Ege; taş değirmende öğütülmüş",
+  "tat": "Yoğun anasonlu, tok ve güçlü; Yeni Rakı'nın tanıdık burukluğu hissedilir. Bol baharatlı mezelerle denenmeli.",
+  "puan": 74,
+  "tl": 1145,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2005",
+  "not": "Ekim 2026 itibarıyla piyasanın en ucuz 70 cl rakılarından biri.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/izmir-rakisi-izmir-2/",
+   "https://www.hurriyet.com.tr/kelebek/piyasada-artik-13-raki-var-3714135",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "izmir-rakisi-yas-uzum",
+  "ad": "İzmir Rakısı Yaş Üzüm",
+  "marka": "İzmir Rakısı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "Taş değirmende öğütülmüş",
+  "tat": "Taze anason kokulu, temiz; buruk değil, hafif. Aperitif olarak ya da meyveyle içilir.",
+  "puan": 75,
+  "tl": 1200,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2008",
+  "not": "",
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/izmir-rakisi-yas-uzum-izmir/",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "izmir-rakisi-gobek",
+  "ad": "İzmir Rakısı Göbek",
+  "marka": "İzmir Rakısı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "gobek",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "Göbek",
+  "dinlendirme": "Meşe fıçıda 30 gün",
+  "anason": "Taş değirmende öğütülmüş",
+  "tat": "Saman sarısı; dolgun, rafine ve dengeli, fıçı tahta tadı vermeden alkolü olgunlaştırmış.",
+  "puan": 80,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2018",
+  "not": "%100 yaş üzüm. 2026 fiyat listelerinde yer almıyor.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/izmir-rakisi-gobek-manisa/"
+  ]
+ },
+ {
+  "id": "herdem-izmir-sakizli",
+  "ad": "Herdem İzmir Sakızlı",
+  "marka": "İzmir Rakısı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "ozel-seri",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "Bakır imbikte anason ve Sakız Adası damla sakızıyla",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Temiz üzüm alkolüne anason ve sakız kokusu eşlik eder; yumuşak, Akdenizli bir aperitif rakısı.",
+  "puan": 78,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2019",
+  "not": "%100 yaş üzüm. 2026 fiyat listelerinde yer almıyor.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/herdem-izmir-sakizli-manisa/"
+  ]
+ },
+ {
+  "id": "vefa-rakisi-gobek",
+  "ad": "Vefa Rakısı Göbek",
+  "marka": "Vefa Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "suma",
+  "abv": 40,
+  "hacim_cl": [
+   35,
+   70
+  ],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 1075,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2021",
+  "not": "Ekim 2026 listesindeki en ucuz 70 cl rakı. Louche Effect'e göre alkol oranı %40.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://loucheeffect.com/turkiyede-rakilar/",
+   "https://www.karekod.org/blog/raki-fiyatlari/",
+   "https://www.diageoturkiye.com/markalarimiz/urettigimiz-ickiler/urettigimiz-raki.html"
+  ]
+ },
+ {
+  "id": "tayfa-raki",
+  "ad": "Tayfa Rakı",
+  "marka": "Tayfa Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "suma",
+  "abv": 42,
+  "hacim_cl": [],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2015",
+  "not": "Diageo Türkiye'nin güncel rakı portföyünde yer alıyor, ancak 2026 perakende fiyat listelerinde görünmüyor.",
+  "bul": "zor",
+  "kaynak": [
+   "https://loucheeffect.com/turkiyede-rakilar/",
+   "https://www.diageoturkiye.com/markalarimiz/urettigimiz-ickiler/urettigimiz-raki.html"
+  ]
+ },
+ {
+  "id": "prototip-lot-0001",
+  "ad": "Prototip Rakı LOT 0001",
+  "marka": "Prototip Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "ozel-seri",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "3 kez",
+  "dinlendirme": "Meşe fıçıda kısa süre",
+  "anason": "Denizli Karaçay köyü, üç kez elenmiş",
+  "tat": "Siyah üzümden gelen baharlı tonlar, yoğun anason; dolgun, kişilikli ve damakta yuvarlanan bir rakı.",
+  "puan": 87,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2021",
+  "not": "Şef Mehmet Gürs ile yazar Cemre Torun'un formülü. %100 Elazığ Öküzgözü, 7.000 şişe. Etikette LOT 2020_0001, Louche Effect'te LOT 2021_0001 olarak geçiyor.",
+  "bul": "uretim-durdu",
+  "kaynak": [
+   "https://degustasyon.net/prototip-lot-2020_0001-manisa/",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "prototip-lot-0002",
+  "ad": "Prototip Rakı LOT 0002",
+  "marka": "Prototip Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "ozel-seri",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "3 kez",
+  "dinlendirme": "Meşe fıçıda 33 gün",
+  "anason": "Burdur-Tefenni Bayramlar köyü",
+  "tat": "Süt beyazı olur; taze üzüm ve anason yoğun. LOT 0001'e göre daha rahat içimli, yumuşak ve dengeli.",
+  "puan": 86,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2022",
+  "not": "Geç hasat Sultaniye ve Öküzgözü; 10 bin küsur şişe.",
+  "bul": "uretim-durdu",
+  "kaynak": [
+   "https://degustasyon.net/prototip-lot-2021_0002-manisa/",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "prototip-lot-0003",
+  "ad": "Prototip Rakı LOT 2023_0003",
+  "marka": "Prototip Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "ozel-seri",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "3 kez",
+  "dinlendirme": "Meşe fıçıda",
+  "anason": "Burdur, Yusufça ve Anbarcık köyleri",
+  "tat": "Sek koklandığında üzüm ve anason patlıyor; dolgun, yuvarlak ve tok ama yumuşak. İlk iki lottan daha dengeli ve olgun.",
+  "puan": 87,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2023",
+  "not": "%65 Antep Karası kuru üzüm, %30 geç hasat Sultaniye, %5 Öküzgözü.",
+  "bul": "uretim-durdu",
+  "kaynak": [
+   "https://degustasyon.net/prototip-lot-2023_0003-manisa/",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "prototip-lot-0004",
+  "ad": "Prototip Rakı LOT 2024_0004",
+  "marka": "Prototip Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "ozel-seri",
+  "abv": 45,
+  "hacim_cl": [
+   70
+  ],
+  "distilasyon": "3 kez",
+  "dinlendirme": "",
+  "anason": "Burdur-Tefenni Çaylı köyü",
+  "tat": "Şimdiye kadarki en baharatlı Prototip; yağlı, dolgun ve tok ama yumuşak, finalde damla sakızı izi bırakıyor.",
+  "puan": 86,
+  "tl": 2250,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2024",
+  "not": "%39 Antep Karası, %26 Kerküş kuru üzümü, %32 geç hasat Sultaniye, %3 Öküzgözü. Karekod'un Ekim 2026 listesinde lot belirtilmeden 70 cl 'Prototip Rakı' 2.250 TL olarak geçiyor (yazımı 'Protatip').",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/prototip-lot-2024_0004-manisa/",
+   "https://www.karekod.org/blog/raki-fiyatlari/"
+  ]
+ },
+ {
+  "id": "prototip-lot-5-cuprum",
+  "ad": "Prototip LOT 5 Cuprum",
+  "marka": "Prototip Rakı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "ozel-seri",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "Suma 2 kez bakır imbikte, ardından anasonla 1 kez daha",
+  "dinlendirme": "",
+  "anason": "Antalya-Korkuteli Osmankalfalar köyü",
+  "tat": "Siyah üzümün tanenli ve baharlı yapısı önde, anason arkada; yağlı ve kaygan, sek yudumlanacak bir rakı.",
+  "puan": 86,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2026",
+  "not": "Çanakkale-Bayramiç Karasakız üzümü, 7.000 şişe. Damıtım yöntemi yönetmelikle çeliştiği için yalnızca havalimanı gümrüksüz mağazalarında satılıyor (yaklaşık 79,90 €).",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/prototip-lot-5-cuprum-manisa/"
+  ]
+ },
+ {
+  "id": "efe-klasik",
+  "ad": "Efe Klasik (Mavi)",
+  "marka": "Efe Rakı",
+  "uretici": "Efe (Distile İçki)",
+  "tesis_il": "İzmir (Menderes)",
+  "kategori": "suma",
+  "abv": 45,
+  "hacim_cl": [
+   20,
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "Bakır imbik",
+  "dinlendirme": "",
+  "anason": "Ege",
+  "tat": "Kuru ve yaş üzümle yapılan klasik tarzda, uygun fiyatlı bir sofra rakısı.",
+  "puan": 75,
+  "tl": 1195,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2004",
+  "not": "Tekel'den sonraki ilk özel sektör rakısı; önce Almanya'da, Ağustos 2004'te Türkiye'de satışa çıktı.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://loucheeffect.com/turkiyede-rakilar/",
+   "https://www.barokulu.com/raki/efe-raki",
+   "https://www.hurriyet.com.tr/kelebek/piyasada-artik-13-raki-var-3714135"
+  ]
+ },
+ {
+  "id": "efe-yas-uzum",
+  "ad": "Efe Yaş Üzüm",
+  "marka": "Efe Rakı",
+  "uretici": "Efe (Distile İçki)",
+  "tesis_il": "İzmir (Menderes)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "%100 yaş üzüm rakısı; klasik Efe'den daha taze ve meyvemsi.",
+  "puan": 78,
+  "tl": 1309,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2005",
+  "not": "Türkiye'nin ilk yaş üzüm rakılarından biri.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://loucheeffect.com/turkiyede-rakilar/",
+   "https://www.barokulu.com/raki/efe-raki"
+  ]
+ },
+ {
+  "id": "efe-gold",
+  "ad": "Efe Gold",
+  "marka": "Efe Rakı",
+  "uretici": "Efe (Distile İçki)",
+  "tesis_il": "İzmir (Menderes)",
+  "kategori": "mese",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100,
+   300
+  ],
+  "distilasyon": "3 kez",
+  "dinlendirme": "Meşe fıçıda 4 ay",
+  "anason": "Yüksek oranda",
+  "tat": "Yoğun anason kokulu, taze ve canlı, tok ama temiz içimli; soğutularak sek bile içilebilir.",
+  "puan": 81,
+  "tl": 1770,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2013",
+  "not": "İlave şeker içermez. Migros fiyat sayfasında 70 cl fiyatı 1.495 TL olarak farklı geçiyor.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/efe-gold-izmir-2/",
+   "https://www.barokulu.com/raki/efe-raki",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "efe-gobek",
+  "ad": "Efe Göbek",
+  "marka": "Efe Rakı",
+  "uretici": "Efe (Distile İçki)",
+  "tesis_il": "İzmir (Menderes)",
+  "kategori": "gobek",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "Bakır imbik; 5 bölümlük damıtımın 3. bölümü (göbeğin göbeği)",
+  "dinlendirme": "4 ay",
+  "anason": "",
+  "tat": "Yoğun anasonlu; anasonla dinlenmiş alkol iyi kaynaşmış. Temiz ve rahat içimli, klasik tarzda.",
+  "puan": 82,
+  "tl": 1750,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2018",
+  "not": "İlave şeker ve tarımsal kökenli etil alkol içermez.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/efe-gobek-rakisi-izmir/",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "efe-tek-imbik",
+  "ad": "Efe Tek İmbik",
+  "marka": "Efe Rakı",
+  "uretici": "Efe (Distile İçki)",
+  "tesis_il": "İzmir (Menderes)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   70,
+   100
+  ],
+  "distilasyon": "Yalnızca bu ürün için kullanılan tek 'nano bakırlı' imbik",
+  "dinlendirme": "120 gün",
+  "anason": "",
+  "tat": "Taze üzüm ve yoğun anason kokulu; yumuşak, dengeli ve kaygan. Deniz ürünleriyle buzsuz, soğuk suyla içilmeli.",
+  "puan": 81,
+  "tl": 1445,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2017",
+  "not": "",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/efe-tek-imbik-rakisi-izmir/",
+   "https://www.barokulu.com/raki/efe-raki"
+  ]
+ },
+ {
+  "id": "efe-3-distile",
+  "ad": "Efe 3 Distile (Kara Efe)",
+  "marka": "Efe Rakı",
+  "uretici": "Efe (Distile İçki)",
+  "tesis_il": "İzmir (Menderes)",
+  "kategori": "ozel-seri",
+  "abv": 47,
+  "hacim_cl": [
+   35,
+   70
+  ],
+  "distilasyon": "3 kez",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Yüksek dereceli, siyah şişeli, yoğun ve tok bir rakı.",
+  "puan": 80,
+  "tl": 2350,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2006",
+  "not": "Bozdağ kaynak suyu kullanılır. 'İlk üç kez distile rakı' olduğu söylenir.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://loucheeffect.com/turkiyede-rakilar/",
+   "https://www.barokulu.com/raki/efe-raki"
+  ]
+ },
+ {
+  "id": "efe-5-yillik",
+  "ad": "Efe 5 Yıllık",
+  "marka": "Efe Rakı",
+  "uretici": "Efe (Distile İçki)",
+  "tesis_il": "İzmir (Menderes)",
+  "kategori": "mese",
+  "abv": 45,
+  "hacim_cl": [
+   70
+  ],
+  "distilasyon": "",
+  "dinlendirme": "5 yıl küçük Fransız meşe fıçılarında",
+  "anason": "",
+  "tat": "Kehribar renkli, vanilya ve meşe önde, anason geride; brendiye yakın. Sek ya da bir iki buzla aperitif veya yemek sonrası içilir.",
+  "puan": 84,
+  "tl": 4950,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2013",
+  "not": "Fıçılar noter huzurunda mühürlenip 5 yıl sonra yine noter huzurunda açılıyor; sınırlı üretim, şişeler seri numaralı.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/efe-5-yillik-izmir/",
+   "https://www.barokulu.com/raki/efe-raki",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "efe-oak-barrel",
+  "ad": "Efe Oak Barrel",
+  "marka": "Efe Rakı",
+  "uretici": "Efe (Distile İçki)",
+  "tesis_il": "İzmir (Menderes)",
+  "kategori": "mese",
+  "abv": 42,
+  "hacim_cl": [
+   70
+  ],
+  "distilasyon": "",
+  "dinlendirme": "Fransız ve Amerikan meşe fıçılarında farklı sürelerde",
+  "anason": "",
+  "tat": "Açık kehribar; vanilya ve meşe önde, anason geride. Rakı ile viski ya da brendi arasında; sek ya da az buzla içilir.",
+  "puan": 80,
+  "tl": 3250,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2023",
+  "not": "%100 Ege üzümü. Louche Effect %45, degustasyon.net etiketten %42 yazıyor.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/efe-oak-barrel-izmir/",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "efe-geleneksel",
+  "ad": "Efe Geleneksel",
+  "marka": "Efe Rakı",
+  "uretici": "Efe (Distile İçki)",
+  "tesis_il": "İzmir (Menderes)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "Tamamen bakır imbik",
+  "dinlendirme": "",
+  "anason": "Yüksek oranda",
+  "tat": "Canlı ve taze, üzüm tadı algılanan, yoğun anasonlu ve 'kaymak gibi' bir rakı.",
+  "puan": 80,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2016",
+  "not": "Yıllık üretim (2016 yılı) olarak tadıldı. Güncel fiyat listelerinde yok.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/efe-geleneksel-2016-yili-izmir/",
+   "https://www.barokulu.com/raki/efe-raki"
+  ]
+ },
+ {
+  "id": "cilingir",
+  "ad": "Çilingir Rakı",
+  "marka": "Çilingir",
+  "uretici": "Efe (Distile İçki)",
+  "tesis_il": "İzmir",
+  "kategori": "suma",
+  "abv": 43,
+  "hacim_cl": [
+   35,
+   70
+  ],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Sert olduğu söylenen, ekonomik bir rakı.",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2005",
+  "not": "2005'te 21,50 YTL ile en ucuz 70 cl rakıydı. Bar Okulu, Efe portföyünde 'Çilingir Xtra' adını sayıyor; 2026 listelerinde yok.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.hurriyet.com.tr/kelebek/piyasada-artik-13-raki-var-3714135",
+   "https://www.barokulu.com/raki/efe-raki"
+  ]
+ },
+ {
+  "id": "sari-zeybek-original",
+  "ad": "Sarı Zeybek Original",
+  "marka": "Sarı Zeybek",
+  "uretici": "Efe (Distile İçki)",
+  "tesis_il": "İzmir (Menderes)",
+  "kategori": "mese",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "2 kez",
+  "dinlendirme": "Meşe fıçıda 6 ay",
+  "anason": "Burdur-Tefenni",
+  "tat": "Çok hafif sarımtırak beyazlanır; anason önde, fıçıdan vanilya ve meşe nüansları gelir. Tok ve dolgun, balığa uygun.",
+  "puan": 82,
+  "tl": 1975,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2005",
+  "not": "Aralık 2005'te çıktı; meşe fıçıda dinlendirilen ilk sarı rakılardan. Şeker ilavesiz.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/sari-zeybek-original-izmir/",
+   "https://www.hurriyet.com.tr/kelebek/piyasada-artik-13-raki-var-3714135",
+   "https://www.barokulu.com/raki/sari-zeybek-uc-mese-sari-zeybek-yas-uzum-sari-zeybek-original"
+  ]
+ },
+ {
+  "id": "sari-zeybek-yas-uzum",
+  "ad": "Sarı Zeybek Yaş Üzüm",
+  "marka": "Sarı Zeybek",
+  "uretici": "Efe (Distile İçki)",
+  "tesis_il": "İzmir (Menderes)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "2 kez",
+  "dinlendirme": "Meşe fıçıda 4 ay",
+  "anason": "Burdur-Tefenni",
+  "tat": "İyi beyazlanır; dinlenmiş alkol ve taze anason belirgin. Rahat içimli, meyvemsi ve hafif; otlu mezelere uyar.",
+  "puan": 82,
+  "tl": 2225,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "",
+  "not": "%100 yaş üzüm, şeker ilavesiz.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/sari-zeybek-yas-uzum-izmir/",
+   "https://www.barokulu.com/raki/sari-zeybek-uc-mese-sari-zeybek-yas-uzum-sari-zeybek-original"
+  ]
+ },
+ {
+  "id": "sari-zeybek-3-mese",
+  "ad": "Sarı Zeybek 3 Meşe",
+  "marka": "Sarı Zeybek",
+  "uretici": "Efe (Distile İçki)",
+  "tesis_il": "İzmir (Menderes)",
+  "kategori": "mese",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "3 kez bakır imbik ('göbeğin göbeğinin göbeği')",
+  "dinlendirme": "Fransız, Amerikan ve Doğu Avrupa meşesinden üç tip fıçıda 6 ay, solera sistemiyle",
+  "anason": "Burdur-Tefenni",
+  "tat": "Ağaçsı fıçı kokuları önde, meşe anasonu biraz gölgeler; temiz, dinlenmiş ve hafif baharlı. Kırmızı et ve sakatatla içilir.",
+  "puan": 83,
+  "tl": 2475,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "",
+  "not": "Rakı üretiminde solera sistemi ilk kez burada kullanıldı.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/sari-zeybek-3-mese-izmir/",
+   "https://www.barokulu.com/raki/sari-zeybek-uc-mese-sari-zeybek-yas-uzum-sari-zeybek-original"
+  ]
+ },
+ {
+  "id": "beylerbeyi-mavi",
+  "ad": "Beylerbeyi Mavi (Klasik)",
+  "marka": "Beylerbeyi",
+  "uretici": "Sarper",
+  "tesis_il": "Manisa (Akhisar)",
+  "kategori": "suma",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100,
+   150,
+   300
+  ],
+  "distilasyon": "3 kez",
+  "dinlendirme": "",
+  "anason": "Ege; Denizli Kalınkoz köyü (marka genelinde)",
+  "tat": "Yalnız üzüm alkolünden, şekersiz yapılan, temiz ve yumuşak içimli bir klasik.",
+  "puan": 80,
+  "tl": 1525,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2007",
+  "not": "Tüm Beylerbeyi rakıları %100 suma, şekersiz ve üç kez damıtılmıştır. 1 Ekim 2026 zammıyla 70 cl fiyatı 1.359 TL'den 1.525 TL'ye çıktı.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.barokulu.com/raki/beylerbeyi-rakisi",
+   "https://loucheeffect.com/turkiyede-rakilar/",
+   "https://www.karekod.org/blog/raki-fiyatlari/"
+  ]
+ },
+ {
+  "id": "beylerbeyi-gobek",
+  "ad": "Beylerbeyi Göbek",
+  "marka": "Beylerbeyi",
+  "uretici": "Sarper",
+  "tesis_il": "Manisa (Akhisar)",
+  "kategori": "gobek",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100,
+   150,
+   300
+  ],
+  "distilasyon": "3 kez; her damıtımda imbiğin 5 bölümünden yalnız ortadaki 3. bölüm alınır",
+  "dinlendirme": "",
+  "anason": "Denizli Kalınkoz köyü",
+  "tat": "Göbeğin göbeğinden alınan, yumuşak, dengeli ve aromatik bir rakı; okurlar ve yazarlar en yumuşak içimli rakılardan biri sayıyor.",
+  "puan": 87,
+  "tl": 2100,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2013",
+  "not": "Sarper'in pazar payını 2018'deki %0,5'ten %20'lere taşıyan ürün.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://www.barokulu.com/raki/beylerbeyi-rakisi",
+   "https://loucheeffect.com/turkiyede-rakilar/",
+   "https://fastcompany.com.tr/dergi/sasirtan-buyume-beylerbeyi-markasi-nasil-dogdu/"
+  ]
+ },
+ {
+  "id": "beylerbeyi-teragold",
+  "ad": "Beylerbeyi Teragold",
+  "marka": "Beylerbeyi",
+  "uretici": "Sarper",
+  "tesis_il": "Manisa (Akhisar)",
+  "kategori": "mese",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100,
+   150,
+   300
+  ],
+  "distilasyon": "3 kez",
+  "dinlendirme": "Önce toprak küplerde, sonra meşe fıçıda",
+  "anason": "",
+  "tat": "Çok açık sarımsı; anason yoğun, alkol dingin, yumuşak ve yuvarlak. Olgun ve dengeli, sek bile içilebilir.",
+  "puan": 84,
+  "tl": 1770,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2021",
+  "not": "Şeker ilavesiz, %100 üzüm suması.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/beylerbeyi-teragold-manisa/",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "beylerbeyi-incirden",
+  "ad": "Beylerbeyi Öyleli İncirden",
+  "marka": "Beylerbeyi",
+  "uretici": "Sarper",
+  "tesis_il": "Manisa (Akhisar)",
+  "kategori": "ozel-seri",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   70
+  ],
+  "distilasyon": "3 kez",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Ege incirinden; hafif anason ve baharat nüanslı, dolgun gövdeli. Bol suyla içilmesi önerilir.",
+  "puan": 80,
+  "tl": 2300,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2022",
+  "not": "Rakının en az %65'inin üzümden olması gerektiği için yasal olarak 'rakı' değil, 'distile alkollü içki' etiketiyle satılıyor. Yıllarca kaçak damıtılan incir rakısının ilk yasal üretimi.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://x.com/gustomyalcin/status/1641780470865178627",
+   "https://www.barokulu.com/raki/beylerbeyi-rakisi",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "beylerbeyi-rezerv-kalecik-karasi",
+  "ad": "Beylerbeyi Rezerv Kalecik Karası",
+  "marka": "Beylerbeyi",
+  "uretici": "Sarper",
+  "tesis_il": "Manisa (Akhisar)",
+  "kategori": "gobek",
+  "abv": 45,
+  "hacim_cl": [
+   70
+  ],
+  "distilasyon": "3 kez",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Yoğun anason ve taze üzüm; kara üzümden gelen hafif baharatlı tonlar var. Dinlenmiş ve rahat içimli, baharatlı mezelerle denenmeli.",
+  "puan": 85,
+  "tl": 2300,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2020",
+  "not": "Alaşehir'den alınan Kalecik Karası ile 2019 rekoltesi, 50 bin litre.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/beylerbeyi-kalecik-karasi-akhisar/",
+   "https://www.barokulu.com/raki/beylerbeyi-rakisi"
+  ]
+ },
+ {
+  "id": "beylerbeyi-rezerv-razaki",
+  "ad": "Beylerbeyi Rezerv Razaki",
+  "marka": "Beylerbeyi",
+  "uretici": "Sarper",
+  "tesis_il": "Manisa (Akhisar)",
+  "kategori": "gobek",
+  "abv": 45,
+  "hacim_cl": [
+   70
+  ],
+  "distilasyon": "3 kez",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Taze, canlı ve meyvemsi; yaş üzüm rakısı karakterinde, anasonu yoğun ve rahat içimli.",
+  "puan": 83,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2020",
+  "not": "2019 rekoltesi Razaki, 50 bin litre. Beylerbeyi'nin Ekim 2026 fiyat listesinde yer almıyor (önceki fiyatı 1.995 TL).",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/beylerbeyi-razaki-akhisar/",
+   "https://www.karekod.org/blog/raki-fiyatlari/"
+  ]
+ },
+ {
+  "id": "beylerbeyi-margaz",
+  "ad": "Beylerbeyi Rezerv Margaz (Rezerv No.3)",
+  "marka": "Beylerbeyi",
+  "uretici": "Sarper",
+  "tesis_il": "Manisa (Akhisar)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [
+   70
+  ],
+  "distilasyon": "3 kez",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Çok yoğun taze üzüm kokulu; anasondan çok üzüm önde. Fındık, badem ve armut notaları; canlı bir Akdeniz rakısı.",
+  "puan": 85,
+  "tl": 2300,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2024",
+  "not": "Antalya-Kaş yöresine özgü endemik Margaz üzümü, 40 bin litrelik sınırlı seçki (2023 sürümü).",
+  "bul": "tekel",
+  "kaynak": [
+   "https://loucheeffect.com/raki-tadim-notlari/",
+   "https://degustasyon.net/beylerbeyi-margaz-2023-surumu-izmir/"
+  ]
+ },
+ {
+  "id": "beylerbeyi-isabella",
+  "ad": "Beylerbeyi İsabella",
+  "marka": "Beylerbeyi",
+  "uretici": "Sarper",
+  "tesis_il": "Manisa (Akhisar)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "3 kez",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Yoğun siyah üzüm ve anason kokulu; meyvemsi, canlı ve serinletici. Soğutularak sek bile içilebilir.",
+  "puan": 84,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2026",
+  "not": "Karadeniz'in kokulu İsabella (kokulu üzüm) siyah üzümü; 2.500 adet. Tadım tarihindeki (Şubat 2026) fiyat yaklaşık 2.000 TL, şişe hacmi belirtilmemiş.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/beylerbeyi-isabella-manisa/"
+  ]
+ },
+ {
+  "id": "beyoglu-raki",
+  "ad": "Beyoğlu Rakı (B.R.2 / Premium B.R.P.)",
+  "marka": "Beyoğlu Rakı",
+  "uretici": "Sarper",
+  "tesis_il": "Manisa (Akhisar)",
+  "kategori": "suma",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   70,
+   100
+  ],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Üzüm ve buğday alkolünden; anasonu yoğun, temiz ve dengeli ama damakta biraz kısa kalıyor.",
+  "puan": 75,
+  "tl": 1200,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2020",
+  "not": "Sarper'in tarımsal kökenli etil alkol içeren ekonomik markası.",
+  "bul": "kolay",
+  "kaynak": [
+   "https://degustasyon.net/beylerbeyi-beyoglu-premium-b-r-p-manisa/",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "saki-klasik-gobek",
+  "ad": "Saki Klasik Göbek",
+  "marka": "Saki Rakı",
+  "uretici": "Sezer Holding (Alcosan)",
+  "tesis_il": "Manisa (Salihli)",
+  "kategori": "gobek",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "Bakır imbik",
+  "dinlendirme": "",
+  "anason": "Çeşme",
+  "tat": "",
+  "puan": 0,
+  "tl": 1150,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "",
+  "not": "Saki rakılarının hiçbirine şeker eklenmez. Abv, Bar Okulu'ndaki 'Saki Rakı Klasik' kaydından alındı.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.karekod.org/blog/raki-fiyatlari/",
+   "https://www.barokulu.com/raki/saki-raki"
+  ]
+ },
+ {
+  "id": "saki-gold-gobek",
+  "ad": "Saki Gold Göbek (Altın Seri)",
+  "marka": "Saki Rakı",
+  "uretici": "Sezer Holding (Alcosan)",
+  "tesis_il": "Manisa (Salihli)",
+  "kategori": "gobek",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "Klasik bakır imbik",
+  "dinlendirme": "",
+  "anason": "Çeşme",
+  "tat": "Çok yoğun anason kokulu, kıvamlı ve dinlenmiş; klasik Türk rakısının iyi bir örneği.",
+  "puan": 79,
+  "tl": 1495,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "",
+  "not": "Yaş üzüm alkolü ve tarımsal kökenli alkolden yapılır, şeker katkısızdır. Degustasyon.net'e göre San Francisco'dan gümüş madalyası var (2015).",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/saki-altin-seri-manisa-3/",
+   "https://www.barokulu.com/raki/saki-raki"
+  ]
+ },
+ {
+  "id": "saki-mor-uzum-18",
+  "ad": "Saki Mor Üzüm 18",
+  "marka": "Saki Rakı",
+  "uretici": "Sezer Holding (Alcosan)",
+  "tesis_il": "Manisa (Salihli)",
+  "kategori": "yas-uzum",
+  "abv": null,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "Bakır imbik",
+  "dinlendirme": "",
+  "anason": "Çeşme",
+  "tat": "",
+  "puan": 0,
+  "tl": 1695,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "",
+  "not": "Siyah (mor) üzüm serisinden. Ayrıntılı tadım notu bulunamadı. Alkol oranı doğrulanamadı.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.karekod.org/blog/raki-fiyatlari/"
+  ]
+ },
+ {
+  "id": "saki-de-lux",
+  "ad": "Saki De Lux Siyah Üzüm",
+  "marka": "Saki Rakı",
+  "uretici": "Sezer Holding (Alcosan)",
+  "tesis_il": "Manisa (Salihli)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "Bakır imbik",
+  "dinlendirme": "18 ay; 18 kez filtre",
+  "anason": "Çeşme",
+  "tat": "Çekirdekleriyle fermente edilen siyah üzümden yapılır, Uludağ'ın yüksek pH'lı suyuyla seyreltilir; dolgun ve kıvamlı bir rakı.",
+  "puan": 84,
+  "tl": 1950,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2024",
+  "not": "Yalnızca siyah üzümden yapılan ilk rakı olarak tanıtılıyor.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://www.barokulu.com/raki/saki-raki",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "saki-premium-50",
+  "ad": "Saki Premium 50",
+  "marka": "Saki Rakı",
+  "uretici": "Sezer Holding (Alcosan)",
+  "tesis_il": "Manisa (Salihli)",
+  "kategori": "ozel-seri",
+  "abv": 50,
+  "hacim_cl": [
+   70,
+   300
+  ],
+  "distilasyon": "Bakır imbik",
+  "dinlendirme": "50 ay; 50 kez filtre",
+  "anason": "Çeşme",
+  "tat": "Yoğun beyazlanır; anason ve dinlenmiş üzüm alkolü güçlü. Dolgun ve tok ama %50'ye rağmen yuvarlak, uzun kalıcı.",
+  "puan": 86,
+  "tl": 5950,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "",
+  "not": "5.000 şişelik sınırlı üretim (degustasyon 2017 tadımı 'Saki Rakı Premium' adıyla).",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/saki-raki-premium-salihli/",
+   "https://www.barokulu.com/raki/saki-raki",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "saki-premium-100",
+  "ad": "Saki Premium 100",
+  "marka": "Saki Rakı",
+  "uretici": "Sezer Holding (Alcosan)",
+  "tesis_il": "Manisa (Salihli)",
+  "kategori": "ozel-seri",
+  "abv": 50,
+  "hacim_cl": [
+   70,
+   300
+  ],
+  "distilasyon": "Bakır imbik",
+  "dinlendirme": "100 ay; 100 kez filtre",
+  "anason": "Çeşme",
+  "tat": "Kaymak gibi beyazlanır; dolgun ve kıvamlı, alkol hissedilmez, anasondan gelen hafif tatlımsılık var. Eskilerin 'şerbet gibi' dediği türden.",
+  "puan": 88,
+  "tl": 6950,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2024",
+  "not": "Mantar tıpalı karafta satılıyor; Türkiye'nin en pahalı rakısı. Uludağ kaynak suyuyla seyreltilir. %100 siyah yaş üzüm (Louche Effect).",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/saki-premium-100-salihli/",
+   "https://www.barokulu.com/raki/saki-raki",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "saki-uludag-seri",
+  "ad": "Saki Uludağ Seri",
+  "marka": "Saki Rakı",
+  "uretici": "Sezer Holding (Alcosan)",
+  "tesis_il": "Manisa (Salihli)",
+  "kategori": "ozel-seri",
+  "abv": 45,
+  "hacim_cl": [
+   70,
+   300
+  ],
+  "distilasyon": "Bakır imbik",
+  "dinlendirme": "50 ay; 50 kez filtre",
+  "anason": "Çeşme",
+  "tat": "",
+  "puan": 0,
+  "tl": 5950,
+  "tl_kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+  "yil": "2024",
+  "not": "%100 siyah yaş üzüm. Karekod listesinde 'Ustağ Seri' olarak yazılmış, büyük olasılıkla Uludağ Seri kastediliyor.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.barokulu.com/raki/saki-raki",
+   "https://loucheeffect.com/turkiyede-rakilar/",
+   "https://www.karekod.org/blog/raki-fiyatlari/"
+  ]
+ },
+ {
+  "id": "saki-gurme",
+  "ad": "Saki Gurme",
+  "marka": "Saki Rakı",
+  "uretici": "Sezer Holding (Alcosan)",
+  "tesis_il": "Manisa (Salihli)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "Bakır imbik",
+  "dinlendirme": "12 ay; 12 kez filtre",
+  "anason": "Çeşme",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2024",
+  "not": "%100 yaş üzüm.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.barokulu.com/raki/saki-raki",
+   "https://loucheeffect.com/turkiyede-rakilar/"
+  ]
+ },
+ {
+  "id": "saki-siyah-uzum-ozel-seri",
+  "ad": "Saki Siyah Üzüm Özel Seri",
+  "marka": "Saki Rakı",
+  "uretici": "Sezer Holding (Alcosan)",
+  "tesis_il": "Manisa (Salihli)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "Bakır imbik",
+  "dinlendirme": "10 ay; 10 kez filtre",
+  "anason": "Çeşme",
+  "tat": "Anason ile üzüm alkolü dengeli; dolgun, yoğun, kalıcı ve 'kaymaksı'.",
+  "puan": 83,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2015",
+  "not": "%100 siyah üzüm, sıfır şeker, sınırlı üretim. Degustasyon.net'e göre San Francisco'dan gümüş madalyalı. Bugünkü De Lux ve Mor Üzüm serilerinin öncülü olabilir.",
+  "bul": "uretim-durdu",
+  "kaynak": [
+   "https://degustasyon.net/saki-siyah-uzum-rakisi-ozel-seri-manisa-3/",
+   "https://www.barokulu.com/raki/saki-raki"
+  ]
+ },
+ {
+  "id": "burgaz-gobek",
+  "ad": "Burgaz Göbek (3 Distile)",
+  "marka": "Burgaz",
+  "uretici": "Ankol (Türk Tuborg)",
+  "tesis_il": "Antalya (Döşemealtı)",
+  "kategori": "gobek",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "3 kez bakır imbik; 5 bölümlük damıtımın yalnız 3. bölümü",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Yoğun anason ve dinlenmiş alkol kokulu; temiz, yumuşak, olgun ve dengeli. Acısız mezeler ve beyaz etli balıkla içilir.",
+  "puan": 78,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "Toros dağlarının suyuyla üretilir. Burgaz markası 2004'te Lüleburgaz'da doğdu.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/burgaz-raki-3-distile-antalya/",
+   "https://www.ankol.com.tr/markalar%C4%B1m%C4%B1z"
+  ]
+ },
+ {
+  "id": "burgaz-export",
+  "ad": "Burgaz Export",
+  "marka": "Burgaz",
+  "uretici": "Ankol (Türk Tuborg)",
+  "tesis_il": "Antalya (Döşemealtı)",
+  "kategori": "kuru-uzum",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "Anasonla ikinci damıtım",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Kuru üzüm suması ve tarımsal alkolden yapılan klasik tip; anasonu yoğun, buruk tonlu. Acılı mezeler ve kebapla içilir.",
+  "puan": 72,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/burgaz-export-raki-antalya/"
+  ]
+ },
+ {
+  "id": "ata-raki-gold",
+  "ad": "Ata Rakı Gold",
+  "marka": "Ata Rakı",
+  "uretici": "Ankol (Türk Tuborg)",
+  "tesis_il": "Antalya (Döşemealtı)",
+  "kategori": "suma",
+  "abv": null,
+  "hacim_cl": [],
+  "distilasyon": "3 kez bakır imbik (Ankol'un genel açıklaması)",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "Ata markası 2004-2005'te Burgaz Alkollü İçkiler tarafından çıkarıldı; adı nedeniyle mahkemeye taşındı. Bugün Ankol portföyünde.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.ankol.com.tr/markalar%C4%B1m%C4%B1z",
+   "https://www.hurriyet.com.tr/ekonomi/rakida-4-ozel-firma-20-degisik-marka-var-5901487"
+  ]
+ },
+ {
+  "id": "yedi-raki",
+  "ad": "Yedi Rakı",
+  "marka": "Yedi Rakı",
+  "uretici": "Ankol (Türk Tuborg)",
+  "tesis_il": "Antalya (Döşemealtı)",
+  "kategori": "suma",
+  "abv": null,
+  "hacim_cl": [],
+  "distilasyon": "3 kez bakır imbik (Ankol'un genel açıklaması)",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "Ankol'un marka sayfasında listeleniyor; ürün ayrıntısı bulunamadı.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.ankol.com.tr/markalar%C4%B1m%C4%B1z"
+  ]
+ },
+ {
+  "id": "mercan-gobek",
+  "ad": "Mercan Göbek Rakısı",
+  "marka": "Mercan Rakı",
+  "uretici": "Tariş Üzüm (Anadolu Efes - AE Mercan)",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "gobek",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   50,
+   70,
+   300
+  ],
+  "distilasyon": "3 kez bakır imbik",
+  "dinlendirme": "3 ay",
+  "anason": "Çeşme",
+  "tat": "Çok yoğun anason ve üzüm alkolü kokulu; ağızda kaygan, dolgun ve dengeli. Ferahlatıcı, 'fresh' bir rakı.",
+  "puan": 81,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2021",
+  "not": "%100 Ege Sultani kuru üzümü, İzmir Bozdağ suyu; şekersiz, mantar tıpalı şişe. 2026'da Anadolu Efes çoğunluk hissesini aldı.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/mercan-gobek-rakisi-manisa/",
+   "https://loucheeffect.com/turkiyede-rakilar/",
+   "https://sendeyim.com.tr/blog/mercan-raki-nerenin",
+   "https://www.sozcu.com.tr/turkiye-nin-dev-bira-sirketi-unlu-raki-markasini-satin-aldi-p341256"
+  ]
+ },
+ {
+  "id": "fasil-raki",
+  "ad": "Fasıl Rakı",
+  "marka": "Fasıl Rakı",
+  "uretici": "Tariş-Tat",
+  "tesis_il": "Manisa (Alaşehir)",
+  "kategori": "kuru-uzum",
+  "abv": 45,
+  "hacim_cl": [
+   35,
+   70
+  ],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2005",
+  "not": "Tariş ile Koç Grubu'nun (Tat) ortaklığı Aralık 2005'te çıkardı; ortaklık 2007-2008'de sona erince üretim durdu.",
+  "bul": "uretim-durdu",
+  "kaynak": [
+   "https://www.hurriyet.com.tr/kelebek/piyasada-artik-13-raki-var-3714135",
+   "https://www.egedesonsoz.com/izmirde-1-milyar-tllik-satis-anadolu-grubu-tarisin-rakisini-aldi"
+  ]
+ },
+ {
+  "id": "anadolu-sifir-seri",
+  "ad": "Anadolu Rakı Sıfır Seri",
+  "marka": "Sıfır Seri",
+  "uretici": "İzmir Alkollü İçecek",
+  "tesis_il": "Manisa (Turgutlu)",
+  "kategori": "suma",
+  "abv": 45,
+  "hacim_cl": [
+   20,
+   35,
+   70,
+   100
+  ],
+  "distilasyon": "Çift damıtım, bakır imbik",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "Yaş ve kuru üzümle yapılır.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.izmiralkollu.com/sifir-seri/",
+   "https://www.izmiralkollu.com/"
+  ]
+ },
+ {
+  "id": "anadolu-sifir-seri-gold",
+  "ad": "Sıfır Seri Gold",
+  "marka": "Sıfır Seri",
+  "uretici": "İzmir Alkollü İçecek",
+  "tesis_il": "Manisa (Turgutlu)",
+  "kategori": "suma",
+  "abv": 45,
+  "hacim_cl": [
+   20,
+   35,
+   70,
+   100
+  ],
+  "distilasyon": "Çift damıtım, bakır imbik",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.izmiralkollu.com/sifir-seri-gold/"
+  ]
+ },
+ {
+  "id": "anadolu-sifir-seri-ahenk",
+  "ad": "Anadolu Rakı Sıfır Seri Ahenk",
+  "marka": "Sıfır Seri",
+  "uretici": "İzmir Alkollü İçecek",
+  "tesis_il": "Manisa (Turgutlu)",
+  "kategori": "ozel-seri",
+  "abv": 45,
+  "hacim_cl": [
+   70
+  ],
+  "distilasyon": "Tamamen üzümden",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "Yoğun anason ve üzüm kokulu; meyvemsi üzüm tadı ile anasonun baharatı çok dengeli, adı gibi 'ahenkli'. Temiz, rafine ve rahat içimli.",
+  "puan": 83,
+  "tl": 2350,
+  "tl_kaynak": "https://degustasyon.net/anadolu-raki-sifir-seri-ahenk-manisa/",
+  "yil": "",
+  "not": "Şık bir kutuda satılır. Fiyat, Şubat 2026 tarihli tadım notundan alındı.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/anadolu-raki-sifir-seri-ahenk-manisa/",
+   "https://www.izmiralkollu.com/sifir-seri-ahenk/"
+  ]
+ },
+ {
+  "id": "asina",
+  "ad": "Aşina",
+  "marka": "Aşina",
+  "uretici": "İzmir Alkollü İçecek",
+  "tesis_il": "Manisa (Turgutlu)",
+  "kategori": "suma",
+  "abv": 45,
+  "hacim_cl": [
+   100
+  ],
+  "distilasyon": "Çift damıtım, bakır imbik",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.izmiralkollu.com/asina/"
+  ]
+ },
+ {
+  "id": "asina-gold",
+  "ad": "Aşina Gold",
+  "marka": "Aşina",
+  "uretici": "İzmir Alkollü İçecek",
+  "tesis_il": "Manisa (Turgutlu)",
+  "kategori": "suma",
+  "abv": 45,
+  "hacim_cl": [
+   100
+  ],
+  "distilasyon": "Çift damıtım, bakır imbik",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.izmiralkollu.com/asina-gold/"
+  ]
+ },
+ {
+  "id": "cihanbeyi",
+  "ad": "Cihanbeyi",
+  "marka": "Cihanbeyi",
+  "uretici": "İzmir Alkollü İçecek",
+  "tesis_il": "Manisa (Turgutlu)",
+  "kategori": "suma",
+  "abv": 40,
+  "hacim_cl": [
+   50,
+   70,
+   100
+  ],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "Firmanın %40 alkollü ekonomik ürünü.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.izmiralkollu.com/cihanbeyi/"
+  ]
+ },
+ {
+  "id": "lokal-derya-kuzusu-5-distile",
+  "ad": "Lokal Derya Kuzusu 5 Distile",
+  "marka": "Lokal Rakı",
+  "uretici": "Deva İçecek",
+  "tesis_il": "Manisa (Salihli)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "5 kez, İtalyan bakır imbikte",
+  "dinlendirme": "",
+  "anason": "Fethiye",
+  "tat": "Kaymak kıvamında beyazlanır; aromatik misket üzümü önde, yoğun anason ve hafif tatlımsılık var. Akdeniz mezeleri ve balıkla içilir.",
+  "puan": 84,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2025",
+  "not": "İzmir Bornova Misketi, tarımsal kökenli alkol yok; şişede camdan balık kuyruğu kabartması var, sınırlı üretim. Mayıs 2025 tadımında yaklaşık 2.750 TL (hacim belirtilmemiş).",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/lokal-derya-kuzusu-5-distile-manisa/",
+   "https://www.procarton.com/the_awards/lokal-raki-derya-kuzusu-carton/"
+  ]
+ },
+ {
+  "id": "lokal-derya-kuzusu-gobek",
+  "ad": "Lokal Derya Kuzusu Göbek",
+  "marka": "Lokal Rakı",
+  "uretici": "Deva İçecek",
+  "tesis_il": "Manisa (Salihli)",
+  "kategori": "gobek",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "3 kez",
+  "dinlendirme": "",
+  "anason": "Denizli-Acıpayam",
+  "tat": "Yoğun beyazlanır; burunda dinlenmiş alkol ve anason, ağızda üzüm önde. Dolgun ve tok, kebap ve baharatlı mezelerle denenmeli.",
+  "puan": 81,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2025",
+  "not": "Tokat Narince ve Ege Sultaniye üzümü. Mayıs 2025 tadımında yaklaşık 1.400 TL.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/lokal-derya-kuzusu-gobek-manisa/",
+   "https://weinatolien.de/products/lokal-derya-kuzusu-goebek-raki"
+  ]
+ },
+ {
+  "id": "lokal-derya-kuzusu-olgunlasmis-hasat",
+  "ad": "Lokal Derya Kuzusu Olgunlaşmış Hasat",
+  "marka": "Lokal Rakı",
+  "uretici": "Deva İçecek",
+  "tesis_il": "Manisa (Salihli)",
+  "kategori": "yas-uzum",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "2 kez",
+  "dinlendirme": "",
+  "anason": "Burdur",
+  "tat": "Yoğun anasonlu; damakta temiz, dinlenmiş üzüm alkolü önde. Tok içimli.",
+  "puan": 78,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "2025",
+  "not": "Kapadokya Emir ve Ege Sultaniye üzümü. Mayıs 2025 tadımında yaklaşık 1.100 TL.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/lokal-derya-kuzusu-olgunlasmis-hasat-manisa/"
+  ]
+ },
+ {
+  "id": "yeniceri-altin-seri",
+  "ad": "Yeniçeri Altın Seri",
+  "marka": "Yeniçeri",
+  "uretici": "",
+  "tesis_il": "Afyonkarahisar",
+  "kategori": "mese",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "Yaş üzüm alkolü anasonla yeniden damıtılmış",
+  "dinlendirme": "Meşe fıçıda",
+  "anason": "Afyon-Dinar ovası",
+  "tat": "Çok hafif sarımtırak; anason ve üzüm alkolü yoğun, burunda meyvemsi. Olgun ve dinlenmiş, sek bile içilebilir.",
+  "puan": 78,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "2019'da tadıldı. Afyon'da bugün lisanslı rakı tesisi bulunmadığından üretimi durmuş görünüyor; üretici firma doğrulanamadı.",
+  "bul": "uretim-durdu",
+  "kaynak": [
+   "https://degustasyon.net/yeniceri-altin-seri-afyon/"
+  ]
+ },
+ {
+  "id": "yekta-raki",
+  "ad": "Yekta Rakı",
+  "marka": "Yekta",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "suma",
+  "abv": null,
+  "hacim_cl": [],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "2000'lerin ortasında Mey portföyünde olan, bugün satılmayan marka.",
+  "bul": "uretim-durdu",
+  "kaynak": [
+   "https://www.hurriyet.com.tr/ekonomi/rakida-4-ozel-firma-20-degisik-marka-var-5901487"
+  ]
+ },
+ {
+  "id": "mest-misket",
+  "ad": "Mest Misket",
+  "marka": "Mest",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "yas-uzum",
+  "abv": null,
+  "hacim_cl": [],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "Mey'in 2000'lerin ortasında çıkardığı tek üzüm (misket) rakısı; bugün satılmıyor.",
+  "bul": "uretim-durdu",
+  "kaynak": [
+   "https://www.hurriyet.com.tr/ekonomi/rakida-4-ozel-firma-20-degisik-marka-var-5901487"
+  ]
+ },
+ {
+  "id": "mest-sultaniye",
+  "ad": "Mest Sultaniye",
+  "marka": "Mest",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "yas-uzum",
+  "abv": null,
+  "hacim_cl": [],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "Mey'in 2000'lerin ortasında çıkardığı tek üzüm (Sultaniye) rakısı; bugün satılmıyor.",
+  "bul": "uretim-durdu",
+  "kaynak": [
+   "https://www.hurriyet.com.tr/ekonomi/rakida-4-ozel-firma-20-degisik-marka-var-5901487"
+  ]
+ },
+ {
+  "id": "izmir-sakiz-rakisi",
+  "ad": "İzmir Sakız Rakısı",
+  "marka": "İzmir Rakısı",
+  "uretici": "Mey|Diageo",
+  "tesis_il": "",
+  "kategori": "ozel-seri",
+  "abv": null,
+  "hacim_cl": [],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "2000'lerde satılan sakızlı rakı; 2019'da 'Herdem İzmir Sakızlı' adıyla benzer bir ürün çıktı.",
+  "bul": "uretim-durdu",
+  "kaynak": [
+   "https://www.hurriyet.com.tr/ekonomi/rakida-4-ozel-firma-20-degisik-marka-var-5901487"
+  ]
+ },
+ {
+  "id": "raki-turka",
+  "ad": "Rakı Turka",
+  "marka": "Burgaz",
+  "uretici": "Burgaz Alkollü İçkiler",
+  "tesis_il": "Kırklareli (Lüleburgaz)",
+  "kategori": "suma",
+  "abv": null,
+  "hacim_cl": [],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "2000'lerde Burgaz'ın ürettiği marka; bugün satılmıyor.",
+  "bul": "uretim-durdu",
+  "kaynak": [
+   "https://www.hurriyet.com.tr/ekonomi/rakida-4-ozel-firma-20-degisik-marka-var-5901487"
+  ]
+ },
+ {
+  "id": "burgaz-yas-uzum",
+  "ad": "Burgaz Yaş Üzüm",
+  "marka": "Burgaz",
+  "uretici": "Burgaz Alkollü İçkiler",
+  "tesis_il": "Kırklareli (Lüleburgaz)",
+  "kategori": "yas-uzum",
+  "abv": null,
+  "hacim_cl": [],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "2000'lerde Burgaz'ın ürettiği yaş üzüm rakısı; güncel listelerde yok.",
+  "bul": "uretim-durdu",
+  "kaynak": [
+   "https://www.hurriyet.com.tr/ekonomi/rakida-4-ozel-firma-20-degisik-marka-var-5901487"
+  ]
+ },
+ {
+  "id": "ricard-pastis",
+  "ad": "Ricard Pastis de Marseille",
+  "marka": "Ricard",
+  "uretici": "Pernod Ricard (Fransa)",
+  "tesis_il": "Fransa (Marsilya)",
+  "kategori": "yabanci-anason",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "Yaklaşık %2 anason ile meyankökü ve başka aromatik bitkiler; karamel",
+  "tat": "Turuncumsu renkte, su katınca sarımsı-kızılımsı beyazlanır. Anason ve meyankökü önde, sakızımsı çeşniler var; çok rahat içimli.",
+  "puan": 78,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "Rakı gibi değil, uzun bardakta 1'e 4 soğuk su ve buzla aperitif olarak içilir. Türkiye ithalatçısı Pernod Ricard; Nisan 2024 tadımında 925 TL.",
+  "bul": "tekel",
+  "kaynak": [
+   "https://degustasyon.net/ricard-pastis-fransa/"
+  ]
+ },
+ {
+  "id": "plomari-ouzo",
+  "ad": "Plomari Ouzo",
+  "marka": "Plomari",
+  "uretici": "Plomari (Midilli)",
+  "tesis_il": "Yunanistan (Midilli, Plomari)",
+  "kategori": "yabanci-anason",
+  "abv": 40,
+  "hacim_cl": [],
+  "distilasyon": "18 küçük imbikte iki kez",
+  "dinlendirme": "",
+  "anason": "Çeşme anasonu ve Çin yıldız anasonu; rezene, tarçın, muskat ve damla sakızı",
+  "tat": "Su katınca hafif ve grimsi beyazlanır; sakız önde, anason geride. Yumuşak ve ince, meyveyle ya da sek aperitif olarak içilir.",
+  "puan": 76,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "Türkiye ithalatçısı Demirtaş; Nisan 2024 tadımında 950 TL.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/plomario-uzo-yunanistan/"
+  ]
+ },
+ {
+  "id": "barbayanni-ouzo",
+  "ad": "Barbayanni Ouzo",
+  "marka": "Barbayanni",
+  "uretici": "Barbayanni (Midilli)",
+  "tesis_il": "Yunanistan (Midilli, Plomari)",
+  "kategori": "yabanci-anason",
+  "abv": 43,
+  "hacim_cl": [],
+  "distilasyon": "",
+  "dinlendirme": "",
+  "anason": "Anason ve damla sakızı",
+  "tat": "İyi beyazlanır; yoğun anason ve temiz alkol, arkada hafif sakız. Dolgun ve yumuşak, Türk rakısını andıran bir uzo.",
+  "puan": 79,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "1860",
+  "not": "Plomari'de 1860'tan beri üretiliyor. Türkiye ithalatçısı Demirtaş.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/barbayanni-uzo-yunanistan-2/"
+  ]
+ },
+ {
+  "id": "ouzo-12",
+  "ad": "Ouzo 12",
+  "marka": "Ouzo 12",
+  "uretici": "Kaloyannis",
+  "tesis_il": "Yunanistan",
+  "kategori": "yabanci-anason",
+  "abv": 38,
+  "hacim_cl": [
+   70
+  ],
+  "distilasyon": "Üzüm alkolü anason ve baharatlarla iki kez damıtılır",
+  "dinlendirme": "",
+  "anason": "Anason, kakule, tarçın, kişniş ve muskat",
+  "tat": "",
+  "puan": 0,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "1880",
+  "not": "Kaloyannis kardeşler ilk kez 1880'de İstanbul'daki imalathanelerinde üretti; adını 12 numaralı fıçıdaki harmandan alır. Dünyanın en çok satan uzosu sayılır. Bazı pazarlarda %40 olarak da satılır.",
+  "bul": "zor",
+  "kaynak": [
+   "https://www.diffordsguide.com/beer-wine-spirits/40/ouzo-12",
+   "https://www.drinksupermarket.com/ouzo-greek-herbal-liqueur-70-cl-38-abv"
+  ]
+ },
+ {
+  "id": "mtallat-arak",
+  "ad": "Mtallat Arak",
+  "marka": "Mtallat",
+  "uretici": "The Three Brothers (Lübnan)",
+  "tesis_il": "Lübnan",
+  "kategori": "yabanci-anason",
+  "abv": 53,
+  "hacim_cl": [],
+  "distilasyon": "3 kez",
+  "dinlendirme": "Toprak küplerde",
+  "anason": "Akdeniz anasonu",
+  "tat": "Kaymak gibi beyazlanır; buram buram anason ve üzüm alkolü. Dolgun ve tok, meyvemsi üzümle anason dengeli.",
+  "puan": 82,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "Obeydi ve Merve (Merwah) üzümü. Türkiye ithalatçısı JBI Trading; Şubat 2024 tadımında 1.960 TL.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/mtallat-lubnan/"
+  ]
+ },
+ {
+  "id": "otto-raki",
+  "ad": "Otto Rakı",
+  "marka": "Otto",
+  "uretici": "Otto Rakı (Viyana)",
+  "tesis_il": "Avusturya (Viyana)",
+  "kategori": "yabanci-anason",
+  "abv": 45,
+  "hacim_cl": [],
+  "distilasyon": "5 kez",
+  "dinlendirme": "",
+  "anason": "Türk anasonu; kuru incir, meyankökü, portakal çiçeği ve kakule",
+  "tat": "Hafif beyazlanır; sakızımsı ve meyvemsi, çok yumuşak ve hafif tatlımsı. Rakıdan çok uzoya yakın.",
+  "puan": 76,
+  "tl": 0,
+  "tl_kaynak": "",
+  "yil": "",
+  "not": "Avusturya Pinot Blanc üzümünden Viyana'da damıtılır. Avrupa'da yaklaşık 40 €.",
+  "bul": "zor",
+  "kaynak": [
+   "https://degustasyon.net/otto-raki-avusturya/"
+  ]
+ }
+]
