@@ -1,4 +1,82 @@
 {
- "baglantilar": {},
- "yok": {}
+ "baglantilar": {
+  "Ankol (Türk Tuborg)": {
+   "web": "https://www.turktuborg.com.tr/",
+   "kontrol": "2026-10-05"
+  },
+  "Barbayanni (Midilli)": {
+   "web": "https://www.varvayanni.com/",
+   "kontrol": "2026-10-05"
+  },
+  "Deva İçecek": {
+   "web": "https://www.devaicecek.com/",
+   "kontrol": "2026-10-05"
+  },
+  "Efe (Distile İçki)": {
+   "web": "https://www.eferaki.com.tr/",
+   "kontrol": "2026-10-05"
+  },
+  "İzmir Alkollü İçecek": {
+   "web": "https://www.izmiralkollu.com/",
+   "kontrol": "2026-10-05"
+  },
+  "Kaloyannis": {
+   "web": "https://www.ouzo12.com/",
+   "ig": "https://www.instagram.com/ouzo12.gr/",
+   "fb": "https://www.facebook.com/Ouzo12.gr",
+   "yt": "https://www.youtube.com/@ouzo12-gr",
+   "kontrol": "2026-10-05"
+  },
+  "Mey (Diageo)": {
+   "web": "https://www.diageoturkiye.com/",
+   "ig": "https://www.instagram.com/diageo_turkiye",
+   "fb": "https://www.facebook.com/diageoturkiye",
+   "kontrol": "2026-10-05"
+  },
+  "Otto Rakı (Viyana)": {
+   "web": "https://ottoraki.com/",
+   "ig": "https://www.instagram.com/ottoraki",
+   "fb": "https://www.facebook.com/ottoraki",
+   "yt": "https://www.youtube.com/channel/UCX4YnN7dGa9WFq7HqNk6_jA",
+   "kontrol": "2026-10-05"
+  },
+  "Pernod Ricard (Fransa)": {
+   "web": "https://www.pernod-ricard.com/",
+   "ig": "https://www.instagram.com/pernodricard",
+   "x": "https://x.com/Pernod_Ricard",
+   "yt": "https://www.youtube.com/channel/UCfcIDL5eM_pxNN-p91tmFyA",
+   "kontrol": "2026-10-05"
+  },
+  "Plomari (Midilli)": {
+   "web": "https://ouzoplomari.gr/",
+   "ig": "https://www.instagram.com/ouzoplomari/",
+   "fb": "https://www.facebook.com/ouzoplomari",
+   "yt": "https://www.youtube.com/@ouzoplomari_isidoros_arvanitis",
+   "kontrol": "2026-10-05"
+  },
+  "Sarper": {
+   "web": "https://sarper.com/",
+   "kontrol": "2026-10-05"
+  },
+  "Sezer Holding (Alcosan)": {
+   "web": "https://www.sezerholding.com.tr/",
+   "fb": "https://www.facebook.com/sezerholding",
+   "x": "https://twitter.com/sezerholding",
+   "kontrol": "2026-10-05"
+  },
+  "Tariş Üzüm (Anadolu Efes - AE Mercan)": {
+   "web": "https://www.tarisuzum.com.tr/",
+   "ig": "https://www.instagram.com/tarisuzum/",
+   "fb": "https://www.facebook.com/tarisuzumbirligi",
+   "x": "https://x.com/TarisUzum",
+   "yt": "https://www.youtube.com/@tarisuzumbirligi",
+   "kontrol": "2026-10-05"
+  }
+ },
+ "yok": {
+  "Burgaz Alkollü İçkiler": "2026-10-05",
+  "Tariş-Tat": "2026-10-05",
+  "The Three Brothers (Lübnan)": "2026-10-05",
+  "Üreticisi doğrulanamadı": "2026-10-05"
+ }
 }
