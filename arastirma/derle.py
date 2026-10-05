@@ -16,6 +16,10 @@ DATA_DIR = os.path.join(SITE, 'data')
 os.makedirs(DATA_DIR, exist_ok=True)
 TARIH = '2026-10-04'
 
+# Marka seviyesi (rozet): marka puanı = markanın puanlı ürünlerinin en yüksek 'adet' puanının ortalaması.
+# puan >= Premium eşiği → 'Premium'; >= '2' eşiği → '2' (2. Düzey); altı → '3' (3. Düzey); puanlı ürünü yoksa '0' (Derecelendirilmedi).
+SEVIYE_ESIKLERI = {'Premium': 85, '2': 80, 'adet': 3}
+
 
 def oku(ad, var=None):
     p = os.path.join(KOK, ad)
@@ -79,6 +83,24 @@ for r in rakilar:
 
 if hatalar:
     print('\n'.join('⚠️ ' + h for h in hatalar))
+
+# ---------- 1b. Marka seviyesi (yalnızca mevcut puan alanlarından) ----------
+_puanlar = {}
+for d in DATA:
+    if d['puan'] > 0:
+        _puanlar.setdefault(d['marka'], []).append(d['puan'])
+
+
+def marka_seviyesi(marka):
+    p = sorted(_puanlar.get(marka, []), reverse=True)[:SEVIYE_ESIKLERI['adet']]
+    if not p:
+        return '0'
+    ort = sum(p) / len(p)
+    return 'Premium' if ort >= SEVIYE_ESIKLERI['Premium'] else '2' if ort >= SEVIYE_ESIKLERI['2'] else '3'
+
+
+for d in DATA:
+    d['sev'] = marka_seviyesi(d['marka'])
 
 SIRA = {k: i for i, k in enumerate(KATEGORILER)}
 DATA.sort(key=lambda d: (d['ulke'] != 'Türkiye', d['ure'], d['marka'], SIRA.get(d['kat'], 9), -(d['puan'] or 0)))
@@ -161,5 +183,11 @@ for ad, anahtar in (('baglantilar.json', 'baglantilar'), ('gorseller.json', 'gor
     if not os.path.exists(os.path.join(DATA_DIR, ad)):
         yaz(ad, {anahtar: {}, 'yok': {}})
 
+_mk = {}
+for d in DATA:
+    _mk[d['marka']] = d['sev']
+print('Seviye eşikleri:', SEVIYE_ESIKLERI)
+for k, ad in (('Premium', 'Premium'), ('2', '2. Düzey'), ('3', '3. Düzey'), ('0', 'Derecelendirilmedi')):
+    print(f'  {ad}: {sum(1 for v in _mk.values() if v == k)} marka · {sum(1 for d in DATA if d["sev"] == k)} ürün')
 print(f'{len(DATA)} rakı · {len({d["ure"] for d in DATA})} üretici · {len({d["marka"] for d in DATA})} marka · '
       f'{sum(1 for d in DATA if d["tlK"])} kaynaklı fiyat ({eklenen} yeni kayıt) · {len(ureticiler)} tesis')
