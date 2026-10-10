@@ -298,6 +298,18 @@ nav.groups{display:flex;gap:6px;margin:20px 0 10px;background:var(--bg2);border:
 .dt-sec h4{font-size:13px;color:var(--amber-soft);text-transform:uppercase;letter-spacing:.5px;margin-bottom:7px}
 .dt-txt{font-size:13.5px;color:var(--txt);line-height:1.55}
 .dt-src{font-size:12px;color:var(--muted);margin-top:4px;word-break:break-all}
+.profil .pgrup{background:var(--bg2);border:1px solid var(--line);border-radius:10px;padding:9px 11px;margin-top:8px}
+.profil .pg-bas{font-size:11px;font-weight:800;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;margin-bottom:5px}
+.profil .psatir{margin-top:6px}
+.profil .ps-et{font-size:12.5px;font-weight:700;color:var(--amber2);margin-bottom:2px;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.pk{font-size:10.5px;font-weight:700;border-radius:999px;padding:1px 7px;border:1px solid var(--line);white-space:nowrap}
+.pk-k{color:var(--have);border-color:var(--have)}.pk-t{color:var(--amber);border-color:var(--amber-soft)}.pk-d{color:var(--muted);border-style:dashed}
+.pbars{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 14px}
+.pbar .pb-ad{font-size:12.5px;font-weight:700;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.pb-iz{display:grid;grid-template-columns:repeat(5,1fr);gap:3px;margin-top:5px}
+.pb-iz i{height:8px;border-radius:3px;background:var(--line)}.pb-iz i.on{background:var(--amber)}
+.pb-uc{display:flex;justify-content:space-between;font-size:10.5px;color:var(--muted);margin-top:2px}
+@media (max-width:520px){.pbars{grid-template-columns:1fr}}
 .dt-acts{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px}
 .dt-acts .btn{padding:9px 13px;font-size:13px}
 .spark{width:100%;height:70px;display:block}
@@ -612,6 +624,8 @@ details.hik{margin-top:8px}details.hik summary{cursor:pointer;color:var(--amber-
 
   <section id="view-enler" class="hidden">
     <p class="intro">Puanı olan rakılar, en yüksekten aşağı. Puanlar tadım yazılarındaki notlardan derlenmiş editoryal puanlardır (0-100); puanı olmayan rakılar burada yer almaz, katalogda “—” ile görünür.</p>
+    <div class="pillrow" id="enlerTop" role="group" aria-label="Kaç rakı gösterilsin"><span class="chip" data-topn="50">🏆 En iyi 50</span><span class="chip" data-topn="100">En iyi 100</span><span class="chip" data-topn="200">En iyi 200</span></div>
+    <p class="note" id="enlerSay" style="margin:6px 0 10px"></p>
     <div id="enlerGrid" class="grid"></div>
   </section>
 
@@ -745,7 +759,11 @@ const DATA = [
 {"id":"ata-raki-gold","ad":"Ata Rakı Gold","marka":"Ata Rakı","ure":"Ankol (Türk Tuborg)","il":"Antalya (Döşemealtı)","ulke":"Türkiye","kat":"suma","abv":0,"hacim":[],"dist":"3 kez bakır imbik (Ankol'un genel açıklaması)","dinl":"","anason":"","tat":"","not":"Ata markası 2004-2005'te Burgaz Alkollü İçkiler tarafından çıkarıldı; adı nedeniyle mahkemeye taşındı. Bugün Ankol portföyünde.","puan":0,"tl":0,"tlK":"","yil":"","bul":"zor","kaynak":["https://www.ankol.com.tr/markalar%C4%B1m%C4%B1z","https://www.hurriyet.com.tr/ekonomi/rakida-4-ozel-firma-20-degisik-marka-var-5901487"],"sev":"0"},
 {"id":"burgaz-export","ad":"Burgaz Export","marka":"Burgaz","ure":"Ankol (Türk Tuborg)","il":"Antalya (Döşemealtı)","ulke":"Türkiye","kat":"kuru-uzum","abv":45,"hacim":[],"dist":"Anasonla ikinci damıtım","dinl":"","anason":"","tat":"Kuru üzüm suması ve tarımsal alkolden yapılan klasik tip; anasonu yoğun, buruk tonlu. Acılı mezeler ve kebapla içilir.","not":"","puan":72,"tl":0,"tlK":"","yil":"","bul":"zor","kaynak":["https://degustasyon.net/burgaz-export-raki-antalya/"],"sev":"3"},
 {"id":"burgaz-gobek","ad":"Burgaz Göbek (3 Distile)","marka":"Burgaz","ure":"Ankol (Türk Tuborg)","il":"Antalya (Döşemealtı)","ulke":"Türkiye","kat":"gobek","abv":45,"hacim":[],"dist":"3 kez bakır imbik; 5 bölümlük damıtımın yalnız 3. bölümü","dinl":"","anason":"","tat":"Yoğun anason ve dinlenmiş alkol kokulu; temiz, yumuşak, olgun ve dengeli. Acısız mezeler ve beyaz etli balıkla içilir.","not":"Toros dağlarının suyuyla üretilir. Burgaz markası 2004'te Lüleburgaz'da doğdu.","puan":78,"tl":0,"tlK":"","yil":"","bul":"tekel","kaynak":["https://degustasyon.net/burgaz-raki-3-distile-antalya/","https://www.ankol.com.tr/markalar%C4%B1m%C4%B1z"],"sev":"3"},
+{"id":"topkapi-raki","ad":"Topkapı Rakı","marka":"Topkapı Rakı","ure":"Ankol (Türk Tuborg)","il":"Antalya (Döşemealtı)","ulke":"Türkiye","kat":"suma","abv":0,"hacim":[],"dist":"","dinl":"","anason":"","tat":"","not":"Ankol'un resmî sitesindeki marka listesinde yer alan tek rakı markası. Çeşit, derece ve hacim bilgisi sitede yok (tanıtım yasağı nedeniyle yalnızca ad veriliyor). Eski sözlük kayıtları markanın 2000'lerin sonunda Antalya'da kuru ve yaş üzüm çeşitleriyle çıktığını söylüyor; bugünkü çeşitleri doğrulanamadı, tür alanı bu yüzden yaklaşık.","puan":0,"tl":0,"tlK":"","yil":"","bul":"zor","kaynak":["https://www.ankol.com.tr/","https://eksisozluk.com/topkapi-raki--2022731"],"sev":"0"},
 {"id":"yedi-raki","ad":"Yedi Rakı","marka":"Yedi Rakı","ure":"Ankol (Türk Tuborg)","il":"Antalya (Döşemealtı)","ulke":"Türkiye","kat":"suma","abv":0,"hacim":[],"dist":"3 kez bakır imbik (Ankol'un genel açıklaması)","dinl":"","anason":"","tat":"","not":"Ankol'un marka sayfasında listeleniyor; ürün ayrıntısı bulunamadı.","puan":0,"tl":0,"tlK":"","yil":"","bul":"zor","kaynak":["https://www.ankol.com.tr/markalar%C4%B1m%C4%B1z"],"sev":"0"},
+// ===== Brysis İçecek =====
+{"id":"bahriyeli-premium","ad":"Bahriyeli Premium Rakı","marka":"Bahriyeli","ure":"Brysis İçecek","il":"Kırklareli (OSB)","ulke":"Türkiye","kat":"gobek","abv":0,"hacim":[],"dist":"","dinl":"","anason":"","tat":"","not":"Brysis'in resmî sitesindeki 'Rakı Grubu' listesinde yer alıyor; ürün açıklaması yasal tanıtım kısıtı nedeniyle verilmiyor. Aynı Kırklareli OSB adresindeki RAGS Alkollü İçecekler'in eski sitesinde 'Bahriyeli Göbek Rakı' olarak geçiyordu (o sayfa artık açılmıyor); bu yüzden göbek grubunda gösteriliyor, kesin değil.","puan":0,"tl":0,"tlK":"","yil":"","bul":"zor","kaynak":["https://www.brysis.com/markalarimiz/raki-grubu/"],"sev":"0"},
+{"id":"ergene-raki","ad":"Ergene Rakı","marka":"Ergene Rakı","ure":"Brysis İçecek","il":"Kırklareli (OSB)","ulke":"Türkiye","kat":"suma","abv":0,"hacim":[],"dist":"","dinl":"","anason":"","tat":"","not":"Brysis'in resmî sitesindeki 'Rakı Grubu' listesinde, 'üretilen ve geliştirme süreci devam eden' markalar arasında. Derece, hacim ve tür bilgisi yayımlanmamış; tür alanı yaklaşık.","puan":0,"tl":0,"tlK":"","yil":"","bul":"zor","kaynak":["https://www.brysis.com/markalarimiz/raki-grubu/"],"sev":"0"},
 // ===== Burgaz Alkollü İçkiler =====
 {"id":"raki-turka","ad":"Rakı Turka","marka":"Burgaz","ure":"Burgaz Alkollü İçkiler","il":"Kırklareli (Lüleburgaz)","ulke":"Türkiye","kat":"suma","abv":0,"hacim":[],"dist":"","dinl":"","anason":"","tat":"","not":"2000'lerde Burgaz'ın ürettiği marka; bugün satılmıyor.","puan":0,"tl":0,"tlK":"","yil":"","bul":"uretim-durdu","kaynak":["https://www.hurriyet.com.tr/ekonomi/rakida-4-ozel-firma-20-degisik-marka-var-5901487"],"sev":"3"},
 {"id":"burgaz-yas-uzum","ad":"Burgaz Yaş Üzüm","marka":"Burgaz","ure":"Burgaz Alkollü İçkiler","il":"Kırklareli (Lüleburgaz)","ulke":"Türkiye","kat":"yas-uzum","abv":0,"hacim":[],"dist":"","dinl":"","anason":"","tat":"","not":"2000'lerde Burgaz'ın ürettiği yaş üzüm rakısı; güncel listelerde yok.","puan":0,"tl":0,"tlK":"","yil":"","bul":"uretim-durdu","kaynak":["https://www.hurriyet.com.tr/ekonomi/rakida-4-ozel-firma-20-degisik-marka-var-5901487"],"sev":"3"},
@@ -802,6 +820,7 @@ const DATA = [
 {"id":"yeni-raki-ustalarin-karisimi","ad":"Yeni Rakı Ustaların Karışımı","marka":"Yeni Rakı","ure":"Mey (Diageo)","il":"","ulke":"Türkiye","kat":"ozel-seri","abv":45.5,"hacim":[35,70,100],"dist":"","dinl":"Harmandan sonra 30 gün ek olgunlaştırma","anason":"","tat":"Yeni Rakı, Yeni Seri ve Âlâ'nın harmanı; yoğun anasonlu ve taze üzüm alkolü belirgin, rahat içimli bir rakı.","not":"2026 fiyat listelerinde yer almıyor.","puan":80,"tl":0,"tlK":"","yil":"2016","bul":"zor","kaynak":["https://www.yeniraki.com/tr-tr/urunlerimiz/yeni-raki-ustalarin-karisimi","https://degustasyon.net/yeni-raki-ustalarin-karisimi-tekirdag-3/"],"sev":"Premium"},
 {"id":"yeni-raki-muzeyyen","ad":"Yeni Rakı Müzeyyen","marka":"Yeni Rakı","ure":"Mey (Diageo)","il":"","ulke":"Türkiye","kat":"ozel-seri","abv":0,"hacim":[70],"dist":"","dinl":"","anason":"","tat":"","not":"Müzeyyen Senar'ın doğumunun 100. yılı anısına çıkarılan koleksiyon şişesi.","puan":0,"tl":0,"tlK":"","yil":"","bul":"zor","kaynak":["https://www.yeniraki.com/tr-tr/urunlerimiz/yeni-raki-muzeyyen"],"sev":"Premium"},
 {"id":"yeni-raki-taste-of-turkey","ad":"Yeni Rakı Taste of Turkey","marka":"Yeni Rakı","ure":"Mey (Diageo)","il":"","ulke":"Türkiye","kat":"ozel-seri","abv":45,"hacim":[70,100],"dist":"","dinl":"","anason":"","tat":"Klasik Yeni Rakı tadı; şişesi Beykoz cam dekorasyonu geleneğinden esinlenir.","not":"Yalnızca İstanbul Havalimanı'nda satılır.","puan":0,"tl":0,"tlK":"","yil":"2019","bul":"zor","kaynak":["https://www.yeniraki.com/tr-tr/urunlerimiz/yeni-raki-taste-of-turkey"],"sev":"Premium"},
+{"id":"yeni-raki-farbenfreude","ad":"Yeni Rakı Farbenfreude","marka":"Yeni Rakı","ure":"Mey (Diageo)","il":"Manisa (Mey tesisleri)","ulke":"Türkiye","kat":"ozel-seri","abv":45,"hacim":[70],"dist":"","dinl":"","anason":"Anadolu","tat":"","not":"Alman pazarına özel, sınırlı sayıda üretilmiş renkli tasarımlı şişe. Üretici sitesi içerikte yaş üzüm ve Anadolu anasonunu vurguluyor; ayrı bir tadım notu bulunamadı. Türkiye rafında beklenmez.","puan":0,"tl":0,"tlK":"","yil":"2019","bul":"zor","kaynak":["https://www.yeniraki.com/tr-tr/urunlerimiz/yeni-raki-farbenfreude"],"sev":"Premium"},
 {"id":"izmir-rakisi","ad":"İzmir Rakısı","marka":"İzmir Rakısı","ure":"Mey (Diageo)","il":"","ulke":"Türkiye","kat":"suma","abv":45,"hacim":[35,50,70,100],"dist":"Bakır imbikte iki kez, yalnız imbiğin ortası şişelenir","dinl":"","anason":"Ege; taş değirmende öğütülmüş","tat":"Yoğun anasonlu, tok ve güçlü; Yeni Rakı'nın tanıdık burukluğu hissedilir. Bol baharatlı mezelerle denenmeli.","not":"Ekim 2026 itibarıyla piyasanın en ucuz 70 cl rakılarından biri.","puan":74,"tl":1145,"tlK":"https://www.karekod.org/blog/raki-fiyatlari/","yil":"2005","bul":"kolay","kaynak":["https://degustasyon.net/izmir-rakisi-izmir-2/","https://www.hurriyet.com.tr/kelebek/piyasada-artik-13-raki-var-3714135","https://loucheeffect.com/turkiyede-rakilar/"],"sev":"3"},
 {"id":"izmir-rakisi-yas-uzum","ad":"İzmir Rakısı Yaş Üzüm","marka":"İzmir Rakısı","ure":"Mey (Diageo)","il":"","ulke":"Türkiye","kat":"yas-uzum","abv":45,"hacim":[35,50,70,100],"dist":"","dinl":"","anason":"Taş değirmende öğütülmüş","tat":"Taze anason kokulu, temiz; buruk değil, hafif. Aperitif olarak ya da meyveyle içilir.","not":"","puan":75,"tl":1200,"tlK":"https://www.karekod.org/blog/raki-fiyatlari/","yil":"2008","bul":"kolay","kaynak":["https://degustasyon.net/izmir-rakisi-yas-uzum-izmir/","https://loucheeffect.com/turkiyede-rakilar/"],"sev":"3"},
 {"id":"izmir-rakisi-gobek","ad":"İzmir Rakısı Göbek","marka":"İzmir Rakısı","ure":"Mey (Diageo)","il":"Manisa (Alaşehir)","ulke":"Türkiye","kat":"gobek","abv":45,"hacim":[],"dist":"Göbek","dinl":"Meşe fıçıda 30 gün","anason":"Taş değirmende öğütülmüş","tat":"Saman sarısı; dolgun, rafine ve dengeli, fıçı tahta tadı vermeden alkolü olgunlaştırmış.","not":"%100 yaş üzüm. 2026 fiyat listelerinde yer almıyor.","puan":80,"tl":0,"tlK":"","yil":"2018","bul":"zor","kaynak":["https://degustasyon.net/izmir-rakisi-gobek-manisa/"],"sev":"3"},
@@ -831,8 +850,8 @@ const DATA = [
 {"id":"mercan-gobek","ad":"Mercan Göbek Rakısı","marka":"Mercan Rakı","ure":"Tariş Üzüm (Anadolu Efes - AE Mercan)","il":"Manisa (Alaşehir)","ulke":"Türkiye","kat":"gobek","abv":45,"hacim":[35,50,70,300],"dist":"3 kez bakır imbik","dinl":"3 ay","anason":"Çeşme","tat":"Çok yoğun anason ve üzüm alkolü kokulu; ağızda kaygan, dolgun ve dengeli. Ferahlatıcı, 'fresh' bir rakı.","not":"%100 Ege Sultani kuru üzümü, İzmir Bozdağ suyu; şekersiz, mantar tıpalı şişe. 2026'da Anadolu Efes çoğunluk hissesini aldı.","puan":81,"tl":0,"tlK":"","yil":"2021","bul":"tekel","kaynak":["https://degustasyon.net/mercan-gobek-rakisi-manisa/","https://loucheeffect.com/turkiyede-rakilar/","https://sendeyim.com.tr/blog/mercan-raki-nerenin","https://www.sozcu.com.tr/turkiye-nin-dev-bira-sirketi-unlu-raki-markasini-satin-aldi-p341256"],"sev":"2"},
 // ===== Tariş-Tat =====
 {"id":"fasil-raki","ad":"Fasıl Rakı","marka":"Fasıl Rakı","ure":"Tariş-Tat","il":"Manisa (Alaşehir)","ulke":"Türkiye","kat":"kuru-uzum","abv":45,"hacim":[35,70],"dist":"","dinl":"","anason":"","tat":"","not":"Tariş ile Koç Grubu'nun (Tat) ortaklığı Aralık 2005'te çıkardı; ortaklık 2007-2008'de sona erince üretim durdu.","puan":0,"tl":0,"tlK":"","yil":"2005","bul":"uretim-durdu","kaynak":["https://www.hurriyet.com.tr/kelebek/piyasada-artik-13-raki-var-3714135","https://www.egedesonsoz.com/izmirde-1-milyar-tllik-satis-anadolu-grubu-tarisin-rakisini-aldi"],"sev":"0"},
-// ===== Üreticisi doğrulanamadı =====
-{"id":"yeniceri-altin-seri","ad":"Yeniçeri Altın Seri","marka":"Yeniçeri","ure":"Üreticisi doğrulanamadı","il":"Afyonkarahisar","ulke":"Türkiye","kat":"mese","abv":45,"hacim":[],"dist":"Yaş üzüm alkolü anasonla yeniden damıtılmış","dinl":"Meşe fıçıda","anason":"Afyon-Dinar ovası","tat":"Çok hafif sarımtırak; anason ve üzüm alkolü yoğun, burunda meyvemsi. Olgun ve dinlenmiş, sek bile içilebilir.","not":"2019'da tadıldı. Afyon'da bugün lisanslı rakı tesisi bulunmadığından üretimi durmuş görünüyor; üretici firma doğrulanamadı.","puan":78,"tl":0,"tlK":"","yil":"","bul":"uretim-durdu","kaynak":["https://degustasyon.net/yeniceri-altin-seri-afyon/"],"sev":"3"},
+// ===== Üreticisi doğrulanamadı (Afyonkarahisar) =====
+{"id":"yeniceri-altin-seri","ad":"Yeniçeri Altın Seri","marka":"Yeniçeri","ure":"Üreticisi doğrulanamadı (Afyonkarahisar)","il":"Afyonkarahisar","ulke":"Türkiye","kat":"mese","abv":45,"hacim":[],"dist":"Yaş üzüm alkolü anasonla yeniden damıtılmış","dinl":"Meşe fıçıda","anason":"Afyon-Dinar ovası","tat":"Çok hafif sarımtırak; anason ve üzüm alkolü yoğun, burunda meyvemsi. Olgun ve dinlenmiş, sek bile içilebilir.","not":"2019'da tadıldı. Afyon'da bugün lisanslı rakı tesisi bulunmadığından üretimi durmuş görünüyor. Üretici firma hiçbir resmî kaynakta doğrulanamadı; bu yüzden üretici alanı bilinçli olarak 'doğrulanamadı' diye bırakıldı.","puan":78,"tl":0,"tlK":"","yil":"","bul":"uretim-durdu","kaynak":["https://degustasyon.net/yeniceri-altin-seri-afyon/"],"sev":"3"},
 // ===== İzmir Alkollü İçecek =====
 {"id":"asina","ad":"Aşina","marka":"Aşina","ure":"İzmir Alkollü İçecek","il":"Manisa (Turgutlu)","ulke":"Türkiye","kat":"suma","abv":45,"hacim":[100],"dist":"Çift damıtım, bakır imbik","dinl":"","anason":"","tat":"","not":"","puan":0,"tl":0,"tlK":"","yil":"","bul":"zor","kaynak":["https://www.izmiralkollu.com/asina/"],"sev":"0"},
 {"id":"asina-gold","ad":"Aşina Gold","marka":"Aşina","ure":"İzmir Alkollü İçecek","il":"Manisa (Turgutlu)","ulke":"Türkiye","kat":"suma","abv":45,"hacim":[100],"dist":"Çift damıtım, bakır imbik","dinl":"","anason":"","tat":"","not":"","puan":0,"tl":0,"tlK":"","yil":"","bul":"zor","kaynak":["https://www.izmiralkollu.com/asina-gold/"],"sev":"0"},
@@ -1132,6 +1151,66 @@ function fiyatNotu(b){
   if(!(b.tl>0))return 'Fiyat bilgisi yok (kaynaklı bir fiyat bulunamadı)';
   return 'Ekim 2026 Türkiye perakende, 70 cl'+(b.tlTarih?' · '+(FIYAT_TUR[b.tlTur]||'')+' · '+trTarih(b.tlTarih):'');
 }
+/* ===== RAKI PROFİLİ (görünüm, koku, damak, servis) =====
+   Kaynaklı alan (b.profil.*) varsa onu gösterir; yoksa kategori, derece, damıtım ve meşe bilgisinden
+   'türetilmiş' bir değer üretir ve bunu açıkça etiketler. Uydurma tadım notu değildir, kural tabanlı tahmindir. */
+const PROFIL_TABAN={ // anason, tatlılık, yağlılık (1-5)
+  'suma':[4,2,3],'yas-uzum':[3,2,2],'kuru-uzum':[4,3,4],'gobek':[3,2,3],'mese':[2,3,3],'ozel-seri':[3,2,3],'yabanci-anason':[4,3,2]};
+function profilMetin(b){return [b.tat,b.not,b.dist,b.dinl,b.anason].join(' ').toLocaleLowerCase('tr');}
+function sinirla(v){return Math.max(1,Math.min(5,Math.round(v)));}
+function profilTuret(b){
+  const t=profilMetin(b),[a0,t0,y0]=PROFIL_TABAN[b.kat]||[3,2,3],abv=b.abv||0;
+  let an=a0,ta=t0,ya=y0,se=abv?(abv<=40?1.5:abv<=43?2:abv<=45?3:abv<=48?4:5):3;
+  if(/yoğun anason|anason(u)? (yoğun|baskın|önde|güçlü)|bol anason|yüksek oranda/.test(t))an++;
+  if(/anason (geride|hafif|arka planda|az)|hafif anason|anason kokusu (çok )?daha hafif/.test(t))an--;
+  if(/tatlı/.test(t))ta++;
+  if(/\bkuru\b(?! üzüm)|şekersiz|ilave şeker (içermez|yok)/.test(t))ta-=0.5;
+  if(/yağlı|\btok\b|dolgun|gövdeli|kaymak/.test(t))ya++;
+  if(/hafif|ferah|narin|ince/.test(t))ya-=0.5;
+  if(/yumuşak|pürüzsüz|ipeksi|rahat içim|temiz/.test(t))se-=0.5;
+  if(/sert|keskin|yakıcı/.test(t))se+=0.5;
+  if(b.kat==='gobek')se-=0.5;
+  const m=/(\d)\s*(kez|kere)|(\d) distile/.exec(t);if(m&&+(m[1]||m[3])>=3)se-=0.5;
+  return {anason:sinirla(an),tatlilik:sinirla(ta),yaglilik:sinirla(ya),sertlik:sinirla(se)};
+}
+function cumleBul(metin,re){const c=String(metin||'').split(/(?<=[.!?])\s+/).find(s=>re.test(s.toLocaleLowerCase('tr')));return c?c.trim():'';}
+function profilOf(b){
+  const g=b.profil||{},d=profilTuret(b),abv=b.abv||0,mese=b.kat==='mese'||/meşe|fıçı/.test(profilMetin(b)),yab=b.kat==='yabanci-anason';
+  const out={},K=(alan,deger,kaynak)=>{out[alan]={v:deger,k:kaynak};};
+  // Görünüm / su ile beyazlaşma
+  const lc=cumleBul(b.tat,/beyazla|bulutlan|sütleş|kaymak|sarımtırak|kehribar|renk/);
+  if(g.louche)K('louche',g.louche,'kaynak');else if(lc)K('louche',lc,'tadim');
+  else K('louche',(mese?'Sek hâlde açık sarı-kehribar tonlu. ':'Sek hâlde berrak ve renksiz. ')+
+    (d.anason>=4?'Su eklenince hızla ve yoğun biçimde süt beyazına döner (louche: anason yağı sudan ayrışır).':d.anason<=2?'Su eklenince daha açık, yarı saydam bir beyazlık alır.':'Su eklenince belirgin biçimde süt beyazına döner (louche).'),'turetilmis');
+  // Gözyaşı (bacak)
+  K('gozyasi',g.gozyasi||(d.yaglilik>=4||abv>=47?'Sek hâlde kadeh çevrildiğinde yavaş süzülen, kalın bacaklar beklenir.':d.yaglilik<=2?'İnce ve hızlı süzülen bacaklar beklenir.':'Orta hızda süzülen bacaklar beklenir.'),g.gozyasi?'kaynak':'turetilmis');
+  // Koku
+  const kc=cumleBul(b.tat,/burun|koku|aroma/);
+  if(g.koku)K('koku',g.koku,'kaynak');else if(kc)K('koku',kc,'tadim');
+  else{const f=[...flavorsOf(b)].filter(x=>!/Sek içilir|Yağlı|Kuru/.test(x)).map(x=>x.toLocaleLowerCase('tr'));
+    K('koku','Beklenen: '+(f.length?f.join(', '):'anasonlu')+(b.anason?' · anason: '+b.anason:'')+'.','turetilmis');}
+  // Damak çubukları
+  ['anason','tatlilik','yaglilik','sertlik'].forEach(a=>K(a,g[a]||d[a],g[a]?'kaynak':'turetilmis'));
+  // Servis
+  K('su',g.su||(mese||yab&&abv<=40?'Sek ya da bir iki buzla; isteyen az su ekler.':abv>=47?'1 ölçü rakıya 1,5-2 ölçü su.':abv&&abv<=42?'1 ölçü rakıya 1 ölçü su.':'1 ölçü rakıya 1-1,5 ölçü soğuk su.'),g.su?'kaynak':'turetilmis');
+  K('buz',g.buz||(mese?'Sek içilecekse buz yerine iyi soğutulmuş şişe tercih edilir.':'Önce rakı, sonra su, en son buz: buz doğrudan rakıya değerse anason yağı kristalleşip tadı bulandırır.'),g.buz?'kaynak':'turetilmis');
+  K('kadeh',g.kadeh||(mese?'Sek için lale (tulip) kadeh; sulu içilecekse ince uzun rakı kadehi.':'İnce, uzun rakı kadehi; su ayrı bir sürahiden, buz ayrı bir kâseden.'),g.kadeh?'kaynak':'turetilmis');
+  return out;
+}
+const PROFIL_ETIKET={kaynak:['✓ kaynaktan','pk-k'],tadim:['📖 tadım notundan','pk-t'],turetilmis:['≈ türetilmiş','pk-d']};
+function pEt(k){const e=PROFIL_ETIKET[k]||PROFIL_ETIKET.turetilmis;return `<span class="pk ${e[1]}">${e[0]}</span>`;}
+function cubuk(ad,o,sol,sag){const v=o.v;return `<div class="pbar"><div class="pb-ad">${ad} ${pEt(o.k)}</div><div class="pb-iz" role="meter" aria-valuemin="1" aria-valuemax="5" aria-valuenow="${v}" aria-label="${ad}: 5 üzerinden ${v}">${[1,2,3,4,5].map(i=>`<i class="${i<=v?'on':''}"></i>`).join('')}</div><div class="pb-uc"><span>${sol}</span><span>${sag}</span></div></div>`;}
+function profilHTML(b){
+  const p=profilOf(b),satir=(e,et,o)=>`<div class="psatir"><div class="ps-et">${e} ${et} ${pEt(o.k)}</div><div class="dt-txt">${esc(o.v)}</div></div>`;
+  const tur=Object.values(p).some(o=>o.k==='turetilmis');
+  return `<div class="dt-sec profil"><h4>🥛 Rakı profili</h4>
+    <div class="pgrup"><div class="pg-bas">Görünüm</div>${satir('💧','Su ile beyazlaşma',p.louche)}${satir('🫗','Gözyaşı',p.gozyasi)}</div>
+    <div class="pgrup"><div class="pg-bas">Koku</div>${satir('👃','Burun',p.koku)}</div>
+    <div class="pgrup"><div class="pg-bas">Damak</div><div class="pbars">${cubuk('Anason yoğunluğu',p.anason,'hafif','yoğun')}${cubuk('Tatlılık',p.tatlilik,'kuru','tatlımsı')}${cubuk('Yağlılık',p.yaglilik,'ince','yağlı / tok')}${cubuk('Sertlik',p.sertlik,'yumuşak','sert')}</div></div>
+    <div class="pgrup"><div class="pg-bas">Servis</div>${satir('🚰','Su oranı',p.su)}${satir('🧊','Buz',p.buz)}${satir('🍸','Kadeh',p.kadeh)}</div>
+    ${tur?`<div class="dt-src">≈ <b>türetilmiş</b> değerler bu rakının kendi tadım verisi değildir: tür (${esc(katAd(b.kat))}), alkol derecesi${b.dist?', damıtım':''}${b.dinl?', dinlendirme':''} ve tadım metnindeki ifadelerden kural tabanlı çıkarılmıştır. Kaynaklı bilgi geldikçe yerini alır.</div>`:''}
+  </div>`;
+}
 function openDetay(id){
   const b=bulId(id);if(!b){closeDetay();return;}
   DETAY_ID=id;olay('kunye');
@@ -1152,6 +1231,7 @@ function openDetay(id){
     </div>
     <div class="dt-src">💰 ${esc(fiyatNotu(b))}${k&&state.prices[id]===undefined?` · <a href="${esc(k)}" target="_blank" rel="noopener">kaynak</a>`:''}</div>
     ${alan('🔥 Damıtım',b.dist)}${alan('🛢️ Dinlendirme',b.dinl)}${alan('🌱 Anason',b.anason)}${alan('👅 Tat',b.tat)}${alan('ℹ️ Hakkında',b.not)}
+    ${profilHTML(b)}
     ${fl.length?`<div class="dt-sec"><h4>Tat profili</h4><div class="aromarow">${fl.map(f=>`<span class="aroma sabit">${esc(f)}</span>`).join('')}</div></div>`:''}
     ${b.tlGecmis&&b.tlGecmis.length>1?`<div class="dt-sec"><h4>Fiyat geçmişi</h4>${sparkSVG(b.tlGecmis)}</div>`:''}
     ${nt&&nt.n?`<div class="dt-sec"><h4>📝 Senin notun</h4><div class="dt-txt">${esc(nt.n)}</div></div>`:''}
@@ -1497,10 +1577,17 @@ function renderTopluluk(){
 document.addEventListener('click',e=>{const t=e.target.closest('[data-toptur]');if(t){TOP_FILTRE=t.dataset.toptur;renderTopluluk();}});
 
 /* ===== PUAN SIRALAMASI ve FİYATLAR ===== */
+const TOPN_LS='raki_topn',TOPN_SEC=[50,100,200];
+function topN(){let n=50;try{n=+localStorage.getItem(TOPN_LS)||50;}catch(e){}return TOPN_SEC.includes(n)?n:50;}
 function renderEnler(){
   const g=document.getElementById('enlerGrid');g.innerHTML='';
-  allBottles().filter(b=>b.puan>0).sort((a,b)=>b.puan-a.puan||a.ad.localeCompare(b.ad,'tr')).forEach((b,i)=>g.appendChild(card(b,i+1,avail(b)+(b.tat?' · '+esc(b.tat.slice(0,90))+(b.tat.length>90?'…':''):''))));
+  const n=topN(),tum=allBottles().filter(b=>b.puan>0).sort((a,b)=>b.puan-a.puan||a.ad.localeCompare(b.ad,'tr'));
+  document.querySelectorAll('#enlerTop [data-topn]').forEach(c=>{const on=+c.dataset.topn===n;c.classList.toggle('on',on);c.setAttribute('aria-pressed',on);});
+  const say=document.getElementById('enlerSay');
+  if(say)say.textContent=tum.length<n?`Puanı olan ${tum.length} rakının tümü gösteriliyor (en iyi ${n} için yeterli puanlı rakı yok).`:`En yüksek puanlı ${n} rakı gösteriliyor (puanlı toplam: ${tum.length}).`;
+  tum.slice(0,n).forEach((b,i)=>g.appendChild(card(b,i+1,avail(b)+(b.tat?' · '+esc(b.tat.slice(0,90))+(b.tat.length>90?'…':''):''))));
 }
+document.addEventListener('click',e=>{const c=e.target.closest('#enlerTop [data-topn]');if(!c)return;try{localStorage.setItem(TOPN_LS,c.dataset.topn);}catch(x){}renderEnler();});
 function renderFiyat(){
   const box=document.getElementById('fiyatBox');if(!box)return;
   const l=DATA.filter(b=>b.tl>0&&(b.tlK||b.tlKaynak)).sort((a,b)=>a.tl-b.tl);

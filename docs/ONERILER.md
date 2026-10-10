@@ -2,7 +2,7 @@
 
 Bu dosya iki sitenin ortak fikir defteridir. Kopyası iki depoda da `docs/ONERILER.md` olarak durur.
 Durum: 💡 fikir · 📌 sırada · 🔨 yapılıyor · ✅ bitti · ❌ vazgeçildi
-Son güncelleme: 5 Ekim 2026
+Son güncelleme: 10 Ekim 2026
 
 ## Önerilen sıra
 
@@ -75,6 +75,11 @@ Son güncelleme: 5 Ekim 2026
   - Kurgu karakterlerinin Türk versiyonu.
 - Viski ve Bira altyapısı aynen taşınır: fiyat takibi, gurme seviyesi, tadım geceleri, kulüpler, Topluluk, Nereden Alınır.
 - Üç sitelik aile: kardeş site düğmesi üçlü menüye döner.
+- ✅ **Kapsam denetimi (Ekim 2026):** lisanslı 10 firmanın resmî portföyü katalogla karşılaştırıldı; 4 ürün eklendi (Yeni Rakı Farbenfreude, Topkapı Rakı, Bahriyeli Premium, Ergene). Ayrıntı: `docs/KAPSAM-DENETIMI.md`. Yeni veri turlarında bu denetim tekrarlanır.
+- ✅ **Rakı profili:** detay kartında görünüm/louche, gözyaşı, koku, damak çubukları, servis ve meze; kaynak yoksa "türetilmiş" etiketiyle.
+- ✅ **Puan Sıralaması:** En iyi 50/100/200 seçici (`raki_topn`).
+- 📌 Topkapı, Bahriyeli, Ergene için derece/hacim/tadım; Prototip LOT 6 çıkarsa ekle; Kırbıyık'ın rakı markası.
+- 💡 Kaynaklı `profil` alanlarını degustasyon.net tadım notlarından (beyazlaşma, burun) doldurmak.
 
 ## 5. 🍷 Şarap Atlası
 - Resmî listede 160 şarap ve 26 köpüren şarap üreticisi var.

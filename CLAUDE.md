@@ -7,10 +7,12 @@ Türkçe rakı kataloğu, meze & sofra rehberi ve rakı kültürü. Yayın: http
 - Veri araştırma dosyalarından üretilir: `python3 arastirma/derle.py` → `index.html` içindeki `DATA` ve `data/*.json`. Ham veriyi `arastirma/` altında düzenle, sonra derle. `data/fiyatlar.json`'a yalnızca henüz kaydı olmayan **kaynaklı** fiyatlar eklenir (aylık görevin kayıtları korunur).
 
 ## Yapı
-- `arastirma/` — `rakilar.json` (94 ürün), `ureticiler.json`, `lisans-raki.json` (resmî lisans listesi), `mezeler.json` (50), `balik.json` (aylık balık + av yasakları, 6/1 sayılı tebliğ, 2024-2028), `kultur.json` (adap, tarihçe, üretim, edebiyat, ünlüler), `meyhaneler.json`, `satis.json`.
+- `arastirma/` — `rakilar.json` (98 ürün), `ureticiler.json`, `lisans-raki.json` (resmî lisans listesi), `mezeler.json` (50), `balik.json` (aylık balık + av yasakları, 6/1 sayılı tebliğ, 2024-2028), `kultur.json` (adap, tarihçe, üretim, edebiyat, ünlüler), `meyhaneler.json`, `satis.json`.
 - Sekmeler: Katalog (Üretici → Marka → Rakı), Rakı Türleri (+ üretim), Üreticiler (lisans + tarihî Tekel tesisleri + harita), **Meze & Sofra** (balık takvimi, "bu akşam sofra kur"), Kültür, Magazin (yalnızca vefat etmiş edebiyatçılar), Topluluk, Nereden Alınır.
 - Bu sitede Atatürk, yaşayan Türk ünlü ya da iş insanı **yer almaz** (bilinçli karar); magazin listesini genişletirken bu kuralı koru.
 - Dünya Rakı Günü Aralık'ın **ikinci** cumartesisi (ilki 2011, Adana); tarih kodda her yıl hesaplanır.
+- **Kapsam denetimi (yeni veri turlarında zorunlu):** Katalog genişletilirken esas, resmî lisans listesi (`arastirma/lisans-raki.json`) ve her üreticinin **resmî portföyüdür** (resmî site/marka sayfası; yoksa güvenilir ikincil liste). Her lisanslı üretici için portföydeki ürün sayısı ile katalogdaki ürün sayısı karşılaştırılır (`python3 -c "import json,collections;print(collections.Counter(x['uretici'] for x in json.load(open('arastirma/rakilar.json'))))"`), eksikler kaynaklı eklenir, bulunamayanlar not edilir. Son denetim: `docs/KAPSAM-DENETIMI.md`.
+- **Rakı profili (detay kartı):** görünüm/louche, gözyaşı, koku, damak çubukları (anason, tatlılık, yağlılık, sertlik 1-5), servis (su, buz, kadeh). `rakilar.json` içinde isteğe bağlı `profil` nesnesi (kaynaklı) varsa onu gösterir; yoksa kategori/derece/damıtım/meşe bilgisinden **"≈ türetilmiş"** etiketiyle üretir. Tadım metninde beyazlaşma/koku cümlesi varsa "📖 tadım notundan" diye gösterilir. Kaynaksız `profil` değeri yazma.
 
 ## Veri dosyaları ve betikler
 - `data/fiyatlar.json` — fiyat kayıtları (kaynak, güven, tarih). Elle düzenleme; aylık görev `scripts/fiyat-guncelle.mjs` ile yazar (`sec` → araştırılacaklar, `uygula dosya.json` → güvenlik kontrolleriyle yazar; şüpheli değişimleri reddeder).

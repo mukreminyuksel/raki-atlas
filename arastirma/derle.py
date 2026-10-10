@@ -77,6 +77,10 @@ for r in rakilar:
         'puan': r.get('puan') or 0, 'tl': r.get('tl') or 0, 'tlK': r.get('tl_kaynak') or '',
         'yil': r.get('yil') or '', 'bul': r['bul'], 'kaynak': r.get('kaynak') or [],
     }
+    # İsteğe bağlı, KAYNAKLI rakı profili (louche, gozyasi, koku, anason/tatlilik/yaglilik/sertlik 1-5, su, buz, kadeh, kaynak).
+    # Sitede bu alanlar, kategori/derece bilgisinden 'türetilmiş' değerlerin yerine geçer.
+    if r.get('profil'):
+        d['profil'] = r['profil']
     if d['tl'] and not d['tlK']:
         hatalar.append(f"{r['id']}: kaynaksız fiyat (tl={d['tl']})")
     DATA.append(d)

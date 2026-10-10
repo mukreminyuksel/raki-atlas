@@ -108,6 +108,7 @@
   "ilce": "Döşemealtı",
   "marka_sahibi": "Türk Tuborg (Carlsberg)",
   "markalar": [
+   "Topkapı Rakı",
    "Burgaz Göbek",
    "Ata Rakı Gold",
    "Yedi Rakı",
@@ -116,12 +117,13 @@
   "web": "https://www.ankol.com.tr",
   "instagram": "https://www.instagram.com/ankol.tr/",
   "kuruluş": "2005",
-  "hikaye": "Antalya OSB'de 2005'te 32 yatırımcının kurduğu Antalya Alkollü ve Alkolsüz İçecek (Ankol), alkolünü buğdaydan kendisi üreten ilk entegre alkol tesisi olarak tanıtılır. Rakılarını üç kez bakır imbikte damıttığını ve coğrafi işaret denetiminden geçtiğini belirtir. Türk Tuborg şirketi Haziran 2025'te 56 milyon dolara satın almak için anlaştı; Rekabet Kurulu Eylül 2025'te onay verdi. Burgaz ve Ata markaları ilk olarak 2004'te Lüleburgaz'daki Burgaz Alkollü İçkiler A.Ş. tarafından piyasaya sürülmüştü; bugün Ankol portföyünde yer alıyorlar.",
+  "hikaye": "Antalya OSB'de 2005'te 32 yatırımcının kurduğu Antalya Alkollü ve Alkolsüz İçecek (Ankol), alkolünü buğdaydan kendisi üreten ilk entegre alkol tesisi olarak tanıtılır. Rakılarını üç kez bakır imbikte damıttığını ve coğrafi işaret denetiminden geçtiğini belirtir. Türk Tuborg şirketi Haziran 2025'te 56 milyon dolara satın almak için anlaştı; Rekabet Kurulu Eylül 2025'te onay verdi. Burgaz ve Ata markaları ilk olarak 2004'te Lüleburgaz'daki Burgaz Alkollü İçkiler A.Ş. tarafından piyasaya sürülmüştü; bugün Ankol portföyünde yer alıyorlar. Ekim 2026'da resmî sitenin marka listesinde rakı olarak yalnızca Topkapı Rakı görünüyor; Burgaz ve Ata adları o listede yer almıyor.",
   "kaynak": [
    "https://www.ankol.com.tr/markalar%C4%B1m%C4%B1z",
    "https://www.gunhaber.com.tr/haber/32-Antalyali-kurdu-Tuborg-satin-aldi/553381",
    "https://www.patronlardunyasi.com/anadolu-grubuna-bagli-efes-ve-rakibi-tuborg-sirket-satin-alarak-rekabeti-rakiya-tasidi-rekabet-kurumu-her-iki-satin-almaya-da-onay-verdi",
-   "https://www.hurriyet.com.tr/ekonomi/rakida-4-ozel-firma-20-degisik-marka-var-5901487"
+   "https://www.hurriyet.com.tr/ekonomi/rakida-4-ozel-firma-20-degisik-marka-var-5901487",
+   "https://www.ankol.com.tr/"
   ]
  },
  {
@@ -205,13 +207,17 @@
   "il": "Kırklareli",
   "ilce": "Merkez",
   "marka_sahibi": "Brysis",
-  "markalar": [],
+  "markalar": [
+   "Bahriyeli Premium Rakı",
+   "Ergene Rakı"
+  ],
   "web": "https://www.brysis.com",
   "instagram": "",
   "kuruluş": "",
-  "hikaye": "Adını Pınarhisar'ın antik adı Brysis'ten alan şirket, Kırklareli OSB'de 30.750 m²'lik, SCADA otomasyonlu ve güneş enerjisiyle çalışan bir tesiste üretim yapıyor. Rakı lisansı var, ancak kendi rakı markası kamuya açık kaynaklarda doğrulanamadı; büyük olasılıkla fason ya da ihracat üretimi yapıyor.",
+  "hikaye": "Adını Pınarhisar'ın antik adı Brysis'ten alan şirket, Kırklareli OSB'de 30.750 m²'lik, SCADA otomasyonlu ve güneş enerjisiyle çalışan bir tesiste üretim yapıyor. Resmî sitesindeki 'Rakı Grubu' listesinde iki marka var: Bahriyeli Premium Rakı ve Ergene Rakı ('üretilen ve geliştirme süreci devam eden' markalar). Ürün açıklaması tanıtım yasağı nedeniyle verilmiyor. Aynı adreste daha önce RAGS Alkollü İçecekler unvanı ve 'Bahriyeli Göbek Rakı' adı geçiyordu.",
   "kaynak": [
-   "https://www.brysis.com/hakkimizda/"
+   "https://www.brysis.com/hakkimizda/",
+   "https://www.brysis.com/markalarimiz/raki-grubu/"
   ]
  },
  {
