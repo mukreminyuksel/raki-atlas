@@ -29,3 +29,7 @@ Amaç: lisanslı her rakı üreticisinin resmî portföyündeki ürünlerin kata
 - Kırbıyık'ın rakı markası: bulunamadı.
 - Efe, Sarper, Alcosan, Deva'nın güncel resmî ürün sayfaları: yok ya da açılmıyor; portföy ikincil kaynaklardan doğrulandı.
 - Yeniçeri Altın Seri üreticisi: doğrulanamadı.
+
+
+## Düzeltme (2026-10-10)
+Topkapı Rakı (Ankol) ile Bahriyeli Premium ve Ergene Rakı (Brysis) kayıtları kaldırıldı: tek kaynakları yaş doğrulama penceresi olan sayfaların ham HTML'iydi ve "kapı aşılmaz" kuralına aykırı. Bağımsız ve herkese açık bir kaynak bulunursa yeniden eklenir.
