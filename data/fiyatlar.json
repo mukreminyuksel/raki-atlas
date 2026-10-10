@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-04",
+ "guncelleme": "2026-10-10",
  "kur": null,
  "fiyatlar": {
   "altinbas": {
@@ -31,16 +31,20 @@
    ]
   },
   "beylerbeyi-gobek": {
-   "tl": 2100,
-   "tarih": "2026-10-04",
+   "tl": 1695,
+   "tarih": "2026-10-10",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
+   "not": "Eylül 2026 zam listesi",
    "gecmis": [
     [
      "2026-10-04",
      2100
+    ],
+    [
+     "2026-10-10",
+     1695
     ]
    ]
   },
@@ -101,16 +105,20 @@
    ]
   },
   "beylerbeyi-teragold": {
-   "tl": 1770,
-   "tarih": "2026-10-04",
+   "tl": 1450,
+   "tarih": "2026-10-10",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
+   "not": "Eylül 2026 zam listesi",
    "gecmis": [
     [
      "2026-10-04",
      1770
+    ],
+    [
+     "2026-10-10",
+     1450
     ]
    ]
   },
@@ -157,16 +165,20 @@
    ]
   },
   "efe-gobek": {
-   "tl": 1750,
-   "tarih": "2026-10-04",
+   "tl": 1995,
+   "tarih": "2026-10-10",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
+   "not": "Eylül 2026 zam listesi",
    "gecmis": [
     [
      "2026-10-04",
      1750
+    ],
+    [
+     "2026-10-10",
+     1995
     ]
    ]
   },
@@ -452,11 +464,11 @@
   },
   "tekirdag-altin-seri": {
    "tl": 1770,
-   "tarih": "2026-10-04",
+   "tarih": "2026-10-10",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
+   "not": "Eylül 2026 zam listesi",
    "gecmis": [
     [
      "2026-10-04",
@@ -494,11 +506,11 @@
   },
   "tekirdag-no-10": {
    "tl": 2245,
-   "tarih": "2026-10-04",
+   "tarih": "2026-10-10",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
+   "not": "Eylül 2026 zam listesi",
    "gecmis": [
     [
      "2026-10-04",
@@ -550,11 +562,11 @@
   },
   "yeni-raki-ala": {
    "tl": 1975,
-   "tarih": "2026-10-04",
+   "tarih": "2026-10-10",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
+   "not": "Eylül 2026 zam listesi",
    "gecmis": [
     [
      "2026-10-04",
@@ -576,6 +588,34 @@
     ]
    ]
   },
+  "yeni-raki-ustalarin-karisimi": {
+   "tl": 1425,
+   "tarih": "2026-10-10",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
+   "not": "Eylül 2026 zam listesi",
+   "gecmis": [
+    [
+     "2026-10-10",
+     1425
+    ]
+   ]
+  },
+  "yeni-raki-uzun-demleme": {
+   "tl": 1450,
+   "tarih": "2026-10-10",
+   "tur": "tr_liste",
+   "guven": "orta",
+   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
+   "not": "Eylül 2026 zam listesi (güncelleme 07.09.2026)",
+   "gecmis": [
+    [
+     "2026-10-10",
+     1450
+    ]
+   ]
+  },
   "yeni-raki-yeni-seri": {
    "tl": 1525,
    "tarih": "2026-10-04",
@@ -591,6 +631,67 @@
    ]
   }
  },
- "denendi": {},
+ "denendi": {
+  "altinbas-24-ayar": "2026-10-10",
+  "anadolu-sifir-seri": "2026-10-10",
+  "anadolu-sifir-seri-gold": "2026-10-10",
+  "asina": "2026-10-10",
+  "asina-gold": "2026-10-10",
+  "ata-raki-gold": "2026-10-10",
+  "barbayanni-ouzo": "2026-10-10",
+  "beylerbeyi-gobek": "2026-10-10",
+  "beylerbeyi-isabella": "2026-10-10",
+  "beylerbeyi-rezerv-razaki": "2026-10-10",
+  "beylerbeyi-teragold": "2026-10-10",
+  "burgaz-export": "2026-10-10",
+  "burgaz-gobek": "2026-10-10",
+  "burgaz-yas-uzum": "2026-10-10",
+  "cihanbeyi": "2026-10-10",
+  "cilingir": "2026-10-10",
+  "efe-geleneksel": "2026-10-10",
+  "efe-gobek": "2026-10-10",
+  "fasil-raki": "2026-10-10",
+  "herdem-izmir-sakizli": "2026-10-10",
+  "izmir-rakisi-gobek": "2026-10-10",
+  "izmir-sakiz-rakisi": "2026-10-10",
+  "lokal-derya-kuzusu-5-distile": "2026-10-10",
+  "lokal-derya-kuzusu-gobek": "2026-10-10",
+  "lokal-derya-kuzusu-olgunlasmis-hasat": "2026-10-10",
+  "mercan-gobek": "2026-10-10",
+  "mest-misket": "2026-10-10",
+  "mest-sultaniye": "2026-10-10",
+  "mtallat-arak": "2026-10-10",
+  "otto-raki": "2026-10-10",
+  "ouzo-12": "2026-10-10",
+  "plomari-ouzo": "2026-10-10",
+  "prototip-lot-0001": "2026-10-10",
+  "prototip-lot-0002": "2026-10-10",
+  "prototip-lot-0003": "2026-10-10",
+  "prototip-lot-5-cuprum": "2026-10-10",
+  "raki-turka": "2026-10-10",
+  "ricard-pastis": "2026-10-10",
+  "saki-gurme": "2026-10-10",
+  "saki-siyah-uzum-ozel-seri": "2026-10-10",
+  "sari-zeybek-yas-uzum": "2026-10-10",
+  "tayfa-raki": "2026-10-10",
+  "tekirdag-altin-seri": "2026-10-10",
+  "tekirdag-gobek": "2026-10-10",
+  "tekirdag-kavrulmus-anason": "2026-10-10",
+  "tekirdag-no-10": "2026-10-10",
+  "tekirdag-sultaniye": "2026-10-10",
+  "tekirdag-trakya-serisi": "2026-10-10",
+  "yedi-raki": "2026-10-10",
+  "yekta-raki": "2026-10-10",
+  "yeni-raki-ala": "2026-10-10",
+  "yeni-raki-era": "2026-10-10",
+  "yeni-raki-ferzan": "2026-10-10",
+  "yeni-raki-giz": "2026-10-10",
+  "yeni-raki-muzeyyen": "2026-10-10",
+  "yeni-raki-pus": "2026-10-10",
+  "yeni-raki-taste-of-turkey": "2026-10-10",
+  "yeni-raki-ustalarin-karisimi": "2026-10-10",
+  "yeni-raki-uzun-demleme": "2026-10-10",
+  "yeniceri-altin-seri": "2026-10-10"
+ },
  "inceleme": []
 }
