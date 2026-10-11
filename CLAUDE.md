@@ -15,6 +15,7 @@ Türkçe rakı kataloğu, meze & sofra rehberi ve rakı kültürü. Yayın: http
 - **Rakı profili (detay kartı):** görünüm/louche, gözyaşı, koku, damak çubukları (anason, tatlılık, yağlılık, sertlik 1-5), servis (su, buz, kadeh). `rakilar.json` içinde isteğe bağlı `profil` nesnesi (kaynaklı) varsa onu gösterir; yoksa kategori/derece/damıtım/meşe bilgisinden **"≈ türetilmiş"** etiketiyle üretir. Tadım metninde beyazlaşma/koku cümlesi varsa "📖 tadım notundan" diye gösterilir. Kaynaksız `profil` değeri yazma.
 
 ## Veri dosyaları ve betikler
+- `scripts/gorsel.mjs` — şişe görseli ekleme: `sec | ekle <id> <gorselURL> <sayfaURL> <sahip> | yok <id> | sil <id>`. Yalnızca **resmî üretici sitelerinden** (yaş kapılı siteler atlanır); görsel 160 px yüksekliğinde WebP'ye çevrilir (`img/sise/`, kayıt `data/gorseller.json`). Aylık görev ayın 8'inde çalışır.
 - `data/fiyatlar.json` — fiyat kayıtları (kaynak, güven, tarih). Elle düzenleme; aylık görev `scripts/fiyat-guncelle.mjs` ile yazar (`sec` → araştırılacaklar, `uygula dosya.json` → güvenlik kontrolleriyle yazar; şüpheli değişimleri reddeder).
 - `data/baglantilar.json` — üreticilerin resmî site ve sosyal medya bağlantıları. `scripts/baglanti.mjs` (`sec` / `ekle` / `yok` / `kontrol` / `sil`). Yalnızca **resmî** hesaplar.
 - `data/satis.json` — "Nereden Alınır" (yasal not, zincir, duty-free, butik); `data/topluluk.json` — kulüp, grup, festival, kanallar.
