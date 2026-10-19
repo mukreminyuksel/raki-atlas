@@ -2,7 +2,47 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
-<script>if(/github\.io$/.test(location.hostname))location.replace('https://raki-atlas.pages.dev/'+location.search+location.hash);</script>
+<script>/* ===== Yeni adres (tadimatlasi.com) ve kayıt taşıma =====
+   Eski adreste (raki-atlas.pages.dev) açılan sayfa, bu tarayıcıdaki kayıtları tek kullanımlık bir
+   kodla sunucuya bırakıp yeni adrese yönlenir; yeni adres kodu okuyup kayıtları birleştirir. */
+(function(){
+  var P='raki',YENI='https://raki.tadimatlasi.com',h=location.hostname,ls;
+  try{ls=window.localStorage;}catch(e){ls=null;}
+  if(h===P+'-atlas.pages.dev'){
+    var git=function(kod){var hs=location.hash.replace(/^#/,'');location.replace(YENI+location.pathname+location.search+(kod?'#tasi='+kod+(hs?'&'+hs:''):(hs?'#'+hs:'')));};
+    var veri={},n=0;
+    if(ls){for(var i=0;i<ls.length;i++){var k=ls.key(i);if(k&&k.indexOf(P+'_')===0){veri[k]=ls.getItem(k);if(k!==P+'_yas')n++;}}}
+    if(!n){git('');return;}
+    document.documentElement.style.visibility='hidden';
+    fetch('/api/tasi',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({veri:veri})})
+      .then(function(r){return r.json();}).then(function(j){git(j.kod||'');}).catch(function(){git('');});
+    setTimeout(function(){git('');},8000);
+    return;
+  }
+  var m=location.hash.match(/(?:^#|&)tasi=([a-z0-9]{24})/);
+  if(!m||!ls)return;
+  var kalan=location.hash.replace(/^#/,'').split('&').filter(function(x){return x.indexOf('tasi=')!==0;}).join('&');
+  history.replaceState(null,'',location.pathname+location.search+(kalan?'#'+kalan:''));
+  document.documentElement.style.visibility='hidden';
+  var bitir=function(){location.reload();};
+  fetch('/api/tasi?kod='+m[1],{cache:'no-store'}).then(function(r){return r.json();}).then(function(j){
+    var v=(j&&j.veri)||{};
+    Object.keys(v).forEach(function(k){
+      if(k.indexOf(P+'_')!==0)return;
+      var eski=ls.getItem(k);
+      if(eski===null){ls.setItem(k,v[k]);return;}
+      try{var a=JSON.parse(eski),b=JSON.parse(v[k]);
+        if(Array.isArray(a)&&Array.isArray(b)){var u=a.slice();b.forEach(function(x){if(u.indexOf(x)<0&&typeof x!=='object')u.push(x);});ls.setItem(k,JSON.stringify(u));}
+        else if(a&&b&&typeof a==='object'&&typeof b==='object'&&!Array.isArray(a)){var o={};Object.keys(b).forEach(function(x){o[x]=b[x];});Object.keys(a).forEach(function(x){o[x]=a[x];});ls.setItem(k,JSON.stringify(o));}
+      }catch(e){}
+    });
+    try{ls.setItem(P+'_tasindi',new Date().toISOString().slice(0,10));}catch(e){}
+    bitir();
+  }).catch(bitir);
+})();
+</script>
+
+<script>if(/github\.io$/.test(location.hostname))location.replace('https://raki.tadimatlasi.com/'+location.search+location.hash);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Rakı Atlası · Rakı, Meze & Sofra</title>
 <meta name="description" content="Türkiye'nin rakıları üretici ve marka marka; meze ve sofra rehberi, balık takvimi, rakı kültürü ve kişisel tadım defteri.">
@@ -566,7 +606,7 @@ details.hik{margin-top:8px}details.hik summary{cursor:pointer;color:var(--amber-
     <div style="font-size:34px">🥛</div>
     <div><h1 onclick="location.href='./'" style="cursor:pointer" title="Ana sayfaya dön">Rakı Atlası <span style="font-size:13px;color:var(--muted2);font-weight:600;vertical-align:middle">v1.0</span></h1>
       <div class="sub">Üretici → Marka → Rakı · Meze &amp; Sofra · Kültür · Kişisel koleksiyon</div></div>
-    <div class="kardesler" title="Kardeş siteler"><small>Kardeş siteler</small><a class="kardes" href="https://viski-atlas.pages.dev" target="_blank" rel="noopener" onclick="olay('kardes-site')">🥃 Viski Atlası ↗</a><a class="kardes" href="https://bira-atlas.pages.dev" target="_blank" rel="noopener" onclick="olay('kardes-site')">🍺 Bira Atlası ↗</a><a class="kardes" href="https://sarap-atlas.pages.dev" target="_blank" rel="noopener" onclick="olay('kardes-site')">🍷 Şarap Atlası ↗</a></div>
+    <div class="kardesler" title="Kardeş siteler"><small>Kardeş siteler</small><a class="kardes" href="https://viski.tadimatlasi.com" target="_blank" rel="noopener" onclick="olay('kardes-site')">🥃 Viski Atlası ↗</a><a class="kardes" href="https://bira.tadimatlasi.com" target="_blank" rel="noopener" onclick="olay('kardes-site')">🍺 Bira Atlası ↗</a><a class="kardes" href="https://sarap.tadimatlasi.com" target="_blank" rel="noopener" onclick="olay('kardes-site')">🍷 Şarap Atlası ↗</a></div>
   </div>
   <div class="stats">
     <div class="glass-box" data-goto="gurme" style="cursor:pointer"><div class="glass"><div class="fill" id="fill" style="height:0%"></div></div>
@@ -817,7 +857,7 @@ details.hik{margin-top:8px}details.hik summary{cursor:pointer;color:var(--amber-
 </div>
 
   <p class="note">💾 İşaretlemelerin ve fiyat düzenlemelerin bu tarayıcıda otomatik kaydedilir. Fiyatlar <b>Ekim 2026 Türkiye perakende, 70 cl</b> referansıdır; “doğrulanmış” rozetliler kaynaklıdır, diğerlerinin fiyatı yoktur. ÖTV zamlarıyla değişir. <span id="fiyatDurum"></span> <a href="#" id="resetBtn">↺ Tüm seçimleri sıfırla</a></p>
-  <p class="note" style="margin-top:4px">Kardeş siteler: <a href="https://viski-atlas.pages.dev" target="_blank" rel="noopener">🥃 Viski Atlası</a> · <a href="https://bira-atlas.pages.dev" target="_blank" rel="noopener">🍺 Bira Atlası</a> · <a href="https://sarap-atlas.pages.dev" target="_blank" rel="noopener">🍷 Şarap Atlası</a> — aynı mantıkla, başka kadehler. Alkolü ölçülü tüketin; içtiyseniz araç kullanmayın.</p>
+  <p class="note" style="margin-top:4px">Kardeş siteler: <a href="https://viski.tadimatlasi.com" target="_blank" rel="noopener">🥃 Viski Atlası</a> · <a href="https://bira.tadimatlasi.com" target="_blank" rel="noopener">🍺 Bira Atlası</a> · <a href="https://sarap.tadimatlasi.com" target="_blank" rel="noopener">🍷 Şarap Atlası</a> — aynı mantıkla, başka kadehler. Alkolü ölçülü tüketin; içtiyseniz araç kullanmayın.</p>
 </div>
 
 <script>
@@ -1935,7 +1975,7 @@ function makeShareCard(){
   x.textAlign='left';x.fillStyle='#cfe9f0';x.font='800 34px system-ui,Arial';x.fillText('★ En sevdiğim 5',70,800);
   top.forEach((b,i)=>{const y=855+i*68;x.fillStyle='#15202a';x.fillRect(70,y-38,W-140,56);x.fillStyle='#9fd3e0';x.font='800 30px system-ui,Arial';x.fillText(String(((state.notes[b.id]||{}).p)||b.puan||'—'),92,y);
     x.fillStyle='#eef4f6';x.font='600 28px system-ui,Arial';let n=b.ad;while(x.measureText(n).width>760&&n.length>4)n=n.slice(0,-2);if(n!==b.ad)n+='…';x.fillText(n,175,y);});
-  x.textAlign='center';x.fillStyle='#7f95a1';x.font='600 24px system-ui,Arial';x.fillText('raki-atlas.pages.dev  ·  '+new Date().toLocaleDateString('tr-TR'),W/2,H-60);
+  x.textAlign='center';x.fillStyle='#7f95a1';x.font='600 24px system-ui,Arial';x.fillText('raki.tadimatlasi.com  ·  '+new Date().toLocaleDateString('tr-TR'),W/2,H-60);
   c.toBlob(bl=>{const u=URL.createObjectURL(bl);const a=document.createElement('a');a.href=u;a.download='raki-pasaportum.png';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),2000);},'image/png');
   olay('pasaport-karti');
 }
@@ -2820,7 +2860,7 @@ if('serviceWorker' in navigator){window.addEventListener('load',()=>{navigator.s
 <script>/* korOzetJS: Kör Tadım Şovu + Yılın Özeti */
 // Siteye özel uyarlayıcı (Rakı Atlası)
 const KS={
-  on:'raki_',site:'Rakı Atlası',url:'raki-atlas.pages.dev',emoji:'🥛',birim:'rakı',Birim:'Rakı',haveAd:'Denedim',denedin:'denedin',
+  on:'raki_',site:'Rakı Atlası',url:'raki.tadimatlasi.com',emoji:'🥛',birim:'rakı',Birim:'Rakı',haveAd:'Denedim',denedin:'denedin',
   ana:'view-explore',kesfet:'explore',bolgeAd:'üretim yeri',
   renk:['#14303b','#0b1418','#cfe9f0','#eef4f6','#8fbccb'],
   notlar:AROMA,
