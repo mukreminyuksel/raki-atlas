@@ -1,5 +1,5 @@
 // Rakı Atlası — Service Worker (çevrimdışı destek)
-const CACHE = 'raki-atlas-v10';
+const CACHE = 'raki-atlas-v11';
 const ASSETS = [
   './',
   './index.html',

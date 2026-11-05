@@ -1982,7 +1982,7 @@ function makeShareCard(){
 
 /* ===== OLAYLAR ve GEZİNME ===== */
 // Ziyaret istatistiği: sayaç betiği eklenmediyse sessizce hiçbir şey yapmaz
-function olay(ad){try{if(window.goatcounter&&window.goatcounter.count)window.goatcounter.count({path:'olay/'+ad,title:ad,event:true});}catch(e){}}
+function olay(ad){try{if(window.goatcounter&&window.goatcounter.count)window.goatcounter.count({path:'raki/olay/'+ad,title:'raki: '+ad,event:true});}catch(e){}}
 function toggle(act,id){
   olay(act==='have'?(state.have.includes(id)?'liste-cikar':'liste-ekle'):'hedef');
   if(act==='have'){const i=state.have.indexOf(id);if(i>=0){state.have.splice(i,1);delete state.qty[id];}else{state.have.push(id);state.qty[id]=1;const t=state.target.indexOf(id);if(t>=0)state.target.splice(t,1);}}
@@ -3352,7 +3352,8 @@ RENDER.kor=renderKor;RENDER.ozet=renderOzet;
 ozetSerit();
 korHash();
 /* /korOzetJS */</script>
-<script data-goatcounter="https://raki-atlas.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script>/* Ziyaret sayacı: hesapta açık olan viski-atlas sayacına 'raki/' önekiyle sayılır */window.goatcounter={path:function(p){return 'raki'+p;}};</script>
+<script data-goatcounter="https://viski-atlas.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <script>window.RAF={birim:'rakı',birimi:'rakıyı',ornek:'Yeni Rakı Ala',have:'Denedim',target:'Deneyeceğim'};</script>
 <script src="raf.js" defer></script>
 </body>
