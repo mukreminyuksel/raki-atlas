@@ -1,14 +1,14 @@
 {
- "guncelleme": "2026-10-10",
+ "guncelleme": "2026-11-08",
  "kur": null,
  "fiyatlar": {
   "altinbas": {
    "tl": 2125,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -31,12 +31,12 @@
    ]
   },
   "beylerbeyi-gobek": {
-   "tl": 1695,
-   "tarih": "2026-10-10",
+   "tl": 2100,
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
-   "not": "Eylül 2026 zam listesi",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "1 Ekim 2026 Beylerbeyi tavsiye fiyat listesi (zam öncesi 1.695 TL), 5 Kasım 2026 kontrolü",
    "gecmis": [
     [
      "2026-10-04",
@@ -45,16 +45,20 @@
     [
      "2026-10-10",
      1695
+    ],
+    [
+     "2026-11-08",
+     2100
     ]
    ]
   },
   "beylerbeyi-incirden": {
    "tl": 2300,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -64,11 +68,11 @@
   },
   "beylerbeyi-margaz": {
    "tl": 2300,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -78,11 +82,11 @@
   },
   "beylerbeyi-mavi": {
    "tl": 1525,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -92,11 +96,11 @@
   },
   "beylerbeyi-rezerv-kalecik-karasi": {
    "tl": 2300,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -105,12 +109,12 @@
    ]
   },
   "beylerbeyi-teragold": {
-   "tl": 1450,
-   "tarih": "2026-10-10",
+   "tl": 1770,
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
-   "not": "Eylül 2026 zam listesi",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "1 Ekim 2026 Beylerbeyi tavsiye fiyat listesi (zam öncesi 1.450 TL), 5 Kasım 2026 kontrolü",
    "gecmis": [
     [
      "2026-10-04",
@@ -119,16 +123,20 @@
     [
      "2026-10-10",
      1450
+    ],
+    [
+     "2026-11-08",
+     1770
     ]
    ]
   },
   "beyoglu-raki": {
    "tl": 1200,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -138,11 +146,11 @@
   },
   "efe-3-distile": {
    "tl": 2350,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -152,11 +160,11 @@
   },
   "efe-5-yillik": {
    "tl": 4950,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -165,12 +173,12 @@
    ]
   },
   "efe-gobek": {
-   "tl": 1995,
-   "tarih": "2026-10-10",
+   "tl": 1750,
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
-   "not": "Eylül 2026 zam listesi",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Karekod 5 Kasım 2026 kontrolü ve Efe sayfası (Eylül 2026) 1.750 TL; habergazetesi 1.950-1.995 TL diyor, kaynaklar çelişkili",
    "gecmis": [
     [
      "2026-10-04",
@@ -179,16 +187,20 @@
     [
      "2026-10-10",
      1995
+    ],
+    [
+     "2026-11-08",
+     1750
     ]
    ]
   },
   "efe-gold": {
    "tl": 1770,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -198,11 +210,11 @@
   },
   "efe-klasik": {
    "tl": 1195,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -212,11 +224,11 @@
   },
   "efe-oak-barrel": {
    "tl": 3250,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -226,11 +238,11 @@
   },
   "efe-tek-imbik": {
    "tl": 1445,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -239,26 +251,30 @@
    ]
   },
   "efe-yas-uzum": {
-   "tl": 1309,
-   "tarih": "2026-10-04",
+   "tl": 1310,
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
      1309
+    ],
+    [
+     "2026-11-08",
+     1310
     ]
    ]
   },
   "izmir-rakisi": {
    "tl": 1145,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -268,11 +284,11 @@
   },
   "izmir-rakisi-yas-uzum": {
    "tl": 1200,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -282,11 +298,11 @@
   },
   "kulup-raki": {
    "tl": 1800,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -296,11 +312,11 @@
   },
   "kulup-raki-deluks": {
    "tl": 1785,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -310,11 +326,11 @@
   },
   "prototip-lot-0004": {
    "tl": 2250,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
-   "guven": "orta",
+   "guven": "dusuk",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Listede lot belirtilmeden 'Protatip Rakı' 70 cl, 5 Kasım 2026 kontrolü",
    "gecmis": [
     [
      "2026-10-04",
@@ -324,11 +340,11 @@
   },
   "saki-de-lux": {
    "tl": 1950,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -338,11 +354,11 @@
   },
   "saki-gold-gobek": {
    "tl": 1495,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -352,11 +368,11 @@
   },
   "saki-klasik-gobek": {
    "tl": 1150,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -366,11 +382,11 @@
   },
   "saki-mor-uzum-18": {
    "tl": 1695,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -380,11 +396,11 @@
   },
   "saki-premium-100": {
    "tl": 6950,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -394,11 +410,11 @@
   },
   "saki-premium-50": {
    "tl": 5950,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -408,11 +424,11 @@
   },
   "saki-uludag-seri": {
    "tl": 5950,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
-   "guven": "orta",
+   "guven": "dusuk",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Listede 'Saki Rakı Ustağ Seri' 70 cl olarak yazılmış (büyük olasılıkla Uludağ Seri), 5 Kasım 2026 kontrolü",
    "gecmis": [
     [
      "2026-10-04",
@@ -422,11 +438,11 @@
   },
   "sari-zeybek-3-mese": {
    "tl": 2475,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -436,11 +452,11 @@
   },
   "sari-zeybek-original": {
    "tl": 1975,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -450,11 +466,11 @@
   },
   "sari-zeybek-yas-uzum": {
    "tl": 2225,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -464,11 +480,11 @@
   },
   "tekirdag-altin-seri": {
    "tl": 1770,
-   "tarih": "2026-10-10",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
-   "not": "Eylül 2026 zam listesi",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -478,11 +494,11 @@
   },
   "tekirdag-altin-seri-rezerv": {
    "tl": 2025,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -492,11 +508,11 @@
   },
   "tekirdag-gobek": {
    "tl": 1895,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -506,11 +522,11 @@
   },
   "tekirdag-no-10": {
    "tl": 2245,
-   "tarih": "2026-10-10",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
-   "not": "Eylül 2026 zam listesi",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -520,11 +536,11 @@
   },
   "tekirdag-rakisi": {
    "tl": 1475,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -534,11 +550,11 @@
   },
   "vefa-rakisi-gobek": {
    "tl": 1075,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -548,11 +564,11 @@
   },
   "yeni-raki": {
    "tl": 1375,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -562,11 +578,11 @@
   },
   "yeni-raki-ala": {
    "tl": 1975,
-   "tarih": "2026-10-10",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
-   "not": "Eylül 2026 zam listesi",
+   "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -576,11 +592,11 @@
   },
   "yeni-raki-rezerv": {
    "tl": 2600,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -590,11 +606,11 @@
   },
   "yeni-raki-ustalarin-karisimi": {
    "tl": 1425,
-   "tarih": "2026-10-10",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
-   "not": "Eylül 2026 zam listesi",
+   "kaynak": "https://www.habergazetesi.com.tr/migros-raki-fiyatlari",
+   "not": "Habergazetesi Migros rakı listesi, son güncelleme 12 Ekim 2026, 70 cl",
    "gecmis": [
     [
      "2026-10-10",
@@ -604,11 +620,11 @@
   },
   "yeni-raki-uzun-demleme": {
    "tl": 1450,
-   "tarih": "2026-10-10",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
-   "kaynak": "https://www.habergazetesi.com.tr/raki-fiyatlari",
-   "not": "Eylül 2026 zam listesi (güncelleme 07.09.2026)",
+   "kaynak": "https://www.habergazetesi.com.tr/migros-raki-fiyatlari",
+   "not": "Habergazetesi Migros rakı listesi, son güncelleme 12 Ekim 2026, 70 cl",
    "gecmis": [
     [
      "2026-10-10",
@@ -618,11 +634,11 @@
   },
   "yeni-raki-yeni-seri": {
    "tl": 1525,
-   "tarih": "2026-10-04",
+   "tarih": "2026-11-08",
    "tur": "tr_liste",
    "guven": "orta",
    "kaynak": "https://www.karekod.org/blog/raki-fiyatlari/",
-   "not": "Ekim 2026 Türkiye perakende, 70 cl",
+   "not": "Karekod listesi, 5 Kasım 2026 kontrolü, 70 cl",
    "gecmis": [
     [
      "2026-10-04",
@@ -632,65 +648,100 @@
   }
  },
  "denendi": {
-  "altinbas-24-ayar": "2026-10-10",
+  "altinbas": "2026-11-08",
+  "altinbas-24-ayar": "2026-11-08",
   "anadolu-sifir-seri": "2026-10-10",
+  "anadolu-sifir-seri-ahenk": "2026-11-08",
   "anadolu-sifir-seri-gold": "2026-10-10",
   "asina": "2026-10-10",
   "asina-gold": "2026-10-10",
   "ata-raki-gold": "2026-10-10",
   "barbayanni-ouzo": "2026-10-10",
-  "beylerbeyi-gobek": "2026-10-10",
-  "beylerbeyi-isabella": "2026-10-10",
-  "beylerbeyi-rezerv-razaki": "2026-10-10",
-  "beylerbeyi-teragold": "2026-10-10",
+  "beylerbeyi-gobek": "2026-11-08",
+  "beylerbeyi-incirden": "2026-11-08",
+  "beylerbeyi-isabella": "2026-11-08",
+  "beylerbeyi-margaz": "2026-11-08",
+  "beylerbeyi-mavi": "2026-11-08",
+  "beylerbeyi-rezerv-kalecik-karasi": "2026-11-08",
+  "beylerbeyi-rezerv-razaki": "2026-11-08",
+  "beylerbeyi-teragold": "2026-11-08",
+  "beyoglu-raki": "2026-11-08",
   "burgaz-export": "2026-10-10",
-  "burgaz-gobek": "2026-10-10",
+  "burgaz-gobek": "2026-11-08",
   "burgaz-yas-uzum": "2026-10-10",
   "cihanbeyi": "2026-10-10",
   "cilingir": "2026-10-10",
-  "efe-geleneksel": "2026-10-10",
-  "efe-gobek": "2026-10-10",
+  "efe-3-distile": "2026-11-08",
+  "efe-5-yillik": "2026-11-08",
+  "efe-geleneksel": "2026-11-08",
+  "efe-gobek": "2026-11-08",
+  "efe-gold": "2026-11-08",
+  "efe-klasik": "2026-11-08",
+  "efe-oak-barrel": "2026-11-08",
+  "efe-tek-imbik": "2026-11-08",
+  "efe-yas-uzum": "2026-11-08",
   "fasil-raki": "2026-10-10",
   "herdem-izmir-sakizli": "2026-10-10",
+  "izmir-rakisi": "2026-11-08",
   "izmir-rakisi-gobek": "2026-10-10",
+  "izmir-rakisi-yas-uzum": "2026-11-08",
   "izmir-sakiz-rakisi": "2026-10-10",
-  "lokal-derya-kuzusu-5-distile": "2026-10-10",
-  "lokal-derya-kuzusu-gobek": "2026-10-10",
+  "kulup-raki": "2026-11-08",
+  "kulup-raki-deluks": "2026-11-08",
+  "lokal-derya-kuzusu-5-distile": "2026-11-08",
+  "lokal-derya-kuzusu-gobek": "2026-11-08",
   "lokal-derya-kuzusu-olgunlasmis-hasat": "2026-10-10",
-  "mercan-gobek": "2026-10-10",
+  "mercan-gobek": "2026-11-08",
   "mest-misket": "2026-10-10",
   "mest-sultaniye": "2026-10-10",
-  "mtallat-arak": "2026-10-10",
+  "mtallat-arak": "2026-11-08",
   "otto-raki": "2026-10-10",
   "ouzo-12": "2026-10-10",
   "plomari-ouzo": "2026-10-10",
   "prototip-lot-0001": "2026-10-10",
   "prototip-lot-0002": "2026-10-10",
   "prototip-lot-0003": "2026-10-10",
-  "prototip-lot-5-cuprum": "2026-10-10",
+  "prototip-lot-0004": "2026-11-08",
+  "prototip-lot-5-cuprum": "2026-11-08",
   "raki-turka": "2026-10-10",
-  "ricard-pastis": "2026-10-10",
+  "ricard-pastis": "2026-11-08",
+  "saki-de-lux": "2026-11-08",
+  "saki-gold-gobek": "2026-11-08",
   "saki-gurme": "2026-10-10",
+  "saki-klasik-gobek": "2026-11-08",
+  "saki-mor-uzum-18": "2026-11-08",
+  "saki-premium-100": "2026-11-08",
+  "saki-premium-50": "2026-11-08",
   "saki-siyah-uzum-ozel-seri": "2026-10-10",
-  "sari-zeybek-yas-uzum": "2026-10-10",
+  "saki-uludag-seri": "2026-11-08",
+  "sari-zeybek-3-mese": "2026-11-08",
+  "sari-zeybek-original": "2026-11-08",
+  "sari-zeybek-yas-uzum": "2026-11-08",
   "tayfa-raki": "2026-10-10",
-  "tekirdag-altin-seri": "2026-10-10",
-  "tekirdag-gobek": "2026-10-10",
+  "tekirdag-altin-seri": "2026-11-08",
+  "tekirdag-altin-seri-rezerv": "2026-11-08",
+  "tekirdag-gobek": "2026-11-08",
   "tekirdag-kavrulmus-anason": "2026-10-10",
-  "tekirdag-no-10": "2026-10-10",
-  "tekirdag-sultaniye": "2026-10-10",
+  "tekirdag-no-10": "2026-11-08",
+  "tekirdag-rakisi": "2026-11-08",
+  "tekirdag-sultaniye": "2026-11-08",
   "tekirdag-trakya-serisi": "2026-10-10",
+  "vefa-rakisi-gobek": "2026-11-08",
   "yedi-raki": "2026-10-10",
   "yekta-raki": "2026-10-10",
-  "yeni-raki-ala": "2026-10-10",
-  "yeni-raki-era": "2026-10-10",
+  "yeni-raki": "2026-11-08",
+  "yeni-raki-ala": "2026-11-08",
+  "yeni-raki-era": "2026-11-08",
+  "yeni-raki-farbenfreude": "2026-11-08",
   "yeni-raki-ferzan": "2026-10-10",
-  "yeni-raki-giz": "2026-10-10",
+  "yeni-raki-giz": "2026-11-08",
   "yeni-raki-muzeyyen": "2026-10-10",
-  "yeni-raki-pus": "2026-10-10",
+  "yeni-raki-pus": "2026-11-08",
+  "yeni-raki-rezerv": "2026-11-08",
   "yeni-raki-taste-of-turkey": "2026-10-10",
-  "yeni-raki-ustalarin-karisimi": "2026-10-10",
-  "yeni-raki-uzun-demleme": "2026-10-10",
+  "yeni-raki-ustalarin-karisimi": "2026-11-08",
+  "yeni-raki-uzun-demleme": "2026-11-08",
+  "yeni-raki-yeni-seri": "2026-11-08",
   "yeniceri-altin-seri": "2026-10-10"
  },
  "inceleme": []
